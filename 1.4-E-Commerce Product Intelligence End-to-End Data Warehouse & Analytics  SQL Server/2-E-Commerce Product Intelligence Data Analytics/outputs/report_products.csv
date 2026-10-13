@@ -1,0 +1,1001 @@
+product_key,product_name,category,subcategory,brand,list_price,price_band,product_segment,first_sale_date,last_sale_date,recency_in_months,lifespan,total_orders,total_sales,total_quantity,total_customers,avg_selling_price,avg_order_revenue,avg_monthly_revenue,total_views,total_add_to_cart,view_to_cart_rate,cart_to_order_rate,total_reviews,avg_review_rating
+506,Apple Book4 Ultrabook,Electronics,Laptops,Apple,259.07,Luxury,High-Performer,2023-03-10,2026-05-23,0,38,28,7202.930000000001,28,28,257.25,257.25,189.55,746,164,0.2198,0.1707,19,3.95
+419,Apple Accessorie Stand,Electronics,Accessories,Apple,70.02,Mid-Range,High-Performer,2023-03-24,2026-05-19,0,38,84,6140.920000000004,88,79,69.72,73.11,161.6,3329,830,0.2493,0.1012,49,4.06
+875,Wilson Book19 Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,107.09,Premium,High-Performer,2023-03-19,2026-05-30,0,38,41,5883.080000000001,55,39,106.92,143.49,154.82,1599,398,0.2489,0.1030,21,4.29
+769,Instant Pot Microfiber Kitchenware,Home & Kitchen,Kitchenware,Instant Pot,94.87,Premium,High-Performer,2023-05-14,2026-05-15,0,36,41,5218.45,55,40,94.82,127.28,144.96,1629,404,0.2480,0.1015,28,4.25
+882,Wilson Fitness Equipment Pro,Sports & Outdoors,Fitness Equipment,Wilson,49.13,Mid-Range,High-Performer,2023-04-04,2026-05-28,0,37,55,3471.8499999999995,71,53,48.94,63.12,93.83,1264,300,0.2373,0.1833,37,3.92
+21,Castrol Prime7 Electronic,Automotive,Electronics,Castrol,120.75,Premium,High-Performer,2023-05-26,2026-04-06,1,35,19,2791.9900000000007,23,19,121.4,146.95,79.77,692,180,0.2601,0.1056,9,4.78
+379,Tommy Hilfiger Womenswear Dress,Clothing & Accessories,Womenswear,Tommy Hilfiger,56.68,Mid-Range,High-Performer,2023-05-15,2026-05-21,0,36,37,2503.330000000001,44,35,56.94,67.66,69.54,1461,359,0.2457,0.1031,16,3.75
+663,Cuisinart Smart Appliance,Home & Kitchen,Appliances,Cuisinart,44.48,Mid-Range,High-Performer,2023-03-21,2026-04-18,1,37,41,2363.4200000000005,53,41,44.57,57.64,63.88,1061,262,0.2469,0.1565,27,4.22
+417,Apple Accessorie Stand,Electronics,Accessories,Apple,286.89,Luxury,High-Performer,2023-08-21,2025-11-20,6,27,6,2318.4799999999996,8,6,287.55,386.41,85.87,87,27,0.3103,0.2222,5,3.8
+397,Nike Womenswear in Olive,Clothing & Accessories,Womenswear,Nike,64.5,Mid-Range,High-Performer,2023-05-06,2026-05-31,0,36,27,2170.9000000000005,34,27,63.99,80.40,60.3,680,157,0.2309,0.1720,16,4.25
+513,Apple Ultra Prime3,Electronics,Smartphones,Apple,530.27,Luxury,High-Performer,2025-01-01,2026-02-13,3,13,4,2146.77,4,4,536.69,536.69,165.14,121,28,0.2314,0.1429,3,3.33
+534,Samsung Pixel1 Smartphone,Electronics,Smartphones,Samsung,328.03,Luxury,High-Performer,2023-06-30,2025-11-11,6,29,5,1995.0300000000002,6,5,333.78,399.01,68.79,123,27,0.2195,0.1852,3,4.0
+39,Michelin Tools & Equipment Kit,Automotive,Tools & Equipment,Michelin,121.84,Premium,High-Performer,2023-04-07,2025-11-15,6,31,13,1977.1100000000001,16,13,123.09,152.09,63.78,419,117,0.2792,0.1111,11,3.45
+817,Post-it Premium Stationery Set,Office Products,Stationery,Post-it,45.91,Mid-Range,High-Performer,2023-02-25,2026-05-20,0,39,34,1926.2,42,33,45.8,56.65,49.39,1330,298,0.2241,0.1141,26,4.08
+688,KitchenAid Comfort Bedding,Home & Kitchen,Bedding,KitchenAid,315.52,Luxury,High-Performer,2023-10-23,2025-04-19,13,18,3,1921.95,6,3,316.22,640.65,106.78,48,13,0.2708,0.2308,3,4.67
+50,Neutrogena Bath & Body Lotion,Beauty & Personal Care,Bath & Body,Neutrogena,33.8,Mid-Range,High-Performer,2023-02-22,2026-05-10,0,39,37,1818.69,54,36,33.75,49.15,46.63,1073,259,0.2414,0.1429,22,4.27
+593,Samsung X9 Fitness Tracker,Electronics,Wearables,Samsung,258.43,Luxury,High-Performer,2024-01-27,2026-05-22,0,28,6,1803.1300000000003,7,6,258.35,300.52,64.4,203,39,0.1921,0.1538,4,4.75
+836,Timberland Camping Gear Kit,Sports & Outdoors,Camping Gear,Timberland,69.2,Mid-Range,High-Performer,2023-02-04,2026-01-12,4,35,19,1795.58,26,19,69.07,94.50,51.3,313,70,0.2236,0.2714,14,4.29
+143,Legends - Volume 10,Books,Comics,Penguin Books,43.94,Mid-Range,High-Performer,2023-09-04,2026-05-04,0,32,27,1708.8300000000002,39,27,43.75,63.29,53.4,807,200,0.2478,0.1350,17,4.29
+240,The Data Structures: A Comprehensive Guide,Books,Non-Fiction,Simon & Schuster,19.97,Budget,High-Performer,2023-04-25,2026-05-31,0,37,43,1669.2,84,43,19.93,38.82,45.11,1954,467,0.2390,0.0921,28,3.93
+318,Adidas Sterling Silver Jewelry,Clothing & Accessories,Jewelry,Adidas,27.22,Mid-Range,High-Performer,2023-04-19,2026-05-31,0,37,40,1524.1099999999997,56,39,27.11,38.10,41.19,989,223,0.2255,0.1794,23,3.87
+29,Bosch Tools & Equipment Set,Automotive,Tools & Equipment,Bosch,78.06,Premium,High-Performer,2023-01-19,2026-03-08,2,38,15,1398.94,18,15,77.8,93.26,36.81,225,43,0.1911,0.3488,8,3.75
+2,Michelin Heavy-Duty Car Accessorie,Automotive,Car Accessories,Michelin,40.15,Mid-Range,High-Performer,2023-02-18,2026-05-22,0,39,29,1325.8899999999999,33,27,40.21,45.72,34.0,1309,298,0.2277,0.0973,15,4.67
+795,Staples Ergonomic Office Furniture,Office Products,Office Furniture,Staples,76.31,Premium,High-Performer,2023-09-10,2026-05-07,0,32,10,1221.71,16,10,76.4,122.17,38.18,155,48,0.3097,0.2083,4,4.25
+988,LEGO Garden 1000 Piece Puzzle,Toys & Games,Puzzles,LEGO,62.21,Mid-Range,High-Performer,2023-02-18,2026-05-19,0,39,18,1202.3999999999999,19,18,63.28,66.80,30.83,374,116,0.3102,0.1552,11,4.45
+463,Apple Classic Over-Ear Headphones,Electronics,Headphones,Apple,157.6,Premium,High-Performer,2023-03-10,2026-01-23,4,34,7,1105.19,7,7,157.88,157.88,32.51,111,31,0.2793,0.2258,3,5.0
+220,The portable Guide to Psychology,Books,Non-Fiction,Penguin Books,47.12,Mid-Range,High-Performer,2023-05-04,2026-04-11,1,35,13,1088.3000000000002,23,13,47.2,83.72,31.09,454,100,0.2203,0.1300,9,4.89
+636,General Mills Organic Snack,Grocery & Gourmet,Snacks,General Mills,18.44,Budget,High-Performer,2023-03-03,2026-04-27,1,37,28,1087.8200000000002,59,27,18.43,38.85,29.4,1022,241,0.2358,0.1162,16,3.69
+14,NOCO Car Care Kit,Automotive,Car Care,NOCO,176.55,Premium,High-Performer,2023-05-01,2024-07-03,22,14,3,1079.21,6,3,176.5,359.74,77.09,103,33,0.3204,0.0909,1,4.0
+542,Apple Z19 Smartphone,Electronics,Smartphones,Apple,208.83,Luxury,High-Performer,2024-06-17,2026-05-17,0,23,4,1059.0900000000001,5,4,211.47,264.77,46.05,56,11,0.1964,0.3636,3,4.0
+748,Pyrex Premium Kitchenware,Home & Kitchen,Kitchenware,Pyrex,54.98,Mid-Range,High-Performer,2023-02-23,2026-01-20,4,35,11,829.02,15,11,55.45,75.37,23.69,196,52,0.2653,0.2115,6,4.33
+262,Nike Classic Accessorie,Clothing & Accessories,Accessories,Nike,24.95,Mid-Range,High-Performer,2023-06-14,2026-05-26,0,35,23,815.74,33,23,24.75,35.47,23.31,642,127,0.1978,0.1811,15,4.2
+473,Apple Ultra Over-Ear Headphones,Electronics,Headphones,Apple,259.52,Luxury,High-Performer,2023-10-17,2024-12-30,17,14,3,777.18,3,3,259.06,259.06,55.51,129,19,0.1473,0.1579,1,5.0
+373,Nike Premium Menswear,Clothing & Accessories,Menswear,Nike,36.5,Mid-Range,High-Performer,2024-02-03,2026-03-18,2,25,12,745.3200000000002,20,12,36.88,62.11,29.81,365,78,0.2137,0.1538,10,4.1
+918,Coleman Team Sport Set,Sports & Outdoors,Team Sports,Coleman,119.06,Premium,High-Performer,2023-10-14,2025-03-14,14,17,5,711.5799999999999,6,5,117.6,142.32,41.86,189,49,0.2593,0.1020,3,3.33
+203,Sophisticated of fate,Books,Fiction,Hachette,37.59,Mid-Range,High-Performer,2023-02-13,2025-08-01,9,30,12,705.9999999999999,19,12,37.35,58.83,23.53,155,41,0.2645,0.2927,7,3.71
+511,Apple Air11 Ultrabook,Electronics,Laptops,Apple,342.47,Luxury,High-Performer,2023-06-30,2026-02-09,3,32,2,699.53,2,2,349.76,349.77,21.86,41,11,0.2683,0.1818,1,5.0
+436,Samsung Pro Mirrorless Camera,Electronics,Cameras,Samsung,338.3,Luxury,High-Performer,2024-02-14,2024-08-21,21,6,2,688.0699999999999,2,2,344.03,344.04,114.68,81,21,0.2593,0.0952,1,5.0
+365,Adidas Menswear in Cobalt,Clothing & Accessories,Menswear,Adidas,49.26,Mid-Range,High-Performer,2023-03-24,2026-05-10,0,38,10,686.34,14,10,49.03,68.63,18.06,140,30,0.2143,0.3333,8,4.0
+64,L'Oreal Bloom Cologne,Beauty & Personal Care,Fragrance,L'Oreal,42.49,Mid-Range,High-Performer,2023-12-26,2026-04-24,1,28,13,685.13,16,13,42.64,52.70,24.47,223,66,0.2960,0.1970,7,4.57
+461,Lenovo Pro Noise-Canceling Headphones,Electronics,Headphones,Lenovo,106.84,Premium,High-Performer,2024-03-15,2026-01-17,4,22,6,641.84,6,6,106.97,106.97,29.17,261,57,0.2184,0.1053,4,4.0
+731,Cuisinart Modern Home Decor,Home & Kitchen,Home Decor,Cuisinart,34.48,Mid-Range,High-Performer,2023-03-28,2026-04-22,1,37,14,622.35,18,14,34.54,44.45,16.82,396,94,0.2374,0.1489,9,3.89
+75,L'Oreal Haircare Shampoo,Beauty & Personal Care,Haircare,L'Oreal,46.86,Mid-Range,High-Performer,2023-05-08,2025-08-06,9,27,9,620.0600000000001,13,9,47.25,68.90,22.97,186,43,0.2312,0.2093,5,4.0
+860,Spalding Cycling Pro,Sports & Outdoors,Cycling,Spalding,41.04,Mid-Range,High-Performer,2023-05-24,2026-03-02,2,34,10,618.52,15,10,40.98,61.85,18.19,228,63,0.2763,0.1587,6,3.5
+448,OnePlus Prime19 DSLR,Electronics,Cameras,OnePlus,207.18,Luxury,High-Performer,2024-07-17,2026-02-02,3,19,3,608.5,3,3,202.83,202.83,32.03,32,7,0.2188,0.4286,2,3.5
+375,Adidas Classic Fit Menswear,Clothing & Accessories,Menswear,Adidas,66.81,Mid-Range,High-Performer,2023-09-05,2026-04-06,1,31,8,604.51,9,8,67.03,75.56,19.5,170,44,0.2588,0.1818,7,4.0
+587,Philips Elite Sport Watch,Electronics,Wearables,Philips,289.02,Luxury,High-Performer,2023-12-16,2025-01-15,16,13,2,586.24,2,2,293.12,293.12,45.1,7,5,0.7143,0.4000,0,
+751,Instant Pot Professional Kitchenware,Home & Kitchen,Kitchenware,Instant Pot,28.2,Mid-Range,High-Performer,2023-05-25,2026-04-10,1,35,18,565.41,20,17,28.35,31.41,16.15,450,97,0.2156,0.1856,10,4.6
+519,Apple Series1 Pro 5G,Electronics,Smartphones,Apple,279.68,Luxury,High-Performer,2024-12-30,2025-10-15,7,10,2,560.8699999999999,2,2,280.43,280.43,56.09,9,7,0.7778,0.2857,1,5.0
+568,Samsung Pro19 Pro Tablet,Electronics,Tablets,Samsung,275.42,Luxury,High-Performer,2025-03-03,2025-12-06,5,9,2,543.76,2,2,271.88,271.88,60.42,40,10,0.2500,0.2000,1,5.0
+801,Post-it Compact Office Furniture,Office Products,Office Furniture,Post-it,67.62,Mid-Range,High-Performer,2024-10-01,2026-04-09,1,18,7,543.1899999999999,8,7,68.42,77.60,30.18,199,46,0.2312,0.1522,7,4.0
+369,Adidas Menswear in Green,Clothing & Accessories,Menswear,Adidas,68.42,Mid-Range,High-Performer,2024-02-10,2026-04-13,1,26,3,542.03,8,3,67.8,180.68,20.85,96,19,0.1979,0.1579,1,4.0
+533,Apple Series8 Smartphone,Electronics,Smartphones,Apple,263.98,Luxury,High-Performer,2024-10-02,2025-03-11,14,5,2,532.74,2,2,266.37,266.37,106.55,16,6,0.3750,0.3333,2,4.5
+654,Pyrex Smart Appliance,Home & Kitchen,Appliances,Pyrex,23.87,Mid-Range,High-Performer,2023-03-23,2026-04-19,1,37,19,502.94000000000005,21,19,24.0,26.47,13.59,597,134,0.2245,0.1418,11,4.27
+492,Dell Pixel14 Ultrabook,Electronics,Laptops,Dell,161.15,Premium,High-Performer,2025-04-18,2025-11-05,6,7,3,500.56000000000006,3,3,166.85,166.85,71.51,73,18,0.2466,0.1667,3,3.67
+843,Wilson Camping Gear Kit,Sports & Outdoors,Camping Gear,Wilson,62.65,Mid-Range,Mid-Range,2023-03-24,2025-11-19,6,32,6,495.22,8,6,61.79,82.54,15.48,139,25,0.1799,0.2400,6,4.33
+233,Professional Entrepreneurship: The Advanced Concepts Explained,Books,Non-Fiction,Penguin Books,19.46,Budget,Mid-Range,2023-10-30,2026-05-09,0,31,14,489.07000000000005,25,14,19.52,34.93,15.78,396,99,0.2500,0.1414,6,4.83
+55,Neutrogena Drift Perfume Spray,Beauty & Personal Care,Fragrance,Neutrogena,16.61,Budget,Mid-Range,2023-03-11,2026-04-28,1,37,22,481.5599999999999,29,22,16.61,21.89,13.02,475,111,0.2337,0.1982,13,3.85
+922,Coleman Team Sport Set,Sports & Outdoors,Team Sports,Coleman,93.44,Premium,Mid-Range,2024-04-18,2025-07-22,10,15,5,461.42,5,5,92.28,92.28,30.76,138,24,0.1739,0.2083,1,4.0
+839,Wilson Waterproof Camping Gear,Sports & Outdoors,Camping Gear,Wilson,75.93,Premium,Mid-Range,2023-03-19,2025-02-22,15,23,5,460.87,6,5,76.82,92.17,20.04,40,13,0.3250,0.3846,2,3.5
+508,Apple Classic Pro,Electronics,Laptops,Apple,228.54,Luxury,Mid-Range,2024-05-24,2025-10-14,7,17,2,460.08000000000004,2,2,230.04,230.04,27.06,11,9,0.8182,0.2222,1,5.0
+913,Spalding Team Sport Set,Sports & Outdoors,Team Sports,Spalding,146.01,Premium,Mid-Range,2023-03-31,2025-05-15,12,26,3,451.03,3,3,150.34,150.34,17.35,42,9,0.2143,0.3333,2,4.0
+628,Nestle Pantry Staple Multipack,Grocery & Gourmet,Pantry Staples,Nestle,7.74,Budget,Mid-Range,2023-04-06,2026-04-02,1,36,32,433.07999999999987,56,32,7.73,13.53,12.03,1045,246,0.2354,0.1301,22,4.09
+653,KitchenAid Smart Appliance,Home & Kitchen,Appliances,KitchenAid,107.67,Premium,Mid-Range,2023-12-10,2025-02-12,15,14,3,423.39,4,3,106.3,141.13,30.24,35,13,0.3714,0.2308,2,4.0
+500,Samsung Max9 Ultrabook,Electronics,Laptops,Samsung,102.11,Premium,Mid-Range,2024-12-20,2026-03-12,2,15,3,422.92999999999995,4,3,105.38,140.98,28.2,84,27,0.3214,0.1111,2,5.0
+832,Schwinn Waterproof Camping Gear,Sports & Outdoors,Camping Gear,Schwinn,42.17,Mid-Range,Mid-Range,2023-02-10,2025-07-17,10,29,6,415.48,10,6,42.27,69.25,14.33,70,21,0.3000,0.2857,4,5.0
+842,Wilson Ultralight Camping Gear,Sports & Outdoors,Camping Gear,Wilson,103.58,Premium,Mid-Range,2024-06-11,2024-11-07,18,5,2,414.75,4,2,104.33,207.38,82.95,82,16,0.1951,0.1250,0,
+266,Adidas Accessorie - Green,Clothing & Accessories,Accessories,Adidas,84.14,Premium,Mid-Range,2023-04-06,2025-09-17,8,29,4,411.21000000000004,5,4,82.5,102.80,14.18,24,8,0.3333,0.5000,2,4.5
+503,Apple Series17 Ultrabook,Electronics,Laptops,Apple,128.94,Premium,Mid-Range,2024-04-18,2025-08-07,9,16,3,396.38,3,3,132.13,132.13,24.77,20,9,0.4500,0.3333,1,3.0
+819,Staples Premium Stationery Set,Office Products,Stationery,Staples,33.3,Mid-Range,Mid-Range,2023-06-23,2025-10-13,7,28,8,395.85,12,8,33.06,49.48,14.14,176,30,0.1705,0.2667,2,2.5
+800,3M Adjustable Office Furniture,Office Products,Office Furniture,3M,43.52,Mid-Range,Mid-Range,2023-04-14,2026-04-21,1,36,7,395.43,9,7,44.1,56.49,10.98,98,20,0.2041,0.3500,3,4.33
+24,Goodyear Fluid SAE 5W-30,Automotive,Fluids,Goodyear,205.45,Luxury,Mid-Range,2026-02-02,2026-02-02,3,0,1,391.78,2,1,195.89,391.78,391.78,106,16,0.1509,0.0625,1,5.0
+883,Wilson Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,36.05,Mid-Range,Mid-Range,2023-08-24,2026-03-16,2,31,9,357.68,10,9,35.87,39.74,11.54,188,46,0.2447,0.1957,7,3.29
+757,Cuisinart Premium Kitchenware,Home & Kitchen,Kitchenware,Cuisinart,56.75,Mid-Range,Mid-Range,2024-08-05,2026-04-09,1,20,2,353.3,6,2,58.86,176.65,17.67,5,2,0.4000,1.0000,1,5.0
+350,Nike Classic Fit Menswear,Clothing & Accessories,Menswear,Nike,23.51,Mid-Range,Mid-Range,2024-01-10,2025-12-06,5,23,8,351.54,15,8,23.4,43.94,15.28,128,29,0.2266,0.2759,5,4.0
+565,"Dell Studio 15.6"" Display Tablet",Electronics,Tablets,Dell,171.31,Premium,Mid-Range,2024-09-24,2025-07-27,10,10,2,348.94,2,2,174.47,174.47,34.89,25,7,0.2800,0.2857,3,5.0
+729,Dyson Modern Home Decor,Home & Kitchen,Home Decor,Dyson,35.02,Mid-Range,Mid-Range,2024-11-29,2026-04-20,1,17,8,346.03999999999996,10,8,34.52,43.26,20.36,255,66,0.2588,0.1212,5,3.4
+799,Post-it Adjustable Office Furniture,Office Products,Office Furniture,Post-it,69.04,Mid-Range,Mid-Range,2023-06-01,2025-11-14,6,29,5,341.46999999999997,5,5,68.29,68.29,11.77,105,23,0.2190,0.2174,2,4.0
+486,Samsung Air Over-Ear Headphones,Electronics,Headphones,Samsung,176.98,Premium,Mid-Range,2024-11-30,2024-11-30,18,0,1,338.88,2,1,169.44,338.88,338.88,36,14,0.3889,0.0714,1,5.0
+912,Wilson Official Team Sport,Sports & Outdoors,Team Sports,Wilson,114.71,Premium,Mid-Range,2025-08-25,2025-08-25,9,0,1,338.76,3,1,112.92,338.76,338.76,26,3,0.1154,0.3333,0,
+996,The Superior Apex Remastered,Toys & Games,Video Games,LEGO,83.89,Premium,Mid-Range,2023-07-07,2026-03-30,2,32,4,335.97999999999996,4,4,83.99,83.99,10.5,39,14,0.3590,0.2857,1,5.0
+96,Neutrogena Liquid Makeup,Beauty & Personal Care,Makeup,Neutrogena,27.71,Mid-Range,Mid-Range,2024-05-08,2026-05-23,0,24,11,334.09,12,11,27.8,30.37,13.92,276,77,0.2790,0.1429,6,4.5
+336,Nike Casual Menswear,Clothing & Accessories,Menswear,Nike,53.69,Mid-Range,Mid-Range,2023-03-30,2025-08-31,9,29,3,332.18,6,3,55.18,110.73,11.45,50,11,0.2200,0.2727,2,4.5
+460,Sony Air1 Wireless Headphones,Electronics,Headphones,Sony,334.24,Luxury,Mid-Range,2025-06-24,2025-06-24,11,0,1,331.79,1,1,331.79,331.79,331.79,30,6,0.2000,0.1667,1,4.0
+462,Samsung Air12 In-Ear Monitors,Electronics,Headphones,Samsung,330.06,Luxury,Mid-Range,2025-10-18,2025-10-18,7,0,1,314.09,1,1,314.09,314.09,314.09,26,5,0.1923,0.2000,1,5.0
+477,Apple Studio Noise-Canceling Headphones,Electronics,Headphones,Apple,317.9,Luxury,Mid-Range,2025-03-03,2025-03-03,14,0,1,308.31,1,1,308.31,308.31,308.31,9,5,0.5556,0.2000,1,3.0
+715,Instant Pot Denim Furniture,Home & Kitchen,Furniture,Instant Pot,72.39,Mid-Range,Mid-Range,2024-08-29,2025-08-26,9,12,2,299.24,4,2,73.99,149.62,24.94,26,8,0.3077,0.2500,2,3.5
+980,Hasbro Sunset 3000 Piece Puzzle,Toys & Games,Puzzles,Hasbro,97.76,Premium,Mid-Range,2023-05-14,2024-04-05,25,11,2,290.79,3,2,96.09,145.40,26.44,60,17,0.2833,0.1176,1,4.0
+529,Logitech Studio Galaxy16,Electronics,Smartphones,Logitech,40.76,Mid-Range,Mid-Range,2023-06-28,2026-01-31,4,31,7,286.18,7,7,40.88,40.88,9.23,100,23,0.2300,0.3043,3,4.0
+410,Apple Accessorie Cable,Electronics,Accessories,Apple,92.89,Premium,Mid-Range,2024-11-08,2025-08-19,9,9,3,285.11,3,3,95.04,95.04,31.68,18,8,0.4444,0.3750,3,4.67
+576,Sony Air Sport Watch,Electronics,Wearables,Sony,281.49,Luxury,Mid-Range,2025-06-12,2025-06-12,11,0,1,281.19,1,1,281.19,281.19,281.19,2,2,1.0000,0.5000,1,5.0
+974,Nerf Midnight Science Experiment,Toys & Games,Educational Toys,Nerf,34.94,Mid-Range,Mid-Range,2024-08-31,2026-01-28,4,17,5,274.33000000000004,8,5,34.41,54.87,16.14,87,17,0.1954,0.2941,4,4.5
+528,Apple Essential Pro16,Electronics,Smartphones,Apple,267.19,Luxury,Mid-Range,2024-04-04,2024-04-04,25,0,1,273.34,1,1,273.34,273.34,273.34,23,7,0.3043,0.1429,0,
+467,Apple X2 In-Ear Monitors,Electronics,Headphones,Apple,259.89,Luxury,Mid-Range,2026-02-20,2026-02-20,3,0,1,270.7,1,1,270.7,270.70,270.7,42,10,0.2381,0.1000,1,5.0
+833,Wilson 88L Camping Gear,Sports & Outdoors,Camping Gear,Wilson,257.12,Luxury,Mid-Range,2024-11-02,2024-11-02,18,0,1,266.15,1,1,266.15,266.15,266.15,3,2,0.6667,0.5000,1,4.0
+391,Tommy Hilfiger Casual Womenswear,Clothing & Accessories,Womenswear,Tommy Hilfiger,29.24,Mid-Range,Mid-Range,2023-02-26,2026-05-28,0,39,7,260.81,9,7,29.25,37.26,6.69,179,47,0.2626,0.1489,7,3.86
+844,Wilson Ultralight Camping Gear,Sports & Outdoors,Camping Gear,Wilson,86.73,Premium,Mid-Range,2024-03-28,2024-08-19,21,5,2,259.15,3,2,86.09,129.57,51.83,15,3,0.2000,0.6667,2,4.0
+515,Samsung Prime Prime15,Electronics,Smartphones,Samsung,123.44,Premium,Mid-Range,2024-04-05,2025-08-04,9,16,2,254.31,2,2,127.15,127.16,15.89,76,19,0.2500,0.1053,2,3.5
+903,Wilson Premium Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,122.98,Premium,Mid-Range,2023-08-17,2024-12-20,17,16,2,242.9,2,2,121.45,121.45,15.18,16,6,0.3750,0.3333,4,4.0
+592,Apple Air Smartwatch,Electronics,Wearables,Apple,238.33,Luxury,Mid-Range,2024-09-27,2024-09-27,20,0,1,240.95,1,1,240.95,240.95,240.95,4,1,0.2500,1.0000,3,5.0
+507,Samsung Studio 5th Gen,Electronics,Laptops,Samsung,251.91,Luxury,Mid-Range,2025-12-26,2025-12-26,5,0,1,239.71,1,1,239.71,239.71,239.71,35,7,0.2000,0.1429,2,5.0
+261,Patagonia Accessorie Set,Clothing & Accessories,Accessories,Patagonia,18.49,Budget,Mid-Range,2023-06-19,2026-03-18,2,33,10,236.04999999999998,13,10,18.22,23.60,7.15,162,47,0.2901,0.2128,7,3.71
+550,Apple Galaxy Book4,Electronics,Smartphones,Apple,240.44,Luxury,Mid-Range,2024-01-15,2024-01-15,28,0,1,229.13,1,1,229.13,229.13,229.13,5,4,0.8000,0.2500,0,
+834,MSR Ultralight Camping Gear,Sports & Outdoors,Camping Gear,MSR,71.88,Mid-Range,Mid-Range,2023-04-04,2026-05-28,0,37,2,222.37,3,2,74.09,111.19,6.01,13,6,0.4615,0.3333,2,5.0
+426,Apple Accessorie Charger,Electronics,Accessories,Apple,225.99,Luxury,Mid-Range,2024-12-04,2024-12-04,17,0,1,222.11,1,1,222.11,222.11,222.11,100,20,0.2000,0.0500,1,2.0
+509,Samsung Pixel12 Ultrabook,Electronics,Laptops,Samsung,229.72,Luxury,Mid-Range,2025-12-14,2025-12-14,5,0,1,220.04,1,1,220.04,220.04,220.04,7,3,0.4286,0.3333,0,
+474,Samsung Studio Noise-Canceling Headphones,Electronics,Headphones,Samsung,212.43,Luxury,Mid-Range,2023-04-17,2023-04-17,37,0,1,219.51,1,1,219.51,219.51,219.51,1,1,1.0000,1.0000,1,5.0
+258,Nike Accessorie - Blue,Clothing & Accessories,Accessories,Nike,16.78,Budget,Mid-Range,2023-01-31,2025-12-15,5,35,10,218.01,13,10,16.82,21.80,6.23,274,59,0.2153,0.1695,8,3.5
+937,"LEGO Leo 15.6"" Figure",Toys & Games,Action Figures,LEGO,21.46,Mid-Range,Mid-Range,2023-09-11,2026-03-15,2,30,8,215.33999999999997,10,8,21.45,26.92,7.18,183,42,0.2295,0.1905,6,4.5
+548,Bose Galaxy Pro11,Electronics,Smartphones,Bose,53.56,Mid-Range,Mid-Range,2023-04-17,2026-05-31,0,37,4,213.64999999999998,4,4,53.41,53.41,5.77,134,18,0.1343,0.2222,1,4.0
+853,Spalding Cycling Pro,Sports & Outdoors,Cycling,Spalding,53.18,Mid-Range,Mid-Range,2024-06-07,2026-01-03,4,19,3,212.39999999999998,4,3,52.61,70.80,11.18,74,11,0.1486,0.2727,1,4.0
+881,Spalding Adjustable Fitness Equipment,Sports & Outdoors,Fitness Equipment,Spalding,53.29,Mid-Range,Mid-Range,2023-09-17,2025-11-30,6,26,4,211.62,4,4,52.91,52.91,8.14,193,40,0.2073,0.1000,2,4.5
+558,Apple Classic Tab,Electronics,Tablets,Apple,218.29,Luxury,Mid-Range,2023-11-14,2023-11-14,30,0,1,210.83,1,1,210.83,210.83,210.83,7,4,0.5714,0.2500,0,
+666,KitchenAid Smart Appliance,Home & Kitchen,Appliances,KitchenAid,54.4,Mid-Range,Mid-Range,2023-10-06,2024-10-17,19,12,3,210.2,4,3,52.65,70.07,17.52,58,12,0.2069,0.2500,3,4.0
+577,Apple Pro5 Fitness Tracker,Electronics,Wearables,Apple,214.24,Luxury,Mid-Range,2025-01-05,2025-01-05,16,0,1,205.98,1,1,205.98,205.98,205.98,29,6,0.2069,0.1667,1,4.0
+464,Apple Max7 Bluetooth Earbuds,Electronics,Headphones,Apple,102.88,Premium,Mid-Range,2025-07-04,2025-10-29,7,3,2,205.06,2,2,102.53,102.53,68.35,20,4,0.2000,0.5000,3,5.0
+934,LEGO Prime Deluxe Ella,Toys & Games,Action Figures,LEGO,10.62,Budget,Mid-Range,2023-04-23,2026-05-17,0,37,17,202.01000000000002,19,17,10.62,11.88,5.46,460,119,0.2587,0.1429,14,3.86
+527,Apple Prime8 Ultra,Electronics,Smartphones,Apple,203.89,Luxury,Mid-Range,2024-07-13,2024-07-13,22,0,1,201.41,1,1,201.41,201.41,201.41,11,4,0.3636,0.2500,0,
+20,Michelin Smart Electronic,Automotive,Electronics,Michelin,66.98,Mid-Range,Mid-Range,2023-07-03,2025-07-03,10,24,3,201.07999999999998,3,3,67.03,67.03,8.38,44,10,0.2273,0.3000,1,5.0
+555,Samsung Edge8 Ultra,Electronics,Smartphones,Samsung,199.2,Premium,Mid-Range,2025-10-11,2025-10-11,7,0,1,199.67,1,1,199.67,199.67,199.67,28,5,0.1786,0.2000,0,
+112,L'Oreal Skincare Cream,Beauty & Personal Care,Skincare,L'Oreal,33.78,Mid-Range,Mid-Range,2023-06-25,2026-04-20,1,34,4,199.61999999999998,6,4,33.13,49.90,5.87,101,19,0.1881,0.2105,4,3.5
+803,Post-it Organization Set,Office Products,Organization,Post-it,38.94,Mid-Range,Mid-Range,2024-03-09,2025-04-03,13,13,2,199.03,5,2,39.77,99.52,15.31,30,5,0.1667,0.4000,1,4.0
+454,HP Series17 DSLR,Electronics,Cameras,HP,201.93,Luxury,Mid-Range,2025-02-12,2025-02-12,15,0,1,198.24,1,1,198.24,198.24,198.24,6,1,0.1667,1.0000,1,5.0
+543,Sony Galaxy Prime12,Electronics,Smartphones,Sony,97.23,Premium,Mid-Range,2024-01-08,2025-08-26,9,19,2,197.48000000000002,2,2,98.74,98.74,10.39,37,9,0.2432,0.2222,1,4.0
+854,Spalding Max6 Cycling,Sports & Outdoors,Cycling,Spalding,39.21,Mid-Range,Mid-Range,2023-10-11,2025-09-07,8,23,2,196.79,5,2,39.82,98.40,8.56,85,19,0.2235,0.1053,2,3.5
+999,An Robust Aurora - Nintendo Switch Edition,Toys & Games,Video Games,Mattel,28.12,Mid-Range,Mid-Range,2023-12-02,2026-05-23,0,29,6,196.54,7,6,27.84,32.76,6.78,108,27,0.2500,0.2222,4,4.5
+497,Lenovo Elite Max5 Laptop,Electronics,Laptops,Lenovo,193.96,Premium,Mid-Range,2026-05-06,2026-05-06,0,0,1,195.25,1,1,195.25,195.25,195.25,9,3,0.3333,0.3333,1,3.0
+850,Wilson Cycling Pro,Sports & Outdoors,Cycling,Wilson,61.57,Mid-Range,Mid-Range,2025-03-12,2025-03-12,14,0,1,191.88,3,1,63.96,191.88,191.88,11,3,0.2727,0.3333,1,5.0
+455,LG X6 Bluetooth Earbuds,Electronics,Headphones,LG,188.08,Premium,Mid-Range,2023-10-28,2023-10-28,31,0,1,188.21,1,1,188.21,188.21,188.21,5,2,0.4000,0.5000,1,5.0
+861,Wilson Performance Cycling,Sports & Outdoors,Cycling,Wilson,46.53,Mid-Range,Mid-Range,2024-11-08,2026-05-07,0,18,4,187.0,4,4,46.75,46.75,10.39,66,16,0.2424,0.2500,4,3.5
+906,Wilson Pro3 Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,91.47,Premium,Mid-Range,2025-09-08,2026-02-23,3,5,2,185.2,2,2,92.6,92.60,37.04,64,20,0.3125,0.1000,1,4.0
+872,CamelBak Adjustable Fitness Equipment,Sports & Outdoors,Fitness Equipment,CamelBak,60.93,Mid-Range,Mid-Range,2026-02-04,2026-02-04,3,0,1,183.39,3,1,61.13,183.39,183.39,6,4,0.6667,0.2500,1,5.0
+705,KitchenAid Furniture - Cream,Home & Kitchen,Furniture,KitchenAid,89.31,Premium,Mid-Range,2025-06-29,2025-06-29,11,0,1,182.6,2,1,91.3,182.60,182.6,25,7,0.2800,0.1429,1,2.0
+759,Morphy Richards Premium Kitchenware,Home & Kitchen,Kitchenware,Morphy Richards,42.72,Mid-Range,Mid-Range,2024-08-29,2024-08-29,21,0,1,178.88,4,1,44.72,178.88,178.88,6,2,0.3333,0.5000,1,3.0
+255,Zara Accessorie Set,Clothing & Accessories,Accessories,Zara,45.01,Mid-Range,Mid-Range,2023-11-01,2025-08-12,9,21,3,178.69,4,3,44.6,59.56,8.51,65,13,0.2000,0.2308,3,4.67
+871,Wilson Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,87.68,Premium,Mid-Range,2026-05-30,2026-05-30,0,0,1,178.02,2,1,89.01,178.02,178.02,15,4,0.2667,0.2500,0,
+701,Corkcicle Premium Furniture,Home & Kitchen,Furniture,Corkcicle,176.92,Premium,Mid-Range,2026-05-12,2026-05-12,0,0,1,176.83,1,1,176.83,176.83,176.83,5,2,0.4000,0.5000,0,
+590,Apple X1 Activity Band,Electronics,Wearables,Apple,34.92,Mid-Range,Mid-Range,2024-08-02,2025-12-27,5,16,4,173.89999999999998,5,4,34.53,43.47,10.87,109,23,0.2110,0.1739,1,3.0
+716,KitchenAid Furniture Set,Home & Kitchen,Furniture,KitchenAid,33.67,Mid-Range,Mid-Range,2024-09-30,2026-01-06,4,16,3,173.27,5,3,34.5,57.76,10.83,182,33,0.1813,0.0909,1,5.0
+532,Apple Edge8 Ultra,Electronics,Smartphones,Apple,168.81,Premium,Mid-Range,2025-10-30,2025-10-30,7,0,1,172.47,1,1,172.47,172.47,172.47,48,9,0.1875,0.1111,0,
+775,Staub Modern Lighting,Home & Kitchen,Lighting,Staub,87.3,Premium,Mid-Range,2023-11-18,2023-11-18,30,0,1,171.44,2,1,85.72,171.44,171.44,15,2,0.1333,0.5000,1,4.0
+909,Wilson Pro Team Sport,Sports & Outdoors,Team Sports,Wilson,43.86,Mid-Range,Mid-Range,2025-03-12,2025-03-12,14,0,1,171.24,4,1,42.81,171.24,171.24,8,1,0.1250,1.0000,1,2.0
+514,Apple Series2 Pro 5G,Electronics,Smartphones,Apple,166.55,Premium,Mid-Range,2025-07-13,2025-07-13,10,0,1,170.09,1,1,170.09,170.09,170.09,11,4,0.3636,0.2500,1,5.0
+585,Apple Pro7 Fitness Tracker,Electronics,Wearables,Apple,167.89,Premium,Mid-Range,2025-02-07,2025-02-07,15,0,1,168.9,1,1,168.9,168.90,168.9,17,1,0.0588,1.0000,1,5.0
+770,"Shark 17"" Kitchenware Set",Home & Kitchen,Kitchenware,Shark,57.3,Mid-Range,Mid-Range,2025-05-30,2026-01-29,4,8,2,166.85999999999999,3,2,55.6,83.43,20.86,16,7,0.4375,0.2857,0,
+813,Staples Printer Pro,Office Products,Printers,Staples,41.18,Mid-Range,Mid-Range,2023-05-01,2025-07-03,10,26,3,166.76,4,3,41.71,55.59,6.41,103,16,0.1553,0.1875,3,3.67
+703,Cuisinart Furniture Set,Home & Kitchen,Furniture,Cuisinart,33.06,Mid-Range,Mid-Range,2024-10-13,2025-01-14,16,3,4,165.32,5,4,32.88,41.33,55.11,94,20,0.2128,0.2000,4,3.75
+103,L'Oreal Liquid Makeup,Beauty & Personal Care,Makeup,L'Oreal,16.32,Budget,Mid-Range,2023-10-19,2026-05-29,0,31,7,164.17000000000002,10,7,16.48,23.45,5.3,185,55,0.2973,0.1273,4,4.75
+300,Nike Pro9 Running Shoes,Clothing & Accessories,Footwear,Nike,31.51,Mid-Range,Mid-Range,2024-09-26,2025-11-17,6,14,2,162.32,5,2,32.47,81.16,11.59,57,11,0.1930,0.1818,2,4.5
+34,Turtle Wax Tools & Equipment Kit,Automotive,Tools & Equipment,Turtle Wax,31.26,Mid-Range,Mid-Range,2024-09-17,2026-04-01,1,19,4,159.53,5,4,31.83,39.88,8.4,19,7,0.3684,0.5714,3,3.33
+18,Bosch Prime6 Electronic,Automotive,Electronics,Bosch,10.56,Budget,Mid-Range,2023-01-31,2026-05-27,0,40,10,158.97,15,10,10.61,15.90,3.97,176,44,0.2500,0.2273,6,4.17
+892,Spalding Portable Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Spalding,78.12,Premium,Mid-Range,2023-06-20,2025-01-02,16,19,2,158.57999999999998,2,2,79.29,79.29,8.35,45,15,0.3333,0.1333,1,4.0
+893,Columbia Portable Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Columbia,77.43,Premium,Mid-Range,2023-12-20,2024-01-12,28,1,2,157.07,2,2,78.53,78.54,157.07,49,11,0.2245,0.1818,1,5.0
+682,KitchenAid Premium Nylon Bedding,Home & Kitchen,Bedding,KitchenAid,79.14,Premium,Mid-Range,2024-09-28,2025-07-22,10,10,2,157.01999999999998,2,2,78.51,78.51,15.7,4,2,0.5000,1.0000,0,
+438,Apple Classic Action Cam,Electronics,Cameras,Apple,79.6,Premium,Mid-Range,2025-08-28,2026-05-03,0,9,2,156.76,2,2,78.38,78.38,17.42,12,2,0.1667,1.0000,1,5.0
+17,Bosch Smart Electronic,Automotive,Electronics,Bosch,77.17,Premium,Mid-Range,2025-04-06,2026-03-14,2,11,2,156.47,2,2,78.24,78.24,14.22,30,7,0.2333,0.2857,2,2.5
+685,KitchenAid Premium Linen Bedding,Home & Kitchen,Bedding,KitchenAid,78.94,Premium,Mid-Range,2025-01-01,2025-01-01,16,0,1,156.14,2,1,78.07,156.14,156.14,9,2,0.2222,0.5000,0,
+773,KitchenAid Professional Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,50.14,Mid-Range,Mid-Range,2023-06-20,2025-04-16,13,22,3,155.07999999999998,3,3,51.69,51.69,7.05,27,9,0.3333,0.3333,1,4.0
+579,Apple Classic Smartwatch,Electronics,Wearables,Apple,77.92,Premium,Mid-Range,2025-01-05,2025-07-05,10,6,2,154.44,2,2,77.22,77.22,25.74,86,11,0.1279,0.1818,2,3.5
+885,Spalding Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,Spalding,151.39,Premium,Mid-Range,2026-05-17,2026-05-17,0,0,1,151.48,1,1,151.48,151.48,151.48,42,12,0.2857,0.0833,0,
+764,"Instant Pot 32"" Kitchenware Set",Home & Kitchen,Kitchenware,Instant Pot,50.68,Mid-Range,Mid-Range,2024-01-11,2026-03-03,2,26,3,151.2,3,3,50.4,50.40,5.82,108,25,0.2315,0.1200,2,2.5
+556,Samsung Galaxy Z17,Electronics,Smartphones,Samsung,75.73,Premium,Mid-Range,2025-05-16,2025-06-03,11,1,2,150.97,2,2,75.49,75.49,150.97,27,7,0.2593,0.2857,1,4.0
+674,Le Creuset Bedding in Red,Home & Kitchen,Bedding,Le Creuset,29.56,Mid-Range,Mid-Range,2024-02-04,2025-04-22,13,14,3,146.41,5,3,29.56,48.80,10.46,119,27,0.2269,0.1111,1,5.0
+16,Bosch Electronic Display,Automotive,Electronics,Bosch,28.8,Mid-Range,Mid-Range,2023-03-20,2026-05-09,0,38,3,146.01999999999998,5,3,28.94,48.67,3.84,68,13,0.1912,0.2308,2,4.5
+387,Adidas Womenswear in White,Clothing & Accessories,Womenswear,Adidas,46.85,Mid-Range,Mid-Range,2023-10-18,2023-10-18,31,0,1,146.01,3,1,48.67,146.01,146.01,9,4,0.4444,0.2500,1,4.0
+119,The elite phoenix,Books,Children's Books,Penguin Books,24.3,Mid-Range,Mid-Range,2024-12-10,2025-09-18,8,9,3,145.63,6,3,24.39,48.54,16.18,45,13,0.2889,0.2308,3,4.0
+346,Nike Casual Menswear,Clothing & Accessories,Menswear,Nike,34.83,Mid-Range,Mid-Range,2024-09-28,2025-10-17,7,13,4,138.05,4,4,34.51,34.51,10.62,127,32,0.2520,0.1250,1,5.0
+113,"L'Oreal Skincare - 17""",Beauty & Personal Care,Skincare,L'Oreal,34.07,Mid-Range,Mid-Range,2024-03-17,2025-06-30,11,15,4,136.13,4,4,34.03,34.03,9.08,107,20,0.1869,0.2000,1,5.0
+378,Nike Casual Womenswear,Clothing & Accessories,Womenswear,Nike,46.67,Mid-Range,Mid-Range,2024-01-06,2026-02-02,3,25,2,135.61,3,2,45.11,67.81,5.42,70,14,0.2000,0.1429,2,5.0
+562,Sony Elite Tab,Electronics,Tablets,Sony,135.99,Premium,Mid-Range,2026-05-23,2026-05-23,0,0,1,133.97,1,1,133.97,133.97,133.97,8,2,0.2500,0.5000,0,
+993,The Modern Orbit Remastered,Toys & Games,Video Games,Mattel,31.65,Mid-Range,Mid-Range,2024-10-26,2025-07-03,10,9,3,129.36,4,3,32.41,43.12,14.37,63,8,0.1270,0.3750,3,4.0
+30,Goodyear Edge5 Tools & Equipment,Automotive,Tools & Equipment,Goodyear,16.36,Budget,Mid-Range,2024-03-10,2026-03-29,2,24,7,128.26,8,7,16.08,18.32,5.34,98,25,0.2551,0.2800,4,3.75
+61,L'Oreal Drift Perfume Spray,Beauty & Personal Care,Fragrance,L'Oreal,20.96,Mid-Range,Mid-Range,2025-02-10,2025-08-22,9,6,3,128.21,6,3,21.07,42.74,21.37,20,8,0.4000,0.3750,2,4.0
+390,Nike Essential Womenswear,Clothing & Accessories,Womenswear,Nike,64.27,Mid-Range,Mid-Range,2024-01-28,2024-12-24,17,11,2,128.06,2,2,64.03,64.03,11.64,34,10,0.2941,0.2000,1,5.0
+951,LEGO Elysium Family Game,Toys & Games,Board Games,LEGO,66.27,Mid-Range,Mid-Range,2024-01-10,2025-10-20,7,21,2,127.78999999999999,2,2,63.89,63.90,6.09,36,8,0.2222,0.2500,1,5.0
+950,LEGO Cascade Card Game,Toys & Games,Board Games,LEGO,42.08,Mid-Range,Mid-Range,2025-03-20,2025-03-20,14,0,1,126.36,3,1,42.12,126.36,126.36,35,8,0.2286,0.1250,1,2.0
+969,LEGO Ember STEM Kit,Toys & Games,Educational Toys,LEGO,61.57,Mid-Range,Mid-Range,2025-01-01,2025-01-01,16,0,1,126.3,2,1,63.15,126.30,126.3,10,5,0.5000,0.2000,0,
+739,De'Longhi Modern Home Decor,Home & Kitchen,Home Decor,De'Longhi,31.83,Mid-Range,Mid-Range,2025-02-07,2025-12-07,5,10,4,125.05000000000001,4,4,31.26,31.26,12.51,158,30,0.1899,0.1333,4,3.25
+400,Nike Womenswear Dress,Clothing & Accessories,Womenswear,Nike,62.74,Mid-Range,Mid-Range,2026-02-08,2026-02-08,3,0,1,124.16,2,1,62.08,124.16,124.16,19,2,0.1053,0.5000,0,
+884,Theragun Fitness Equipment Pro,Sports & Outdoors,Fitness Equipment,Theragun,121.08,Premium,Mid-Range,2026-05-02,2026-05-02,0,0,1,122.42,1,1,122.42,122.42,122.42,56,9,0.1607,0.1111,0,
+665,Le Creuset Classic Appliance,Home & Kitchen,Appliances,Le Creuset,117.52,Premium,Mid-Range,2023-02-06,2023-02-06,39,0,1,121.9,1,1,121.9,121.90,121.9,153,25,0.1634,0.0400,1,1.0
+564,Samsung Air Tab,Electronics,Tablets,Samsung,124.65,Premium,Mid-Range,2025-07-10,2025-07-10,10,0,1,120.8,1,1,120.8,120.80,120.8,14,5,0.3571,0.2000,1,4.0
+51,L'Oreal Bath & Body - Vanilla,Beauty & Personal Care,Bath & Body,L'Oreal,40.14,Mid-Range,Mid-Range,2025-06-04,2025-06-04,11,0,1,120.21,3,1,40.07,120.21,120.21,30,5,0.1667,0.2000,0,
+295,Nike Elite Sandals,Clothing & Accessories,Footwear,Nike,17.16,Budget,Mid-Range,2023-03-03,2026-04-05,1,37,5,119.27000000000001,7,5,16.99,23.85,3.22,79,21,0.2658,0.2381,2,3.0
+229,Machine Learning: A ultimate History,Books,Non-Fiction,Penguin Books,22.98,Mid-Range,Mid-Range,2025-02-06,2025-03-14,14,1,2,117.33,5,2,23.36,58.67,117.33,17,4,0.2353,0.5000,2,5.0
+219,Elite World History: The From Theory to Practice,Books,Non-Fiction,Penguin Books,28.85,Mid-Range,Mid-Range,2023-11-21,2025-01-29,16,14,2,112.57,4,2,28.6,56.29,8.04,4,4,1.0000,0.5000,1,1.0
+952,LEGO Elysium - Anniversary Edition,Toys & Games,Board Games,LEGO,114.42,Premium,Mid-Range,2024-06-10,2024-06-10,23,0,1,112.52,1,1,112.52,112.52,112.52,25,9,0.3600,0.1111,1,5.0
+905,Wilson Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,Wilson,109.71,Premium,Mid-Range,2023-03-31,2023-03-31,38,0,1,111.7,1,1,111.7,111.70,111.7,8,2,0.2500,0.5000,1,5.0
+139,My First Reinforcement Learning,Books,Children's Books,Penguin Books,18.22,Budget,Mid-Range,2024-08-17,2025-12-05,5,16,3,110.02,6,3,18.18,36.67,6.88,65,17,0.2615,0.1765,2,5.0
+386,Adidas Womenswear Dress,Clothing & Accessories,Womenswear,Adidas,53.01,Mid-Range,Mid-Range,2026-05-08,2026-05-08,0,0,1,109.62,2,1,54.81,109.62,109.62,11,3,0.2727,0.3333,1,4.0
+857,Wilson Cycling - Navy,Sports & Outdoors,Cycling,Wilson,37.73,Mid-Range,Mid-Range,2023-03-17,2024-04-24,25,13,3,109.5,3,3,36.5,36.50,8.42,12,4,0.3333,0.7500,2,4.5
+305,Nike Series17 Running Shoes,Clothing & Accessories,Footwear,Nike,35.35,Mid-Range,Mid-Range,2023-08-14,2026-03-10,2,31,3,109.26,3,3,36.42,36.42,3.52,48,14,0.2917,0.2143,2,3.5
+706,Zwilling Furniture - Gray,Home & Kitchen,Furniture,Zwilling,53.17,Mid-Range,Mid-Range,2026-01-29,2026-01-29,4,0,1,108.04,2,1,54.02,108.04,108.04,26,5,0.1923,0.2000,0,
+434,Apple Prime16 Instant Camera,Electronics,Cameras,Apple,107.88,Premium,Mid-Range,2026-01-29,2026-01-29,4,0,1,107.76,1,1,107.76,107.76,107.76,39,10,0.2564,0.1000,1,3.0
+303,Adidas Classic Sandals,Clothing & Accessories,Footwear,Adidas,21.7,Mid-Range,Mid-Range,2023-03-30,2025-12-07,5,33,2,107.28,5,2,21.66,53.64,3.25,17,5,0.2941,0.4000,1,2.0
+895,Spalding Premium Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Spalding,53.89,Mid-Range,Mid-Range,2023-10-29,2025-06-30,11,20,2,105.92,2,2,52.96,52.96,5.3,8,3,0.3750,0.6667,1,5.0
+109,L'Oreal Skincare Cream,Beauty & Personal Care,Skincare,L'Oreal,53.52,Mid-Range,Mid-Range,2023-04-30,2026-05-20,0,37,2,105.84,2,2,52.92,52.92,2.86,14,5,0.3571,0.4000,0,
+371,Nike Essential Menswear,Clothing & Accessories,Menswear,Nike,110.64,Premium,Mid-Range,2023-07-06,2023-07-06,34,0,1,105.15,1,1,105.15,105.15,105.15,10,2,0.2000,0.5000,0,
+604,Kraft Beverage Variety Pack,Grocery & Gourmet,Beverages,Kraft,5.7,Budget,Mid-Range,2023-01-15,2025-12-08,5,35,7,104.46,18,7,5.77,14.92,2.98,182,42,0.2308,0.1667,4,4.0
+943,Nerf Luna Action Figure,Toys & Games,Action Figures,Nerf,25.49,Mid-Range,Mid-Range,2023-06-06,2025-05-18,12,23,4,103.57000000000001,4,4,25.89,25.89,4.5,127,28,0.2205,0.1429,3,2.0
+877,Wilson Air3 Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,100.77,Premium,Mid-Range,2024-08-10,2024-08-10,21,0,1,103.09,1,1,103.09,103.09,103.09,17,2,0.1176,0.5000,0,
+823,Canon Stationery - Sand,Office Products,Stationery,Canon,20.34,Mid-Range,Mid-Range,2024-11-29,2026-05-22,0,18,4,101.23,5,4,20.3,25.31,5.62,99,23,0.2323,0.1739,4,4.0
+695,KitchenAid Hemp Furniture,Home & Kitchen,Furniture,KitchenAid,52.41,Mid-Range,Mid-Range,2026-03-28,2026-03-28,2,0,1,101.12,2,1,50.56,101.12,101.12,7,1,0.1429,1.0000,1,5.0
+904,Wilson Portable Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,51.94,Mid-Range,Low-Performer,2024-09-15,2024-09-15,20,0,1,99.5,2,1,49.75,99.50,99.5,15,4,0.2667,0.2500,0,
+689,KitchenAid Bedding in Cream,Home & Kitchen,Bedding,KitchenAid,49.68,Mid-Range,Low-Performer,2026-03-26,2026-03-26,2,0,1,98.22,2,1,49.11,98.22,98.22,5,3,0.6000,0.3333,1,4.0
+367,Nike Menswear in Red,Clothing & Accessories,Menswear,Nike,97.62,Premium,Low-Performer,2023-10-29,2023-10-29,31,0,1,98.21,1,1,98.21,98.21,98.21,10,3,0.3000,0.3333,2,4.5
+494,Apple Air Book3 Laptop,Electronics,Laptops,Apple,101.69,Premium,Low-Performer,2024-09-07,2024-09-07,20,0,1,98.07,1,1,98.07,98.07,98.07,23,4,0.1739,0.2500,0,
+622,Nestle Organic Pantry Staple,Grocery & Gourmet,Pantry Staples,Nestle,9.91,Budget,Low-Performer,2024-01-09,2025-09-25,8,20,6,97.43,10,6,9.82,16.24,4.87,153,34,0.2222,0.1765,3,4.0
+742,KitchenAid Decorative Home Decor,Home & Kitchen,Home Decor,KitchenAid,93.49,Premium,Low-Performer,2023-05-06,2023-05-06,36,0,1,97.18,1,1,97.18,97.18,97.18,18,5,0.2778,0.2000,2,5.0
+491,"Samsung Core 14""",Electronics,Laptops,Samsung,46.22,Mid-Range,Low-Performer,2024-03-26,2025-11-01,6,20,2,95.58,2,2,47.79,47.79,4.78,14,4,0.2857,0.5000,2,2.5
+431,Apple Accessorie Cable,Electronics,Accessories,Apple,48.3,Mid-Range,Low-Performer,2026-01-16,2026-02-08,3,1,2,94.4,2,2,47.2,47.20,94.4,50,20,0.4000,0.1000,1,5.0
+864,Wilson Cycling - Brown,Sports & Outdoors,Cycling,Wilson,90.39,Premium,Low-Performer,2025-12-05,2025-12-05,5,0,1,93.52,1,1,93.52,93.52,93.52,6,4,0.6667,0.2500,0,
+540,Samsung Max Z6,Electronics,Smartphones,Samsung,97.17,Premium,Low-Performer,2025-08-16,2025-08-16,9,0,1,92.47,1,1,92.47,92.47,92.47,19,5,0.2632,0.2000,1,5.0
+876,Spalding Adjustable Fitness Equipment,Sports & Outdoors,Fitness Equipment,Spalding,46.64,Mid-Range,Low-Performer,2025-04-09,2025-12-18,5,8,2,91.86,2,2,45.93,45.93,11.48,3,2,0.6667,1.0000,0,
+786,Cuisinart Rustic Lighting,Home & Kitchen,Lighting,Cuisinart,92.49,Premium,Low-Performer,2025-10-05,2025-10-05,7,0,1,91.03,1,1,91.03,91.03,91.03,12,2,0.1667,0.5000,0,
+323,Nike Amethyst Jewelry,Clothing & Accessories,Jewelry,Nike,46.16,Mid-Range,Low-Performer,2026-05-01,2026-05-01,0,0,1,90.92,2,1,45.46,90.92,90.92,19,11,0.5789,0.0909,2,2.5
+878,Timberland Adjustable Fitness Equipment,Sports & Outdoors,Fitness Equipment,Timberland,88.66,Premium,Low-Performer,2026-02-02,2026-02-02,3,0,1,90.65,1,1,90.65,90.65,90.65,92,15,0.1630,0.0667,1,5.0
+644,Nestle Snack Variety Pack,Grocery & Gourmet,Snacks,Nestle,18.22,Budget,Low-Performer,2025-03-08,2025-09-01,8,6,2,89.93,5,2,18.13,44.97,14.99,69,13,0.1884,0.1538,2,3.5
+530,Samsung Pro12 Smartphone,Electronics,Smartphones,Samsung,89.74,Premium,Low-Performer,2026-02-03,2026-02-03,3,0,1,89.16,1,1,89.16,89.16,89.16,15,5,0.3333,0.2000,3,3.67
+38,Lucas Oil Tools & Equipment Set,Automotive,Tools & Equipment,Lucas Oil,17.95,Budget,Low-Performer,2023-04-23,2025-09-24,8,29,2,89.03,5,2,17.72,44.52,3.07,14,4,0.2857,0.5000,2,4.0
+811,Post-it Compact Printer,Office Products,Printers,Post-it,18.6,Budget,Low-Performer,2024-04-16,2026-05-09,0,25,3,88.99000000000001,5,3,17.78,29.66,3.56,128,30,0.2344,0.1000,1,4.0
+910,Spalding Tournament Team Sport,Sports & Outdoors,Team Sports,Spalding,44.54,Mid-Range,Low-Performer,2023-05-27,2023-05-27,36,0,1,87.74,2,1,43.87,87.74,87.74,18,6,0.3333,0.1667,1,4.0
+15,Mobil Premium Car Care,Automotive,Car Care,Mobil,42.34,Mid-Range,Low-Performer,2025-01-01,2026-04-28,1,15,2,87.36,2,2,43.68,43.68,5.82,20,7,0.3500,0.2857,1,1.0
+887,Merrell Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,Merrell,83.76,Premium,Low-Performer,2024-11-01,2024-11-01,18,0,1,86.23,1,1,86.23,86.23,86.23,4,3,0.7500,0.3333,1,5.0
+586,Samsung Core Smartwatch,Electronics,Wearables,Samsung,21.55,Mid-Range,Low-Performer,2023-09-11,2026-04-27,1,31,4,86.21,4,4,21.55,21.55,2.78,75,22,0.2933,0.1818,2,5.0
+269,Puma Accessorie - Olive,Clothing & Accessories,Accessories,Puma,43.29,Mid-Range,Low-Performer,2025-10-06,2025-10-06,7,0,1,85.22,2,1,42.61,85.22,85.22,2,2,1.0000,0.5000,3,4.67
+730,KitchenAid Decorative Home Decor,Home & Kitchen,Home Decor,KitchenAid,83.06,Premium,Low-Performer,2024-11-21,2024-11-21,18,0,1,84.92,1,1,84.92,84.92,84.92,64,16,0.2500,0.0625,0,
+330,Zara Casual Menswear,Clothing & Accessories,Menswear,Zara,27.7,Mid-Range,Low-Performer,2025-07-26,2025-08-22,9,1,2,84.88,3,2,28.02,42.44,84.88,53,8,0.1509,0.2500,0,
+725,Lodge Cotton Home Decor,Home & Kitchen,Home Decor,Lodge,44.14,Mid-Range,Low-Performer,2026-01-01,2026-01-01,4,0,1,84.54,2,1,42.27,84.54,84.54,10,2,0.2000,0.5000,1,5.0
+722,Cuisinart Premium Furniture,Home & Kitchen,Furniture,Cuisinart,27.16,Mid-Range,Low-Performer,2023-03-30,2025-08-31,9,29,3,83.93,3,3,27.98,27.98,2.89,20,6,0.3000,0.5000,2,4.5
+401,H&M Womenswear Dress,Clothing & Accessories,Womenswear,H&M,41.95,Mid-Range,Low-Performer,2023-03-25,2025-11-30,6,32,2,83.71000000000001,2,2,41.86,41.86,2.62,40,10,0.2500,0.2000,2,3.5
+384,Nike Womenswear in Brown,Clothing & Accessories,Womenswear,Nike,79.66,Premium,Low-Performer,2025-07-08,2025-07-08,10,0,1,79.97,1,1,79.97,79.97,79.97,6,1,0.1667,1.0000,0,
+225,Reinforcement Learning,Books,Non-Fiction,HarperCollins,25.47,Mid-Range,Low-Performer,2025-02-19,2025-02-19,15,0,1,78.87,3,1,26.29,78.87,78.87,3,2,0.6667,0.5000,1,4.0
+206,Classic of silence,Books,Fiction,HarperCollins,15.7,Budget,Low-Performer,2023-10-26,2025-08-31,9,22,3,78.71000000000001,5,3,15.67,26.24,3.58,82,20,0.2439,0.1500,2,5.0
+286,Nike Ultra Casual Sneakers,Clothing & Accessories,Footwear,Nike,25.77,Mid-Range,Low-Performer,2024-07-02,2024-08-30,21,1,2,78.51,3,2,26.24,39.26,78.51,46,12,0.2609,0.1667,1,4.0
+340,Calvin Klein Essential Menswear,Clothing & Accessories,Menswear,Calvin Klein,38.92,Mid-Range,Low-Performer,2025-12-06,2026-01-21,4,1,2,78.33,2,2,39.17,39.17,78.33,51,11,0.2157,0.1818,2,5.0
+946,LEGO Haven Board Game,Toys & Games,Board Games,LEGO,38.98,Mid-Range,Low-Performer,2025-05-12,2026-05-12,0,12,2,78.14,2,2,39.07,39.07,6.51,14,5,0.3571,0.4000,2,4.5
+870,Patagonia Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Patagonia,74.49,Mid-Range,Low-Performer,2026-02-15,2026-02-15,3,0,1,75.34,1,1,75.34,75.34,75.34,7,3,0.4286,0.3333,1,5.0
+657,KitchenAid Smart Appliance,Home & Kitchen,Appliances,KitchenAid,25.43,Mid-Range,Low-Performer,2024-04-09,2026-03-14,2,23,2,75.12,3,2,25.35,37.56,3.27,121,21,0.1736,0.0952,2,4.0
+405,Adidas Premium Womenswear,Clothing & Accessories,Womenswear,Adidas,36.06,Mid-Range,Low-Performer,2024-03-03,2024-03-03,26,0,1,75.0,2,1,37.5,75.00,75.0,14,8,0.5714,0.1250,1,3.0
+855,MSR Performance Cycling,Sports & Outdoors,Cycling,MSR,73.52,Mid-Range,Low-Performer,2025-12-03,2025-12-03,5,0,1,74.75,1,1,74.75,74.75,74.75,22,4,0.1818,0.2500,1,3.0
+818,Staples Stationery Pack,Office Products,Stationery,Staples,25.58,Mid-Range,Low-Performer,2025-10-06,2026-01-28,4,3,2,74.7,3,2,24.77,37.35,24.9,47,11,0.2340,0.1818,1,5.0
+890,Wilson Air13 Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,73.35,Mid-Range,Low-Performer,2024-12-14,2024-12-14,17,0,1,74.17,1,1,74.17,74.17,74.17,4,1,0.2500,1.0000,0,
+433,Acer Accessorie Adapter,Electronics,Accessories,Acer,37.55,Mid-Range,Low-Performer,2024-09-06,2025-08-09,9,11,2,73.25,2,2,36.63,36.63,6.66,148,22,0.1486,0.0909,2,3.0
+360,H&M Casual Menswear,Clothing & Accessories,Menswear,H&M,37.14,Mid-Range,Low-Performer,2024-01-21,2024-01-21,28,0,1,73.12,2,1,36.56,73.12,73.12,19,1,0.0526,1.0000,0,
+873,Coleman Adjustable Fitness Equipment,Sports & Outdoors,Fitness Equipment,Coleman,69.88,Mid-Range,Low-Performer,2024-12-18,2024-12-18,17,0,1,73.02,1,1,73.02,73.02,73.02,2,2,1.0000,0.5000,1,4.0
+362,Nike Classic Fit Menswear,Clothing & Accessories,Menswear,Nike,18.34,Budget,Low-Performer,2023-03-14,2025-12-06,5,33,2,72.96,4,2,18.13,36.48,2.21,16,5,0.3125,0.4000,1,5.0
+290,Calvin Klein Pixel17 Running Shoes,Clothing & Accessories,Footwear,Calvin Klein,35.55,Mid-Range,Low-Performer,2025-03-26,2025-03-26,14,0,1,72.48,2,1,36.24,72.48,72.48,9,2,0.2222,0.5000,1,3.0
+117,"L'Oreal Skincare - 13""",Beauty & Personal Care,Skincare,L'Oreal,23.41,Mid-Range,Low-Performer,2024-03-12,2024-09-14,20,6,3,69.71,3,3,23.24,23.24,11.62,62,18,0.2903,0.1667,4,4.5
+320,Tommy Hilfiger Opal Jewelry,Clothing & Accessories,Jewelry,Tommy Hilfiger,35.78,Mid-Range,Low-Performer,2026-01-07,2026-05-31,0,4,2,69.69,2,2,34.84,34.85,17.42,35,9,0.2571,0.2222,0,
+215,Linear Algebra: A professional History,Books,Non-Fiction,Penguin Books,36.01,Mid-Range,Low-Performer,2026-02-28,2026-02-28,3,0,1,69.68,2,1,34.84,69.68,69.68,7,2,0.2857,0.5000,0,
+280,Nike Edge9 Messenger Bag,Clothing & Accessories,Bags,Nike,35.12,Mid-Range,Low-Performer,2024-10-13,2025-07-05,10,9,2,69.52,2,2,34.76,34.76,7.72,16,3,0.1875,0.6667,1,2.0
+289,Tommy Hilfiger Air5 Training Shoes,Clothing & Accessories,Footwear,Tommy Hilfiger,22.11,Mid-Range,Low-Performer,2025-07-05,2025-08-27,9,1,2,69.25,3,2,23.1,34.63,69.25,32,6,0.1875,0.3333,2,5.0
+3,Bosch Car Accessorie - Beige,Automotive,Car Accessories,Bosch,66.98,Mid-Range,Low-Performer,2025-08-21,2025-08-21,9,0,1,68.69,1,1,68.69,68.69,68.69,68,14,0.2059,0.0714,1,5.0
+31,OTC Tools Galaxy4 Tools & Equipment,Automotive,Tools & Equipment,OTC Tools,22.57,Mid-Range,Low-Performer,2024-12-29,2026-02-23,3,14,2,68.11,3,2,22.92,34.06,4.87,43,7,0.1628,0.2857,2,4.0
+840,Wilson Camping Gear Kit,Sports & Outdoors,Camping Gear,Wilson,21.82,Mid-Range,Low-Performer,2025-05-29,2025-05-29,12,0,1,66.96,3,1,22.32,66.96,66.96,32,6,0.1875,0.1667,1,3.0
+207,An Premium Pioneer,Books,Fiction,Simon & Schuster,16.41,Budget,Low-Performer,2026-04-23,2026-04-23,1,0,1,66.28,4,1,16.57,66.28,66.28,1,2,2.0000,0.5000,1,4.0
+271,Nike Air12 Crossbody Bag,Clothing & Accessories,Bags,Nike,33.15,Mid-Range,Low-Performer,2025-06-16,2026-02-11,3,8,2,66.11,2,2,33.06,33.06,8.26,9,3,0.3333,0.6667,2,3.5
+921,Columbia Pro Team Sport,Sports & Outdoors,Team Sports,Columbia,22.25,Mid-Range,Low-Performer,2023-11-01,2024-11-05,18,12,2,65.75,3,2,22.16,32.88,5.48,46,12,0.2609,0.1667,0,
+785,Cuisinart Modern Lighting,Home & Kitchen,Lighting,Cuisinart,21.67,Mid-Range,Low-Performer,2024-01-23,2024-06-16,23,5,3,63.55,3,3,21.18,21.18,12.71,122,33,0.2705,0.0909,1,5.0
+612,Nestle Organic Organic Food Variety,Grocery & Gourmet,Organic Foods,Nestle,10.91,Budget,Low-Performer,2025-01-16,2026-04-27,1,15,4,63.209999999999994,6,4,10.6,15.80,4.21,77,19,0.2468,0.2105,2,4.5
+891,Theragun Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,Theragun,63.68,Mid-Range,Low-Performer,2024-06-27,2024-06-27,23,0,1,63.15,1,1,63.15,63.15,63.15,8,7,0.8750,0.1429,1,5.0
+59,Dove Nova Cologne,Beauty & Personal Care,Fragrance,Dove,65.9,Mid-Range,Low-Performer,2023-03-22,2023-03-22,38,0,1,62.94,1,1,62.94,62.94,62.94,19,9,0.4737,0.1111,1,5.0
+393,Adidas Premium Womenswear,Clothing & Accessories,Womenswear,Adidas,64.4,Mid-Range,Low-Performer,2024-03-03,2024-03-03,26,0,1,62.86,1,1,62.86,62.86,62.86,21,8,0.3810,0.1250,0,
+274,Nike Pro13 Backpack,Clothing & Accessories,Bags,Nike,63.36,Mid-Range,Low-Performer,2025-01-15,2025-01-15,16,0,1,62.8,1,1,62.8,62.80,62.8,13,2,0.1538,0.5000,1,3.0
+727,Le Creuset Home Decor - Cream,Home & Kitchen,Home Decor,Le Creuset,60.38,Mid-Range,Low-Performer,2023-02-20,2023-02-20,39,0,1,62.77,1,1,62.77,62.77,62.77,3,2,0.6667,0.5000,1,5.0
+11,Bosch Car Care Cleaner,Automotive,Car Care,Bosch,65.11,Mid-Range,Low-Performer,2023-02-25,2023-02-25,39,0,1,61.86,1,1,61.86,61.86,61.86,21,7,0.3333,0.1429,1,4.0
+364,Nike Casual Menswear,Clothing & Accessories,Menswear,Nike,59.73,Mid-Range,Low-Performer,2023-06-21,2023-06-21,35,0,1,61.47,1,1,61.47,61.47,61.47,44,7,0.1591,0.1429,1,4.0
+994,A Sleek Fusion - PlayStation 5 Edition,Toys & Games,Video Games,LEGO,31.66,Mid-Range,Low-Performer,2025-02-21,2025-02-21,15,0,1,61.42,2,1,30.71,61.42,61.42,9,3,0.3333,0.3333,0,
+720,KitchenAid Furniture Set,Home & Kitchen,Furniture,KitchenAid,30.84,Mid-Range,Low-Performer,2026-04-07,2026-05-24,0,1,2,61.25,2,2,30.63,30.63,61.25,21,7,0.3333,0.2857,2,4.5
+740,KitchenAid Home Decor - Sage,Home & Kitchen,Home Decor,KitchenAid,62.74,Mid-Range,Low-Performer,2025-09-10,2025-09-10,8,0,1,60.87,1,1,60.87,60.87,60.87,5,2,0.4000,0.5000,1,5.0
+201,The Versatile Cascade,Books,Fiction,Penguin Books,28.75,Mid-Range,Low-Performer,2025-12-05,2025-12-05,5,0,1,59.18,2,1,29.59,59.18,59.18,36,10,0.2778,0.1000,0,
+723,KitchenAid Linen Home Decor,Home & Kitchen,Home Decor,KitchenAid,18.89,Budget,Low-Performer,2024-08-19,2026-05-05,0,21,2,58.730000000000004,3,2,19.59,29.37,2.8,72,14,0.1944,0.1429,2,3.0
+683,Instant Pot Bedding in Slate,Home & Kitchen,Bedding,Instant Pot,27.99,Mid-Range,Low-Performer,2024-12-28,2024-12-28,17,0,1,58.62,2,1,29.31,58.62,58.62,4,2,0.5000,0.5000,0,
+283,Nike Ultra Sandals,Clothing & Accessories,Footwear,Nike,9.78,Budget,Low-Performer,2024-04-22,2025-07-12,10,15,4,58.46,6,4,9.77,14.62,3.9,111,29,0.2613,0.1379,1,3.0
+498,Apple Ultra 10th Gen,Electronics,Laptops,Apple,56.53,Mid-Range,Low-Performer,2024-01-01,2024-01-01,28,0,1,57.55,1,1,57.55,57.55,57.55,26,6,0.2308,0.1667,1,5.0
+9,Continental Premium Car Accessorie,Automotive,Car Accessories,Continental,27.66,Mid-Range,Low-Performer,2023-06-21,2023-06-21,35,0,1,57.44,2,1,28.72,57.44,57.44,13,5,0.3846,0.2000,1,5.0
+924,Mattel Ultra Luna Figure,Toys & Games,Action Figures,Mattel,28.86,Mid-Range,Low-Performer,2024-11-07,2025-07-23,10,8,2,57.35,2,2,28.68,28.68,7.17,41,12,0.2927,0.1667,1,5.0
+399,Nike Premium Womenswear,Clothing & Accessories,Womenswear,Nike,27.32,Mid-Range,Low-Performer,2026-02-22,2026-04-02,1,2,2,55.61,2,2,27.81,27.81,27.81,8,3,0.3750,0.6667,2,3.0
+780,KitchenAid Lighting - Charcoal,Home & Kitchen,Lighting,KitchenAid,56.11,Mid-Range,Low-Performer,2026-02-07,2026-02-07,3,0,1,55.59,1,1,55.59,55.59,55.59,3,2,0.6667,0.5000,0,
+76,"Kiehl's Haircare - 15.6""",Beauty & Personal Care,Haircare,Kiehl's,27.23,Mid-Range,Low-Performer,2023-09-30,2024-12-28,17,15,2,55.31,2,2,27.66,27.66,3.69,13,3,0.2308,0.6667,0,
+83,L'Oreal Haircare Treatment,Beauty & Personal Care,Haircare,L'Oreal,27.16,Mid-Range,Low-Performer,2024-02-07,2025-09-27,8,19,2,54.78,2,2,27.39,27.39,2.88,5,4,0.8000,0.5000,2,3.5
+432,Apple Accessorie Cable,Electronics,Accessories,Apple,52.23,Mid-Range,Low-Performer,2024-02-09,2024-02-09,27,0,1,54.64,1,1,54.64,54.64,54.64,103,17,0.1650,0.0588,1,4.0
+4,Goodyear Car Accessorie - Navy,Automotive,Car Accessories,Goodyear,53.23,Mid-Range,Low-Performer,2025-03-29,2025-03-29,14,0,1,54.34,1,1,54.34,54.34,54.34,85,8,0.0941,0.1250,2,4.0
+919,Wilson Pro Team Sport,Sports & Outdoors,Team Sports,Wilson,53.24,Mid-Range,Low-Performer,2026-03-26,2026-03-26,2,0,1,53.56,1,1,53.56,53.56,53.56,6,4,0.6667,0.2500,2,3.5
+914,Spalding Tournament Team Sport,Sports & Outdoors,Team Sports,Spalding,55.18,Mid-Range,Low-Performer,2023-12-13,2023-12-13,29,0,1,53.54,1,1,53.54,53.54,53.54,15,4,0.2667,0.2500,1,5.0
+960,Mattel Midnight Board Game,Toys & Games,Board Games,Mattel,52.99,Mid-Range,Low-Performer,2026-05-18,2026-05-18,0,0,1,53.32,1,1,53.32,53.32,53.32,3,1,0.3333,1.0000,1,2.0
+591,Apple Air2 Fitness Tracker,Electronics,Wearables,Apple,51.13,Mid-Range,Low-Performer,2023-11-26,2023-11-26,30,0,1,52.92,1,1,52.92,52.92,52.92,5,3,0.6000,0.3333,1,5.0
+986,Hot Wheels Panoramic Calculus Puzzle,Toys & Games,Puzzles,Hot Wheels,25.74,Mid-Range,Low-Performer,2026-01-26,2026-01-26,4,0,1,52.22,2,1,26.11,52.22,52.22,9,2,0.2222,0.5000,0,
+267,Nike Premium Accessorie,Clothing & Accessories,Accessories,Nike,50.24,Mid-Range,Low-Performer,2024-12-24,2024-12-24,17,0,1,52.21,1,1,52.21,52.21,52.21,2,3,1.5000,0.3333,2,3.0
+897,Therm-a-Rest All-Weather Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Therm-a-Rest,25.15,Mid-Range,Low-Performer,2025-01-25,2025-04-22,13,3,2,52.12,2,2,26.06,26.06,17.37,92,19,0.2065,0.1053,2,2.0
+10,Bridgestone Premium Car Care,Automotive,Car Care,Bridgestone,24.78,Mid-Range,Low-Performer,2024-09-10,2025-01-23,16,4,2,50.58,2,2,25.29,25.29,12.65,8,3,0.3750,0.6667,1,5.0
+490,Apple Classic Air13 Laptop,Electronics,Laptops,Apple,47.21,Mid-Range,Low-Performer,2024-03-28,2024-03-28,26,0,1,49.57,1,1,49.57,49.57,49.57,15,8,0.5333,0.1250,0,
+782,Lodge LED Lighting,Home & Kitchen,Lighting,Lodge,49.05,Mid-Range,Low-Performer,2025-05-26,2025-05-26,12,0,1,49.47,1,1,49.47,49.47,49.47,34,6,0.1765,0.1667,1,5.0
+70,Clinique Aura Perfume Spray,Beauty & Personal Care,Fragrance,Clinique,24.11,Mid-Range,Low-Performer,2025-07-09,2026-02-11,3,7,2,49.38,2,2,24.69,24.69,7.05,48,12,0.2500,0.1667,2,4.5
+858,Wilson Performance Cycling,Sports & Outdoors,Cycling,Wilson,49.15,Mid-Range,Low-Performer,2023-04-21,2023-04-21,37,0,1,49.32,1,1,49.32,49.32,49.32,10,3,0.3000,0.3333,0,
+324,Nike Gold-Plated Jewelry,Clothing & Accessories,Jewelry,Nike,48.96,Mid-Range,Low-Performer,2024-01-26,2024-01-26,28,0,1,49.2,1,1,49.2,49.20,49.2,33,11,0.3333,0.0909,1,5.0
+869,Spalding Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Spalding,49.45,Mid-Range,Low-Performer,2024-12-29,2024-12-29,17,0,1,48.96,1,1,48.96,48.96,48.96,7,1,0.1429,1.0000,1,3.0
+495,Sony Ultra Air18 Laptop,Electronics,Laptops,Sony,47.29,Mid-Range,Low-Performer,2026-03-14,2026-03-14,2,0,1,47.41,1,1,47.41,47.41,47.41,26,2,0.0769,0.5000,2,5.0
+947,Fisher-Price Ember Board Game,Toys & Games,Board Games,Fisher-Price,44.62,Mid-Range,Low-Performer,2023-11-21,2023-11-21,30,0,1,46.52,1,1,46.52,46.52,46.52,3,1,0.3333,1.0000,1,3.0
+291,Gap Galaxy10 Training Shoes,Clothing & Accessories,Footwear,Gap,48.29,Mid-Range,Low-Performer,2023-03-11,2023-03-11,38,0,1,46.46,1,1,46.46,46.46,46.46,20,3,0.1500,0.3333,1,5.0
+44,Olay Bath & Body Wash,Beauty & Personal Care,Bath & Body,Olay,22.42,Mid-Range,Low-Performer,2024-01-18,2024-08-27,21,7,2,45.879999999999995,2,2,22.94,22.94,6.55,14,9,0.6429,0.2222,2,3.5
+940,LEGO Air Sam Figure,Toys & Games,Action Figures,LEGO,45.93,Mid-Range,Low-Performer,2023-03-21,2023-03-21,38,0,1,45.74,1,1,45.74,45.74,45.74,4,2,0.5000,0.5000,1,1.0
+709,Pyrex Premium Furniture,Home & Kitchen,Furniture,Pyrex,42.64,Mid-Range,Low-Performer,2025-03-02,2025-03-02,14,0,1,44.07,1,1,44.07,44.07,44.07,9,1,0.1111,1.0000,2,4.5
+990,Studio: A Comprehensive Guide,Toys & Games,Video Games,LEGO,43.11,Mid-Range,Low-Performer,2025-10-10,2025-10-10,7,0,1,43.91,1,1,43.91,43.91,43.91,5,2,0.4000,0.5000,1,5.0
+750,KitchenAid Non-Stick Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,45.35,Mid-Range,Low-Performer,2025-08-02,2025-08-02,9,0,1,43.83,1,1,43.83,43.83,43.83,21,5,0.2381,0.2000,2,4.5
+808,3M Organization Organizer,Office Products,Organization,3M,7.43,Budget,Low-Performer,2023-09-30,2025-10-19,7,25,4,43.46,6,4,7.24,10.87,1.74,174,40,0.2299,0.1000,4,4.25
+73,Maybelline Bloom Eau de Toilette,Beauty & Personal Care,Fragrance,Maybelline,14.04,Budget,Low-Performer,2023-05-01,2024-06-16,23,13,2,43.379999999999995,3,2,14.48,21.69,3.34,27,5,0.1852,0.4000,1,5.0
+124,Learn Finance with Finn,Books,Children's Books,HarperCollins,21.93,Mid-Range,Low-Performer,2025-08-01,2025-08-01,9,0,1,43.24,2,1,21.62,43.24,43.24,8,3,0.3750,0.3333,0,
+79,Maybelline Haircare Conditioner,Beauty & Personal Care,Haircare,Maybelline,21.42,Mid-Range,Low-Performer,2025-10-04,2026-02-28,3,4,2,42.900000000000006,2,2,21.45,21.45,10.73,21,8,0.3810,0.2500,1,4.0
+402,Adidas Womenswear in Red,Clothing & Accessories,Womenswear,Adidas,20.74,Mid-Range,Low-Performer,2023-11-03,2024-08-24,21,9,2,42.69,2,2,21.35,21.35,4.74,49,15,0.3061,0.1333,3,4.0
+104,L'Oreal Skincare for Dry Skin,Beauty & Personal Care,Skincare,L'Oreal,21.48,Mid-Range,Low-Performer,2023-03-23,2025-02-19,15,23,2,42.43,2,2,21.22,21.22,1.84,21,2,0.0952,1.0000,2,3.5
+959,LEGO Cascade Strategy Game,Toys & Games,Board Games,LEGO,41.49,Mid-Range,Low-Performer,2023-06-30,2023-06-30,35,0,1,42.16,1,1,42.16,42.16,42.16,4,2,0.5000,0.5000,1,4.0
+326,Nike Sterling Silver Jewelry,Clothing & Accessories,Jewelry,Nike,21.27,Mid-Range,Low-Performer,2024-03-10,2024-03-10,26,0,1,42.08,2,1,21.04,42.08,42.08,25,5,0.2000,0.2000,0,
+838,Wilson 77L Camping Gear,Sports & Outdoors,Camping Gear,Wilson,42.09,Mid-Range,Low-Performer,2023-04-06,2023-04-06,37,0,1,41.77,1,1,41.77,41.77,41.77,1,2,2.0000,0.5000,2,4.0
+793,Ninja LED Lighting,Home & Kitchen,Lighting,Ninja,43.35,Mid-Range,Low-Performer,2025-09-20,2025-09-20,8,0,1,41.36,1,1,41.36,41.36,41.36,6,2,0.3333,0.5000,3,4.0
+766,Cuisinart Denim Kitchenware,Home & Kitchen,Kitchenware,Cuisinart,39.52,Mid-Range,Low-Performer,2023-02-20,2023-02-20,39,0,1,41.28,1,1,41.28,41.28,41.28,69,16,0.2319,0.0625,0,
+217,The sophisticated Guide to Software Engineering,Books,Non-Fiction,Penguin Books,21.17,Mid-Range,Low-Performer,2024-03-19,2024-03-19,26,0,1,40.8,2,1,20.4,40.80,40.8,5,3,0.6000,0.3333,1,5.0
+325,Adidas Sterling Silver Jewelry,Clothing & Accessories,Jewelry,Adidas,41.86,Mid-Range,Low-Performer,2026-01-16,2026-01-16,4,0,1,40.67,1,1,40.67,40.67,40.67,23,3,0.1304,0.3333,1,3.0
+122,Learn Psychology with Jack,Books,Children's Books,Random House,10.2,Budget,Low-Performer,2023-02-25,2024-03-15,26,13,2,40.11,4,2,10.09,20.06,3.09,4,2,0.5000,1.0000,3,3.67
+810,Staples Compact Printer,Office Products,Printers,Staples,20.25,Mid-Range,Low-Performer,2024-01-15,2024-01-15,28,0,1,39.62,2,1,19.81,39.62,39.62,14,4,0.2857,0.2500,1,5.0
+954,LEGO Aura Card Game,Toys & Games,Board Games,LEGO,19.66,Budget,Low-Performer,2023-05-27,2023-09-11,32,4,2,38.77,2,2,19.39,19.39,9.69,38,5,0.1316,0.4000,2,2.5
+32,Bosch Professional Tools & Equipment,Automotive,Tools & Equipment,Bosch,37.6,Mid-Range,Low-Performer,2025-10-25,2025-10-25,7,0,1,38.05,1,1,38.05,38.05,38.05,4,4,1.0000,0.2500,1,4.0
+613,Nestle Certified Organic Organic Food,Grocery & Gourmet,Organic Foods,Nestle,9.98,Budget,Low-Performer,2024-04-26,2025-07-29,10,15,2,38.019999999999996,4,2,9.51,19.01,2.53,19,7,0.3684,0.2857,2,5.0
+651,Lindt Snack Family Size,Grocery & Gourmet,Snacks,Lindt,9.56,Budget,Low-Performer,2025-06-10,2025-06-13,11,0,2,37.87,4,2,9.39,18.93,37.87,47,14,0.2979,0.1429,1,5.0
+979,LEGO Machine Learning 1000pc Puzzle,Toys & Games,Puzzles,LEGO,38.35,Mid-Range,Low-Performer,2026-04-07,2026-04-07,1,0,1,37.15,1,1,37.15,37.15,37.15,14,7,0.5000,0.1429,1,4.0
+936,LEGO Prime Ella Figure,Toys & Games,Action Figures,LEGO,35.62,Mid-Range,Low-Performer,2025-10-30,2025-10-30,7,0,1,37.04,1,1,37.04,37.04,37.04,8,2,0.2500,0.5000,1,5.0
+898,Spalding Max10 Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Spalding,18.03,Budget,Low-Performer,2026-03-10,2026-03-10,2,0,1,36.86,2,1,18.43,36.86,36.86,12,4,0.3333,0.2500,1,3.0
+153,An Premium Pioneer: Principles and Applications,Books,Comics,Oxford University Press,36.7,Mid-Range,Low-Performer,2026-04-28,2026-04-28,1,0,1,36.57,1,1,36.57,36.57,36.57,11,3,0.2727,0.3333,1,5.0
+939,"Nerf Aria 27"" Figure",Toys & Games,Action Figures,Nerf,12.24,Budget,Low-Performer,2025-05-19,2025-06-08,11,1,2,36.36,3,2,12.19,18.18,36.36,49,14,0.2857,0.1429,0,
+131,Superior vanguard Adventure,Books,Children's Books,Penguin Books,18.81,Budget,Low-Performer,2023-04-19,2023-04-19,37,0,1,36.2,2,1,18.1,36.20,36.2,53,7,0.1321,0.1429,1,5.0
+341,Zara Menswear in Brown,Clothing & Accessories,Menswear,Zara,36.61,Mid-Range,Low-Performer,2025-12-15,2025-12-15,5,0,1,35.65,1,1,35.65,35.65,35.65,13,7,0.5385,0.1429,1,5.0
+616,Nestle Organic Organic Food,Grocery & Gourmet,Organic Foods,Nestle,8.97,Budget,Low-Performer,2024-10-01,2024-10-01,19,0,1,35.52,4,1,8.88,35.52,35.52,1,1,1.0000,1.0000,1,5.0
+5,Turtle Wax Premium Car Accessorie,Automotive,Car Accessories,Turtle Wax,35.26,Mid-Range,Low-Performer,2025-09-27,2025-09-27,8,0,1,34.73,1,1,34.73,34.73,34.73,29,4,0.1379,0.2500,0,
+972,LEGO Drift Science Experiment,Toys & Games,Educational Toys,LEGO,16.74,Budget,Low-Performer,2024-06-10,2024-06-10,23,0,1,34.64,2,1,17.32,34.64,34.64,14,3,0.2143,0.3333,1,5.0
+35,Michelin Heavy-Duty Tools & Equipment,Automotive,Tools & Equipment,Michelin,34.36,Mid-Range,Low-Performer,2023-12-29,2023-12-29,29,0,1,34.59,1,1,34.59,34.59,34.59,17,4,0.2353,0.2500,0,
+680,"Cuisinart 27"" Bedding Set",Home & Kitchen,Bedding,Cuisinart,32.97,Mid-Range,Low-Performer,2024-08-22,2024-08-22,21,0,1,33.98,1,1,33.98,33.98,33.98,10,2,0.2000,0.5000,0,
+250,Adidas Classic Accessorie,Clothing & Accessories,Accessories,Adidas,34.73,Mid-Range,Low-Performer,2024-11-20,2024-11-20,18,0,1,33.92,1,1,33.92,33.92,33.92,58,12,0.2069,0.0833,1,1.0
+678,Cuisinart Ultra-Soft Bedding,Home & Kitchen,Bedding,Cuisinart,34.76,Mid-Range,Low-Performer,2023-03-23,2023-03-23,38,0,1,33.84,1,1,33.84,33.84,33.84,38,9,0.2368,0.1111,0,
+597,Nestle Organic Beverage,Grocery & Gourmet,Beverages,Nestle,8.66,Budget,Low-Performer,2025-07-19,2025-07-19,10,0,1,33.0,4,1,8.25,33.00,33.0,7,1,0.1429,1.0000,1,2.0
+661,KitchenAid Air Appliance,Home & Kitchen,Appliances,KitchenAid,33.31,Mid-Range,Low-Performer,2023-03-15,2023-03-15,38,0,1,32.95,1,1,32.95,32.95,32.95,4,4,1.0000,0.2500,1,5.0
+345,Nike Premium Menswear,Clothing & Accessories,Menswear,Nike,33.02,Mid-Range,Low-Performer,2025-04-25,2025-04-25,13,0,1,32.79,1,1,32.79,32.79,32.79,6,2,0.3333,0.5000,1,5.0
+973,Fisher-Price Bloom Building Set,Toys & Games,Educational Toys,Fisher-Price,31.54,Mid-Range,Low-Performer,2023-12-01,2023-12-01,29,0,1,32.58,1,1,32.58,32.58,32.58,28,9,0.3214,0.1111,0,
+672,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,31.65,Mid-Range,Low-Performer,2025-03-09,2025-03-09,14,0,1,32.56,1,1,32.56,32.56,32.56,10,5,0.5000,0.2000,1,2.0
+200,The element's element,Books,Fiction,Vintage Books,16.79,Budget,Low-Performer,2026-03-08,2026-03-08,2,0,1,32.44,2,1,16.22,32.44,32.44,24,5,0.2083,0.2000,1,5.0
+358,Adidas Classic Fit Menswear,Clothing & Accessories,Menswear,Adidas,30.96,Mid-Range,Low-Performer,2025-01-09,2025-01-09,16,0,1,32.37,1,1,32.37,32.37,32.37,81,13,0.1605,0.0769,1,5.0
+659,Cuisinart Digital Appliance,Home & Kitchen,Appliances,Cuisinart,15.44,Budget,Low-Performer,2023-08-03,2023-08-03,33,0,1,31.54,2,1,15.77,31.54,31.54,8,1,0.1250,1.0000,0,
+170,Advanced Finance,Books,Educational,Random House,10.27,Budget,Low-Performer,2023-04-11,2025-01-31,16,21,2,30.78,3,2,10.18,15.39,1.47,20,6,0.3000,0.3333,2,4.5
+560,"Samsung Essential 17"" Display Tablet",Electronics,Tablets,Samsung,31.93,Mid-Range,Low-Performer,2023-03-17,2023-03-17,38,0,1,30.73,1,1,30.73,30.73,30.73,52,13,0.2500,0.0769,0,
+97,Olay Makeup Palette,Beauty & Personal Care,Makeup,Olay,15.23,Budget,Low-Performer,2023-09-07,2024-12-30,17,15,2,30.37,2,2,15.18,15.19,2.02,46,8,0.1739,0.2500,2,4.0
+965,LEGO Aura STEM Kit,Toys & Games,Educational Toys,LEGO,15.05,Budget,Low-Performer,2024-10-26,2024-10-26,19,0,1,29.96,2,1,14.98,29.96,29.96,3,1,0.3333,1.0000,0,
+102,L'Oreal Makeup Palette,Beauty & Personal Care,Makeup,L'Oreal,28.86,Mid-Range,Low-Performer,2026-05-05,2026-05-05,0,0,1,29.91,1,1,29.91,29.91,29.91,3,5,1.6667,0.2000,1,4.0
+675,Le Creuset Ultra-Soft Bedding,Home & Kitchen,Bedding,Le Creuset,28.57,Mid-Range,Low-Performer,2024-03-06,2024-03-06,26,0,1,29.54,1,1,29.54,29.54,29.54,15,2,0.1333,0.5000,0,
+53,L'Oreal Velvet Eau de Toilette,Beauty & Personal Care,Fragrance,L'Oreal,30.62,Mid-Range,Low-Performer,2025-11-13,2025-11-13,6,0,1,29.49,1,1,29.49,29.49,29.49,14,2,0.1429,0.5000,0,
+68,Estee Lauder Velvet Eau de Parfum,Beauty & Personal Care,Fragrance,Estee Lauder,28.53,Mid-Range,Low-Performer,2025-02-06,2025-02-06,15,0,1,28.88,1,1,28.88,28.88,28.88,13,2,0.1538,0.5000,1,5.0
+187,The legacy's legacy,Books,Fiction,Penguin Books,9.61,Budget,Low-Performer,2024-08-19,2026-03-02,2,19,2,28.82,3,2,9.64,14.41,1.52,27,7,0.2593,0.2857,1,1.0
+337,Nike Premium Menswear,Clothing & Accessories,Menswear,Nike,27.82,Mid-Range,Low-Performer,2023-10-10,2023-10-10,31,0,1,28.52,1,1,28.52,28.52,28.52,3,4,1.3333,0.2500,1,5.0
+634,Nestle Organic Snack,Grocery & Gourmet,Snacks,Nestle,13.7,Budget,Low-Performer,2023-11-16,2025-03-18,14,16,2,28.439999999999998,2,2,14.22,14.22,1.78,7,8,1.1429,0.2500,2,4.0
+374,Nike Premium Menswear,Clothing & Accessories,Menswear,Nike,27.76,Mid-Range,Low-Performer,2023-11-03,2023-11-03,30,0,1,28.38,1,1,28.38,28.38,28.38,18,3,0.1667,0.3333,2,4.5
+987,LEGO Panoramic Software Engineering Puzzle,Toys & Games,Puzzles,LEGO,28.98,Mid-Range,Low-Performer,2024-05-08,2024-05-08,24,0,1,27.66,1,1,27.66,27.66,27.66,20,5,0.2500,0.2000,1,5.0
+385,Zara Casual Womenswear,Clothing & Accessories,Womenswear,Zara,27.68,Mid-Range,Low-Performer,2024-01-12,2024-01-12,28,0,1,27.6,1,1,27.6,27.60,27.6,23,3,0.1304,0.3333,0,
+306,Adidas Prime10 Training Shoes,Clothing & Accessories,Footwear,Adidas,13.48,Budget,Low-Performer,2024-09-17,2025-06-15,11,9,2,27.11,2,2,13.56,13.56,3.01,5,2,0.4000,1.0000,2,4.5
+982,Barbie Panoramic Statistics Puzzle,Toys & Games,Puzzles,Barbie,27.8,Mid-Range,Low-Performer,2025-08-05,2025-08-05,9,0,1,26.9,1,1,26.9,26.90,26.9,7,1,0.1429,1.0000,2,5.0
+820,"Staples Stationery - 27""",Office Products,Stationery,Staples,26.68,Mid-Range,Low-Performer,2024-01-09,2024-01-09,28,0,1,26.86,1,1,26.86,26.86,26.86,16,2,0.1250,0.5000,1,1.0
+94,Neutrogena Matte Makeup,Beauty & Personal Care,Makeup,Neutrogena,8.91,Budget,Low-Performer,2024-02-08,2025-07-19,10,17,3,26.43,3,3,8.81,8.81,1.55,118,22,0.1864,0.1364,3,3.33
+598,Kraft Premium Beverage,Grocery & Gourmet,Beverages,Kraft,6.9,Budget,Low-Performer,2024-07-12,2024-07-12,22,0,1,26.32,4,1,6.58,26.32,26.32,3,2,0.6667,0.5000,2,4.5
+307,Adidas Pro15 Training Shoes,Clothing & Accessories,Footwear,Adidas,25.9,Mid-Range,Low-Performer,2026-02-20,2026-02-20,3,0,1,26.18,1,1,26.18,26.18,26.18,2,3,1.5000,0.3333,2,3.5
+711,Dyson Furniture - Ivory,Home & Kitchen,Furniture,Dyson,26.33,Mid-Range,Low-Performer,2024-02-04,2024-02-04,27,0,1,25.89,1,1,25.89,25.89,25.89,18,3,0.1667,0.3333,1,4.0
+22,Goodyear Synthetic Fluid,Automotive,Fluids,Goodyear,24.89,Mid-Range,Low-Performer,2024-12-06,2024-12-06,17,0,1,25.75,1,1,25.75,25.75,25.75,9,2,0.2222,0.5000,1,4.0
+821,Fellowes Premium Stationery Set,Office Products,Stationery,Fellowes,24.55,Mid-Range,Low-Performer,2023-03-30,2023-03-30,38,0,1,25.6,1,1,25.6,25.60,25.6,80,15,0.1875,0.0667,1,5.0
+304,Nike Z8 Running Shoes,Clothing & Accessories,Footwear,Nike,24.48,Mid-Range,Low-Performer,2023-09-09,2023-09-09,32,0,1,25.55,1,1,25.55,25.55,25.55,10,2,0.2000,0.5000,1,3.0
+790,Instant Pot Classic Lighting,Home & Kitchen,Lighting,Instant Pot,13.17,Budget,Low-Performer,2026-01-06,2026-01-06,4,0,1,25.3,2,1,12.65,25.30,25.3,14,2,0.1429,0.5000,1,5.0
+956,Hasbro Drift Card Game,Toys & Games,Board Games,Hasbro,12.08,Budget,Low-Performer,2025-07-06,2025-07-06,10,0,1,24.8,2,1,12.4,24.80,24.8,19,5,0.2632,0.2000,1,5.0
+45,Olay Bath & Body - Lavender,Beauty & Personal Care,Bath & Body,Olay,11.95,Budget,Low-Performer,2024-02-08,2024-03-24,26,1,2,24.41,2,2,12.2,12.21,24.41,22,8,0.3636,0.2500,1,3.0
+753,KitchenAid Professional Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,25.0,Mid-Range,Low-Performer,2025-10-20,2025-10-20,7,0,1,23.99,1,1,23.99,23.99,23.99,8,2,0.2500,0.5000,0,
+765,All-Clad Non-Stick Kitchenware,Home & Kitchen,Kitchenware,All-Clad,23.71,Mid-Range,Low-Performer,2024-01-25,2024-01-25,28,0,1,23.87,1,1,23.87,23.87,23.87,21,6,0.2857,0.1667,1,4.0
+8,Bosch Car Accessorie - White,Automotive,Car Accessories,Bosch,23.28,Mid-Range,Low-Performer,2023-08-21,2023-08-21,33,0,1,23.45,1,1,23.45,23.45,23.45,13,7,0.5385,0.1429,0,
+368,Nike Menswear in Gray,Clothing & Accessories,Menswear,Nike,24.31,Mid-Range,Low-Performer,2025-05-03,2025-05-03,12,0,1,23.23,1,1,23.23,23.23,23.23,8,2,0.2500,0.5000,1,5.0
+625,PepsiCo Organic Pantry Staple,Grocery & Gourmet,Pantry Staples,PepsiCo,3.24,Budget,Low-Performer,2023-07-16,2026-04-19,1,33,5,22.96,7,5,3.25,4.59,0.7,84,25,0.2976,0.2000,2,4.5
+620,Twinnings Pantry Staple Unscented,Grocery & Gourmet,Pantry Staples,Twinnings,5.64,Budget,Low-Performer,2024-09-03,2024-10-12,19,1,2,22.740000000000002,4,2,5.7,11.37,22.74,35,9,0.2571,0.2222,0,
+637,Nestle Tangy Snack,Grocery & Gourmet,Snacks,Nestle,7.48,Budget,Low-Performer,2024-04-23,2024-07-28,22,3,2,22.61,3,2,7.49,11.31,7.54,49,10,0.2041,0.2000,2,5.0
+669,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,21.98,Mid-Range,Low-Performer,2023-11-17,2023-11-17,30,0,1,22.19,1,1,22.19,22.19,22.19,49,9,0.1837,0.1111,0,
+92,L'Oreal Haircare Conditioner,Beauty & Personal Care,Haircare,L'Oreal,7.6,Budget,Low-Performer,2023-07-08,2024-01-25,28,6,2,21.96,3,2,7.32,10.98,3.66,14,7,0.5000,0.2857,0,
+74,L'Oreal Haircare Treatment,Beauty & Personal Care,Haircare,L'Oreal,22.52,Mid-Range,Low-Performer,2023-06-01,2023-06-01,35,0,1,21.7,1,1,21.7,21.70,21.7,16,4,0.2500,0.2500,0,
+77,Maybelline Haircare Serum,Beauty & Personal Care,Haircare,Maybelline,7.34,Budget,Low-Performer,2023-09-29,2023-09-29,32,0,1,21.36,3,1,7.12,21.36,21.36,10,1,0.1000,1.0000,1,1.0
+344,Vans Classic Fit Menswear,Clothing & Accessories,Menswear,Vans,20.49,Mid-Range,Low-Performer,2024-11-04,2024-11-04,18,0,1,20.57,1,1,20.57,20.57,20.57,8,1,0.1250,1.0000,0,
+797,Fellowes Office Furniture - Navy,Office Products,Office Furniture,Fellowes,19.56,Budget,Low-Performer,2024-07-19,2024-07-19,22,0,1,19.78,1,1,19.78,19.78,19.78,7,2,0.2857,0.5000,1,2.0
+718,KitchenAid Furniture - Black,Home & Kitchen,Furniture,KitchenAid,19.59,Budget,Low-Performer,2026-02-27,2026-02-27,3,0,1,19.07,1,1,19.07,19.07,19.07,23,4,0.1739,0.2500,0,
+49,Maybelline Bath & Body Butter,Beauty & Personal Care,Bath & Body,Maybelline,19.63,Budget,Low-Performer,2026-01-05,2026-01-05,4,0,1,18.82,1,1,18.82,18.82,18.82,33,11,0.3333,0.0909,0,
+339,H&M Menswear in Charcoal,Clothing & Accessories,Menswear,H&M,19.28,Budget,Low-Performer,2023-08-14,2023-08-14,33,0,1,18.61,1,1,18.61,18.61,18.61,6,3,0.5000,0.3333,0,
+827,"Staples Supplie - 14""",Office Products,Supplies,Staples,18.78,Budget,Low-Performer,2025-01-19,2025-01-19,16,0,1,18.35,1,1,18.35,18.35,18.35,24,7,0.2917,0.1429,1,5.0
+783,Cuisinart Minimalist Lighting,Home & Kitchen,Lighting,Cuisinart,17.85,Budget,Low-Performer,2023-05-31,2023-05-31,36,0,1,18.29,1,1,18.29,18.29,18.29,32,7,0.2188,0.1429,1,5.0
+874,Wilson Pro2 Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,17.74,Budget,Low-Performer,2024-06-16,2024-06-16,23,0,1,18.06,1,1,18.06,18.06,18.06,26,2,0.0769,0.5000,1,2.0
+626,"Lavazza Pantry Staple - 14""",Grocery & Gourmet,Pantry Staples,Lavazza,8.78,Budget,Low-Performer,2024-10-01,2024-10-01,19,0,1,17.56,2,1,8.78,17.56,17.56,23,10,0.4348,0.1000,0,
+194,Modern of stars,Books,Fiction,Cambridge Press,17.23,Budget,Low-Performer,2024-12-31,2024-12-31,17,0,1,17.49,1,1,17.49,17.49,17.49,1,2,2.0000,0.5000,2,4.0
+313,Ralph Lauren Air9 Running Shoes,Clothing & Accessories,Footwear,Ralph Lauren,16.91,Budget,Low-Performer,2023-03-11,2023-03-11,38,0,1,17.33,1,1,17.33,17.33,17.33,7,1,0.1429,1.0000,0,
+12,"Bosch Car Care - 14""",Automotive,Car Care,Bosch,16.8,Budget,Low-Performer,2026-03-17,2026-03-17,2,0,1,17.12,1,1,17.12,17.12,17.12,27,9,0.3333,0.1111,2,2.5
+977,LEGO Cybersecurity 2000pc Puzzle,Toys & Games,Puzzles,LEGO,16.29,Budget,Low-Performer,2024-08-31,2024-08-31,21,0,1,17.09,1,1,17.09,17.09,17.09,8,1,0.1250,1.0000,1,1.0
+314,DKNY Ruby Jewelry,Clothing & Accessories,Jewelry,DKNY,17.04,Budget,Low-Performer,2025-03-30,2025-03-30,14,0,1,16.93,1,1,16.93,16.93,16.93,16,1,0.0625,1.0000,0,
+642,Nestle Organic Snack,Grocery & Gourmet,Snacks,Nestle,15.89,Budget,Low-Performer,2024-05-27,2024-05-27,24,0,1,16.4,1,1,16.4,16.40,16.4,10,4,0.4000,0.2500,1,4.0
+25,WeatherTech Synthetic Fluid,Automotive,Fluids,WeatherTech,16.31,Budget,Low-Performer,2024-08-21,2024-08-21,21,0,1,16.28,1,1,16.28,16.28,16.28,33,12,0.3636,0.0833,0,
+214,"Sleek Deep Learning: The Concepts, Techniques, and Tools",Books,Non-Fiction,HarperCollins,15.85,Budget,Low-Performer,2023-11-08,2023-11-08,30,0,1,16.18,1,1,16.18,16.18,16.18,18,3,0.1667,0.3333,1,5.0
+621,"Nestle Pantry Staple - 32""",Grocery & Gourmet,Pantry Staples,Nestle,5.45,Budget,Low-Performer,2025-03-27,2025-03-27,14,0,1,15.63,3,1,5.21,15.63,15.63,3,1,0.3333,1.0000,1,5.0
+52,L'Oreal Bath & Body Scrub,Beauty & Personal Care,Bath & Body,L'Oreal,14.87,Budget,Low-Performer,2025-12-24,2025-12-24,5,0,1,15.17,1,1,15.17,15.17,15.17,4,2,0.5000,0.5000,1,3.0
+953,LEGO Bloom Board Game,Toys & Games,Board Games,LEGO,15.09,Budget,Low-Performer,2024-02-10,2024-02-10,27,0,1,15.17,1,1,15.17,15.17,15.17,7,1,0.1429,1.0000,1,4.0
+87,L'Oreal Haircare Serum,Beauty & Personal Care,Haircare,L'Oreal,14.36,Budget,Low-Performer,2025-08-09,2025-08-09,9,0,1,15.04,1,1,15.04,15.04,15.04,1,1,1.0000,1.0000,0,
+19,Bosch Electronic Display,Automotive,Electronics,Bosch,14.57,Budget,Low-Performer,2023-09-01,2023-09-01,32,0,1,14.32,1,1,14.32,14.32,14.32,12,7,0.5833,0.1429,1,3.0
+578,Apple X12 Activity Band,Electronics,Wearables,Apple,13.8,Budget,Low-Performer,2025-07-22,2025-07-22,10,0,1,14.11,1,1,14.11,14.11,14.11,62,18,0.2903,0.0556,0,
+205,The Classic Aurora,Books,Fiction,Cambridge Press,12.67,Budget,Low-Performer,2024-05-12,2024-05-12,24,0,1,13.12,1,1,13.12,13.12,13.12,2,1,0.5000,1.0000,1,4.0
+106,L'Oreal Skincare Serum,Beauty & Personal Care,Skincare,L'Oreal,12.32,Budget,Low-Performer,2026-04-02,2026-04-02,1,0,1,11.74,1,1,11.74,11.74,11.74,18,5,0.2778,0.2000,0,
+199,A superior fusion,Books,Fiction,HarperCollins,11.58,Budget,Low-Performer,2025-04-03,2025-04-03,13,0,1,11.72,1,1,11.72,11.72,11.72,15,3,0.2000,0.3333,0,
+648,Nestle Snack Family Size,Grocery & Gourmet,Snacks,Nestle,5.86,Budget,Low-Performer,2025-02-15,2025-02-15,15,0,1,11.72,2,1,5.86,11.72,11.72,9,1,0.1111,1.0000,1,4.0
+615,"Hershey Organic Organic Food - 15.6""",Grocery & Gourmet,Organic Foods,Hershey,5.58,Budget,Low-Performer,2024-12-15,2025-07-22,10,7,2,11.510000000000002,2,2,5.76,5.76,1.64,15,5,0.3333,0.4000,2,5.0
+611,Nestle Organic Organic Food Variety,Grocery & Gourmet,Organic Foods,Nestle,3.91,Budget,Low-Performer,2026-03-03,2026-03-03,2,0,1,11.19,3,1,3.73,11.19,11.19,4,2,0.5000,0.5000,0,
+123,The robust bear,Books,Children's Books,Penguin Books,10.69,Budget,Low-Performer,2025-02-10,2025-02-10,15,0,1,10.92,1,1,10.92,10.92,10.92,1,1,1.0000,1.0000,1,3.0
+252,Nike Premium Accessorie,Clothing & Accessories,Accessories,Nike,10.43,Budget,Low-Performer,2025-11-04,2025-11-04,6,0,1,10.7,1,1,10.7,10.70,10.7,6,3,0.5000,0.3333,2,4.5
+754,"Pyrex 14"" Kitchenware Set",Home & Kitchen,Kitchenware,Pyrex,11.07,Budget,Low-Performer,2024-03-28,2024-03-28,26,0,1,10.67,1,1,10.67,10.67,10.67,8,2,0.2500,0.5000,2,5.0
+998,The Professional Vortex Remastered,Toys & Games,Video Games,Fisher-Price,10.01,Budget,Low-Performer,2024-07-26,2024-07-26,22,0,1,10.21,1,1,10.21,10.21,10.21,27,4,0.1481,0.2500,2,5.0
+828,Swingline Heavy-Duty Supplie,Office Products,Supplies,Swingline,9.83,Budget,Low-Performer,2024-07-24,2024-07-24,22,0,1,10.07,1,1,10.07,10.07,10.07,9,3,0.3333,0.3333,2,4.5
+253,Nike Premium Accessorie,Clothing & Accessories,Accessories,Nike,9.77,Budget,Low-Performer,2025-06-08,2025-06-08,11,0,1,9.29,1,1,9.29,9.29,9.29,23,7,0.3043,0.1429,0,
+647,PepsiCo Organic Snack,Grocery & Gourmet,Snacks,PepsiCo,8.45,Budget,Low-Performer,2025-05-10,2025-05-10,12,0,1,8.83,1,1,8.83,8.83,8.83,5,4,0.8000,0.2500,1,4.0
+111,"Neutrogena Skincare - 16""",Beauty & Personal Care,Skincare,Neutrogena,8.45,Budget,Low-Performer,2025-08-09,2025-08-09,9,0,1,8.5,1,1,8.5,8.50,8.5,9,1,0.1111,1.0000,1,2.0
+86,Olay Haircare Serum,Beauty & Personal Care,Haircare,Olay,7.31,Budget,Low-Performer,2025-09-14,2025-09-14,8,0,1,7.19,1,1,7.19,7.19,7.19,5,2,0.4000,0.5000,1,4.0
+652,Coca-Cola Snack Family Size,Grocery & Gourmet,Snacks,Coca-Cola,6.74,Budget,Low-Performer,2023-08-24,2023-08-24,33,0,1,6.58,1,1,6.58,6.58,6.58,21,6,0.2857,0.1667,0,
+236,Meditation,Books,Non-Fiction,Macmillan,6.42,Budget,Low-Performer,2025-08-23,2025-08-23,9,0,1,6.49,1,1,6.49,6.49,6.49,0,2,,0.5000,1,5.0
+627,Nestle Organic Pantry Staple,Grocery & Gourmet,Pantry Staples,Nestle,2.03,Budget,Low-Performer,2024-04-16,2024-10-23,19,6,2,6.1899999999999995,3,2,2.03,3.10,1.03,40,8,0.2000,0.2500,0,
+605,"Nestle Beverage - 13""",Grocery & Gourmet,Beverages,Nestle,5.93,Budget,Low-Performer,2023-03-09,2023-03-09,38,0,1,5.74,1,1,5.74,5.74,5.74,7,2,0.2857,0.5000,0,
+1,Mobil Heavy-Duty Car Accessorie,Automotive,Car Accessories,Mobil,13.44,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+6,Castrol Universal Car Accessorie,Automotive,Car Accessories,Castrol,55.11,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,58,16,0.2759,0.0000,0,
+7,Michelin Air11 Car Accessorie,Automotive,Car Accessories,Michelin,21.94,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,2,0.2500,0.0000,0,
+13,Bosch Car Care Cleaner,Automotive,Car Care,Bosch,30.72,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,40,6,0.1500,0.0000,1,5.0
+23,Michelin Synthetic Fluid,Automotive,Fluids,Michelin,54.0,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,18,2,0.1111,0.0000,0,
+26,Turtle Wax Synthetic Fluid,Automotive,Fluids,Turtle Wax,17.58,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,0,
+27,Michelin Synthetic Fluid,Automotive,Fluids,Michelin,21.96,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,1,0.1250,0.0000,0,
+28,Bosch Fluid Mercedes MB 229.5,Automotive,Fluids,Bosch,54.61,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,21,5,0.2381,0.0000,0,
+33,WeatherTech Galaxy8 Tools & Equipment,Automotive,Tools & Equipment,WeatherTech,36.83,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,1,0.0909,0.0000,0,
+36,NOCO Professional Tools & Equipment,Automotive,Tools & Equipment,NOCO,25.92,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,4,0.5000,0.0000,1,4.0
+37,Bosch Professional Tools & Equipment,Automotive,Tools & Equipment,Bosch,12.24,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,1,0.1000,0.0000,0,
+40,L'Oreal Bath & Body Wash,Beauty & Personal Care,Bath & Body,L'Oreal,10.59,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,1,4.0
+41,Olay Bath & Body Scrub,Beauty & Personal Care,Bath & Body,Olay,18.27,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,2,0.2500,0.0000,0,
+42,L'Oreal Bath & Body Scrub,Beauty & Personal Care,Bath & Body,L'Oreal,46.25,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,14,2,0.1429,0.0000,0,
+43,L'Oreal Bath & Body Scrub,Beauty & Personal Care,Bath & Body,L'Oreal,36.58,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,1,0.0833,0.0000,0,
+46,L'Oreal Bath & Body - Almond,Beauty & Personal Care,Bath & Body,L'Oreal,20.03,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,14,3,0.2143,0.0000,0,
+47,Dove Bath & Body Wash,Beauty & Personal Care,Bath & Body,Dove,10.99,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,1,0.5000,0.0000,0,
+48,Dove Bath & Body Scrub,Beauty & Personal Care,Bath & Body,Dove,14.48,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,3,0.2500,0.0000,1,5.0
+54,L'Oreal Nova Rollerball,Beauty & Personal Care,Fragrance,L'Oreal,19.83,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,0,0.0000,,0,
+56,L'Oreal Midnight Eau de Toilette,Beauty & Personal Care,Fragrance,L'Oreal,16.85,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,1,0.0769,0.0000,0,
+57,Maybelline Aura Perfume Spray,Beauty & Personal Care,Fragrance,Maybelline,14.09,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,0,0.0000,,0,
+58,L'Oreal Midnight Perfume Spray,Beauty & Personal Care,Fragrance,L'Oreal,20.79,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,1,0.1000,0.0000,0,
+60,Garnier Cascade Eau de Parfum,Beauty & Personal Care,Fragrance,Garnier,25.68,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,41,5,0.1220,0.0000,0,
+62,L'Oreal Bloom Eau de Parfum,Beauty & Personal Care,Fragrance,L'Oreal,32.8,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,1,0.1250,0.0000,0,
+63,Clinique Aura Eau de Toilette,Beauty & Personal Care,Fragrance,Clinique,12.8,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+65,L'Oreal Midnight Cologne,Beauty & Personal Care,Fragrance,L'Oreal,21.05,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,31,9,0.2903,0.0000,0,
+66,Dove Elysium Eau de Parfum,Beauty & Personal Care,Fragrance,Dove,21.01,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,1,4.0
+67,L'Oreal Cascade Perfume Spray,Beauty & Personal Care,Fragrance,L'Oreal,9.97,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+69,Olay Elysium Eau de Toilette,Beauty & Personal Care,Fragrance,Olay,35.55,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,2,0.5000,0.0000,0,
+71,Maybelline Aura Perfume Spray,Beauty & Personal Care,Fragrance,Maybelline,51.11,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,1,0.0833,0.0000,0,
+72,L'Oreal Aura Rollerball,Beauty & Personal Care,Fragrance,L'Oreal,31.65,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,2,0.2500,0.0000,0,
+78,"Neutrogena Haircare - 17""",Beauty & Personal Care,Haircare,Neutrogena,25.89,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,0,0.0000,,0,
+80,Olay Haircare Treatment,Beauty & Personal Care,Haircare,Olay,27.29,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,23,5,0.2174,0.0000,0,
+81,L'Oreal Haircare Conditioner,Beauty & Personal Care,Haircare,L'Oreal,50.54,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,17,1,0.0588,0.0000,0,
+82,"Garnier Haircare - 16""",Beauty & Personal Care,Haircare,Garnier,21.74,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,5,0.8333,0.0000,0,
+84,MAC Haircare Treatment,Beauty & Personal Care,Haircare,MAC,12.82,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,2,0.2857,0.0000,0,
+85,L'Oreal Haircare Shampoo,Beauty & Personal Care,Haircare,L'Oreal,13.14,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,27,2,0.0741,0.0000,0,
+88,L'Oreal Haircare Shampoo,Beauty & Personal Care,Haircare,L'Oreal,12.73,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+89,L'Oreal Haircare Serum,Beauty & Personal Care,Haircare,L'Oreal,7.78,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,5,0.3846,0.0000,0,
+90,L'Oreal Haircare Serum,Beauty & Personal Care,Haircare,L'Oreal,11.95,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,31,1,0.0323,0.0000,1,3.0
+91,"L'Oreal Haircare - 14""",Beauty & Personal Care,Haircare,L'Oreal,31.67,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,5,0.3333,0.0000,0,
+93,L'Oreal Makeup Palette,Beauty & Personal Care,Makeup,L'Oreal,13.63,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+95,Neutrogena Makeup Palette,Beauty & Personal Care,Makeup,Neutrogena,22.2,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,0,0.0000,,0,
+98,Olay Liquid Makeup,Beauty & Personal Care,Makeup,Olay,24.99,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,0,0.0000,,1,1.0
+99,Clinique Makeup Foundation,Beauty & Personal Care,Makeup,Clinique,10.13,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+100,L'Oreal Liquid Makeup,Beauty & Personal Care,Makeup,L'Oreal,34.55,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,4,0.8000,0.0000,0,
+101,L'Oreal Matte Makeup,Beauty & Personal Care,Makeup,L'Oreal,12.78,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,1,0.3333,0.0000,0,
+105,L'Oreal Skincare Cream,Beauty & Personal Care,Skincare,L'Oreal,45.09,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,4,0.2667,0.0000,1,2.0
+107,Dove Skincare for Dry Skin,Beauty & Personal Care,Skincare,Dove,22.88,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,5,0.8333,0.0000,0,
+108,L'Oreal Skincare Cream,Beauty & Personal Care,Skincare,L'Oreal,14.38,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+110,L'Oreal Skincare Complex,Beauty & Personal Care,Skincare,L'Oreal,27.21,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,1,0.3333,0.0000,0,
+114,Nivea Skincare Serum,Beauty & Personal Care,Skincare,Nivea,13.16,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,1,5.0
+115,L'Oreal Skincare Cream,Beauty & Personal Care,Skincare,L'Oreal,31.95,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,42,8,0.1905,0.0000,1,4.0
+116,"Maybelline Skincare - 13""",Beauty & Personal Care,Skincare,Maybelline,7.42,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,26,4,0.1538,0.0000,0,
+118,My First Quantum Computing,Books,Children's Books,Penguin Books,16.69,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,1,0.1250,0.0000,1,2.0
+120,Learn Leadership with Sam,Books,Children's Books,HarperCollins,19.28,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,1,4.0
+121,My First Optimization,Books,Children's Books,Macmillan,30.93,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,3,3.0000,0.0000,0,
+125,My First Meditation,Books,Children's Books,HarperCollins,8.66,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,1,0.3333,0.0000,0,
+126,My First Finance,Books,Children's Books,HarperCollins,18.58,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,6,0.5000,0.0000,0,
+127,Versatile fusion Adventure,Books,Children's Books,HarperCollins,32.34,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,42,3,0.0714,0.0000,0,
+128,Learn Programming with Ella,Books,Children's Books,Penguin Books,13.27,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+129,My First Optimization,Books,Children's Books,Penguin Books,9.67,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+130,Vortex and the sleek vortex,Books,Children's Books,Penguin Books,27.65,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+132,Apex and the professional apex,Books,Children's Books,Penguin Books,9.73,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+133,Ultimate pinnacle Adventure,Books,Children's Books,Simon & Schuster,12.27,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+134,Pinnacle and the premium pinnacle,Books,Children's Books,Penguin Books,16.43,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,0,0.0000,,0,
+135,Pioneer and the sophisticated pioneer,Books,Children's Books,HarperCollins,9.13,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,1,,0.0000,0,
+136,Advanced pinnacle Adventure,Books,Children's Books,Penguin Books,14.54,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,2,3.0
+137,Portable cipher Adventure,Books,Children's Books,Harvard Press,15.08,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,20,5,0.2500,0.0000,1,4.0
+138,Learn Optimization with Sam,Books,Children's Books,Penguin Books,20.72,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,1,0.2500,0.0000,1,5.0
+140,Learn Fitness with Sam,Books,Children's Books,Macmillan,16.39,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+141,"Legends #2: A Hands-On Approach",Books,Comics,Penguin Books,4.85,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,1,3.0
+142,An Compact Element: Building Real-World Solutions,Books,Comics,Penguin Books,7.64,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+144,"Odyssey #7: Concepts, Techniques, and Tools",Books,Comics,Penguin Books,9.2,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+145,Star Commander: Fundamentals and Beyond,Books,Comics,Penguin Books,13.58,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+146,The essential The Wanderer,Books,Comics,Penguin Books,17.12,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,0,0.0000,,0,
+147,"Saga #8: The Complete Reference",Books,Comics,Macmillan,6.91,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+148,The Sleek Drift: A Practical Approach,Books,Comics,Macmillan,8.35,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+149,The elegant Night Guardian,Books,Comics,Penguin Books,7.18,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,1,5.0
+150,A Superior Spectrum: Building Real-World Solutions,Books,Comics,Hachette,12.35,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+151,"Odyssey #5: Building Real-World Solutions",Books,Comics,Penguin Books,11.98,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+152,Odyssey - Volume 6,Books,Comics,Penguin Books,14.58,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+154,Shadow Agent: From Theory to Practice,Books,Comics,Penguin Books,14.2,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,1,1.0000,0.0000,0,
+155,Star Commander: The Complete Reference,Books,Comics,Penguin Books,24.55,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+156,Legends - Volume 10,Books,Comics,Oxford University Press,8.73,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,1,0.2500,0.0000,0,
+157,"Star Commander: Concepts, Techniques, and Tools",Books,Comics,Penguin Books,12.84,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,1,5.0
+158,Advanced Robotics,Books,Educational,Doubleday,12.43,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+159,Introduction to Deep Learning,Books,Educational,HarperCollins,11.76,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+160,Yoga: Advanced Concepts Explained,Books,Educational,Penguin Books,12.19,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,1,4.0
+161,Architecture: The Definitive Guide,Books,Educational,Simon & Schuster,8.44,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+162,Introduction to Linear Algebra,Books,Educational,HarperCollins,8.65,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+163,Architecture for Professionals,Books,Educational,Penguin Books,9.9,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+164,The dynamic Yoga Handbook,Books,Educational,HarperCollins,14.09,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+165,Advanced Statistics,Books,Educational,Simon & Schuster,25.2,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,0,0.0000,,0,
+166,The modern Philosophy Handbook,Books,Educational,Penguin Books,25.46,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,0,0.0000,,0,
+167,Introduction to Software Engineering,Books,Educational,Penguin Books,13.98,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+168,Advanced Machine Learning,Books,Educational,Penguin Books,16.18,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,0,0.0000,,0,
+169,The superior Machine Learning Handbook,Books,Educational,Random House,6.59,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,1,,0.0000,0,
+171,The dynamic Artificial Intelligence Handbook,Books,Educational,Penguin Books,11.85,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+172,The smart Statistics Handbook,Books,Educational,Penguin Books,9.0,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,1,0.3333,0.0000,0,
+173,Introduction to Software Engineering,Books,Educational,Hachette,11.23,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,1,,0.0000,1,5.0
+174,Leadership for Data Scientists,Books,Educational,Penguin Books,7.16,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+175,Advanced NLP,Books,Educational,Random House,4.31,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+176,Advanced Data Science,Books,Educational,Penguin Books,9.66,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+177,Introduction to Cybersecurity,Books,Educational,Vintage Books,13.99,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+178,Advanced Digital Marketing,Books,Educational,Bloomsbury,16.92,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+179,The portable Data Science Handbook,Books,Educational,Penguin Books,9.04,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+180,Fitness for Professionals,Books,Educational,Simon & Schuster,17.51,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,2,0.3333,0.0000,1,3.0
+181,Advanced Optimization,Books,Educational,Penguin Books,11.98,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+182,Advanced Computer Vision,Books,Educational,Hachette,17.68,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+183,Blockchain for Young Learners,Books,Educational,Penguin Books,15.1,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,2,0.6667,0.0000,0,
+184,Introduction to Deep Learning,Books,Educational,Penguin Books,11.88,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,2,0.2222,0.0000,0,
+185,Digital Marketing for Data Scientists,Books,Educational,Macmillan,8.49,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+186,The refined horizon,Books,Fiction,HarperCollins,14.22,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+188,The advanced vortex,Books,Fiction,Oxford University Press,7.79,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,1,2.0
+189,The ultimate horizon,Books,Fiction,Penguin Books,10.79,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+190,The zenith's zenith,Books,Fiction,Simon & Schuster,11.02,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+191,Modern of time,Books,Fiction,Penguin Books,12.74,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,2,2.0000,0.0000,1,2.0
+192,A Sophisticated Aurora,Books,Fiction,HarperCollins,6.76,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+193,The ultimate pioneer,Books,Fiction,HarperCollins,7.67,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+195,A ultimate pinnacle,Books,Fiction,Penguin Books,16.59,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,0,0.0000,,0,
+196,A robust drift,Books,Fiction,Macmillan,20.14,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,1,0.5000,0.0000,0,
+197,A premium legacy,Books,Fiction,Cambridge Press,20.53,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,1,5.0
+198,Elegant of silence,Books,Fiction,McGraw-Hill,12.55,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,1,1.0
+202,Modern of time,Books,Fiction,Penguin Books,5.28,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,1,3.0
+204,A refined quantum,Books,Fiction,Penguin Books,10.73,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+208,The innovative element,Books,Fiction,Penguin Books,16.99,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,2,0.6667,0.0000,0,
+209,The elegant vertex,Books,Fiction,Penguin Books,9.33,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,1,1.0000,0.0000,0,
+210,A essential nexus,Books,Fiction,HarperCollins,14.16,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+211,A smart quantum,Books,Fiction,Bloomsbury,11.5,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,1,3.0
+212,Versatile of thunder,Books,Fiction,Penguin Books,9.5,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+213,Psychology,Books,Non-Fiction,Random House,9.83,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,1,1.0
+216,Linear Algebra: A compact History,Books,Non-Fiction,HarperCollins,15.08,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,2,1.0000,0.0000,0,
+218,Algorithms: A portable History,Books,Non-Fiction,Random House,7.74,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,1,,0.0000,0,
+221,The advanced Guide to Data Structures,Books,Non-Fiction,Scholastic,14.87,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,1,1.0000,0.0000,1,5.0
+222,Nutrition,Books,Non-Fiction,Penguin Books,10.68,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,1,4.0
+223,Data Science,Books,Non-Fiction,MIT Press,28.68,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,1,0.5000,0.0000,0,
+224,Compact Leadership: The Advanced Concepts Explained,Books,Non-Fiction,Penguin Books,13.82,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+226,The Meditation: The Definitive Guide,Books,Non-Fiction,Oxford University Press,8.37,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+227,The advanced Guide to Yoga,Books,Non-Fiction,Random House,14.22,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+228,Digital Marketing: A classic History,Books,Non-Fiction,Penguin Books,13.09,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+230,Calculus,Books,Non-Fiction,Penguin Books,16.47,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,0,
+231,Entrepreneurship: A advanced History,Books,Non-Fiction,Penguin Books,5.64,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+232,Architecture: A superior History,Books,Non-Fiction,Penguin Books,15.3,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,3,0.3333,0.0000,0,
+234,The Blockchain: Building Real-World Solutions,Books,Non-Fiction,Penguin Books,13.92,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,1,5.0
+235,The Entrepreneurship: The Complete Reference,Books,Non-Fiction,Penguin Books,12.3,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+237,Nutrition,Books,Non-Fiction,McGraw-Hill,10.09,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+238,Finance: A robust History,Books,Non-Fiction,Penguin Books,12.13,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,1,5.0
+239,Elite Psychology: The The Definitive Guide,Books,Non-Fiction,Penguin Books,8.95,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+241,The robust Guide to Reinforcement Learning,Books,Non-Fiction,Macmillan,23.93,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,0,0.0000,,0,
+242,Professional Yoga: The Advanced Concepts Explained,Books,Non-Fiction,Cambridge Press,22.94,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+243,The World History: An Introduction for Beginners,Books,Non-Fiction,McGraw-Hill,10.83,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+244,Digital Marketing: A refined History,Books,Non-Fiction,Random House,24.01,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,1,0.1250,0.0000,1,3.0
+245,Programming: A elite History,Books,Non-Fiction,Cambridge Press,1.99,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+246,The NLP: A Practical Approach,Books,Non-Fiction,Penguin Books,14.15,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+247,The essential Guide to Deep Learning,Books,Non-Fiction,Penguin Books,13.72,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+248,Optimization,Books,Non-Fiction,Simon & Schuster,13.16,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,1,,0.0000,0,
+249,Compact Blockchain: The Principles and Applications,Books,Non-Fiction,HarperCollins,9.32,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,0,0.0000,,0,
+251,Nike Accessorie Set,Clothing & Accessories,Accessories,Nike,36.41,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,1,0.0833,0.0000,0,
+254,Adidas Premium Accessorie,Clothing & Accessories,Accessories,Adidas,38.08,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,2,0.6667,0.0000,2,3.5
+256,Nike Accessorie - Sage,Clothing & Accessories,Accessories,Nike,69.04,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,1,0.0909,0.0000,0,
+257,Nike Accessorie - Sand,Clothing & Accessories,Accessories,Nike,43.95,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+259,Nike Premium Accessorie,Clothing & Accessories,Accessories,Nike,39.35,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,1,0.3333,0.0000,0,
+260,Zara Classic Accessorie,Clothing & Accessories,Accessories,Zara,25.9,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,16,6,0.3750,0.0000,1,4.0
+263,Nike Premium Accessorie,Clothing & Accessories,Accessories,Nike,28.67,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,1,0.1111,0.0000,0,
+264,Adidas Accessorie Set,Clothing & Accessories,Accessories,Adidas,37.16,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,2,0.4000,0.0000,0,
+265,Nike Accessorie - Brown,Clothing & Accessories,Accessories,Nike,12.37,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,24,7,0.2917,0.0000,0,
+268,Nike Accessorie - Navy,Clothing & Accessories,Accessories,Nike,65.42,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,2,0.3333,0.0000,0,
+270,H&M Core Tote Bag,Clothing & Accessories,Bags,H&M,30.66,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,1,0.0769,0.0000,1,2.0
+272,Puma Classic Duffel Bag,Clothing & Accessories,Bags,Puma,60.83,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,0,0.0000,,1,4.0
+273,Nike Pixel14 Backpack,Clothing & Accessories,Bags,Nike,79.68,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,31,9,0.2903,0.0000,0,
+275,Nike X5 Crossbody Bag,Clothing & Accessories,Bags,Nike,47.36,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,1,0.2500,0.0000,0,
+276,Nike Pro Duffel Bag,Clothing & Accessories,Bags,Nike,21.29,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,1,2.0
+277,Nike Max Tote Bag,Clothing & Accessories,Bags,Nike,10.95,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+278,H&M Prime7 Messenger Bag,Clothing & Accessories,Bags,H&M,24.58,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,42,3,0.0714,0.0000,0,
+279,Nike Core Tote Bag,Clothing & Accessories,Bags,Nike,235.87,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,1,0.2500,0.0000,1,5.0
+281,Adidas Galaxy7 Messenger Bag,Clothing & Accessories,Bags,Adidas,38.77,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,22,4,0.1818,0.0000,0,
+282,Levi's Edge1 Messenger Bag,Clothing & Accessories,Bags,Levi's,51.82,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,2,2.0000,0.0000,0,
+284,Zara Air1 Running Shoes,Clothing & Accessories,Footwear,Zara,29.78,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,3,0.3750,0.0000,1,5.0
+285,Nike Z4 Running Shoes,Clothing & Accessories,Footwear,Nike,25.24,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,0,0.0000,,0,
+287,Nike Max14 Running Shoes,Clothing & Accessories,Footwear,Nike,54.32,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,1,0.1250,0.0000,0,
+288,Zara Essential Casual Sneakers,Clothing & Accessories,Footwear,Zara,108.92,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,2,0.2222,0.0000,0,
+292,Ralph Lauren Elite Casual Sneakers,Clothing & Accessories,Footwear,Ralph Lauren,23.74,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,2,1.0000,0.0000,0,
+293,Nike Air9 Running Shoes,Clothing & Accessories,Footwear,Nike,56.97,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,0,0.0000,,1,3.0
+294,Levi's Ultra Casual Sneakers,Clothing & Accessories,Footwear,Levi's,19.72,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,0,0.0000,,0,
+296,Zara Prime1 Hiking Boots,Clothing & Accessories,Footwear,Zara,43.72,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,0,0.0000,,0,
+297,Gap X11 Running Shoes,Clothing & Accessories,Footwear,Gap,42.6,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,3,0.2500,0.0000,0,
+298,Nike Elite Sandals,Clothing & Accessories,Footwear,Nike,23.23,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,1,0.2500,0.0000,0,
+299,Nike Pro Casual Sneakers,Clothing & Accessories,Footwear,Nike,71.87,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,3,0.7500,0.0000,0,
+301,Adidas Galaxy12 Training Shoes,Clothing & Accessories,Footwear,Adidas,27.01,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,18,2,0.1111,0.0000,0,
+302,Adidas Max Casual Sneakers,Clothing & Accessories,Footwear,Adidas,36.72,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,3,0.2500,0.0000,0,
+308,The North Face Classic Sandals,Clothing & Accessories,Footwear,The North Face,41.56,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,2,1.0000,0.0000,0,
+309,Nike Pro8 Training Shoes,Clothing & Accessories,Footwear,Nike,111.0,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,44,3,0.0682,0.0000,0,
+310,H&M Prime2 Training Shoes,Clothing & Accessories,Footwear,H&M,44.28,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,17,1,0.0588,0.0000,0,
+311,Zara Edge19 Running Shoes,Clothing & Accessories,Footwear,Zara,9.21,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,7,0.7000,0.0000,0,
+312,Nike Air Sandals,Clothing & Accessories,Footwear,Nike,23.04,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+315,Nike Silver Jewelry,Clothing & Accessories,Jewelry,Nike,12.15,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+316,Nike Sterling Silver Jewelry,Clothing & Accessories,Jewelry,Nike,64.02,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,0,0.0000,,0,
+317,Nike Platinum Jewelry,Clothing & Accessories,Jewelry,Nike,40.78,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+319,Adidas Amethyst Jewelry,Clothing & Accessories,Jewelry,Adidas,18.72,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,2,0.5000,0.0000,0,
+321,Nike Sterling Silver Jewelry,Clothing & Accessories,Jewelry,Nike,47.91,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,2,0.1538,0.0000,0,
+322,H&M Emerald Jewelry,Clothing & Accessories,Jewelry,H&M,11.56,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,30,3,0.1000,0.0000,1,1.0
+327,H&M Gold-Plated Jewelry,Clothing & Accessories,Jewelry,H&M,14.49,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,0,
+328,Adidas Gold-Plated Jewelry,Clothing & Accessories,Jewelry,Adidas,82.36,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,1,0.0667,0.0000,0,
+329,Adidas Gold-Plated Jewelry,Clothing & Accessories,Jewelry,Adidas,44.56,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+331,Nike Classic Fit Menswear,Clothing & Accessories,Menswear,Nike,62.34,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,3,0.3000,0.0000,0,
+332,Ralph Lauren Premium Menswear,Clothing & Accessories,Menswear,Ralph Lauren,28.41,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,1,0.1111,0.0000,0,
+333,Zara Menswear in Cream,Clothing & Accessories,Menswear,Zara,152.02,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,1,0.1667,0.0000,1,5.0
+334,Puma Essential Menswear,Clothing & Accessories,Menswear,Puma,83.58,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,2,0.1538,0.0000,0,
+335,Nike Menswear in Sage,Clothing & Accessories,Menswear,Nike,78.86,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,2,0.4000,0.0000,0,
+338,Adidas Casual Menswear,Clothing & Accessories,Menswear,Adidas,18.65,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+342,Nike Classic Fit Menswear,Clothing & Accessories,Menswear,Nike,33.9,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,14,2,0.1429,0.0000,0,
+343,DKNY Menswear in White,Clothing & Accessories,Menswear,DKNY,18.1,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,3,0.2500,0.0000,2,5.0
+347,Nike Essential Menswear,Clothing & Accessories,Menswear,Nike,49.12,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,20,2,0.1000,0.0000,0,
+348,Adidas Essential Menswear,Clothing & Accessories,Menswear,Adidas,81.69,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,1,0.2500,0.0000,1,4.0
+349,Nike Classic Fit Menswear,Clothing & Accessories,Menswear,Nike,11.56,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,19,9,0.4737,0.0000,1,5.0
+351,H&M Classic Fit Menswear,Clothing & Accessories,Menswear,H&M,37.69,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,2,0.3333,0.0000,0,
+352,Adidas Premium Menswear,Clothing & Accessories,Menswear,Adidas,12.99,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,0,0.0000,,0,
+353,Zara Classic Fit Menswear,Clothing & Accessories,Menswear,Zara,13.51,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,1,0.3333,0.0000,0,
+354,Hugo Boss Casual Menswear,Clothing & Accessories,Menswear,Hugo Boss,15.81,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,3,0.7500,0.0000,0,
+355,Nike Premium Menswear,Clothing & Accessories,Menswear,Nike,40.39,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,1,5.0
+356,Tommy Hilfiger Essential Menswear,Clothing & Accessories,Menswear,Tommy Hilfiger,14.0,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,2,0.5000,0.0000,0,
+357,Nike Casual Menswear,Clothing & Accessories,Menswear,Nike,58.25,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,17,0,0.0000,,0,
+359,Nike Menswear in Brown,Clothing & Accessories,Menswear,Nike,59.79,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+361,Nike Menswear in Sand,Clothing & Accessories,Menswear,Nike,38.78,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,1,0.1111,0.0000,0,
+363,Nike Casual Menswear,Clothing & Accessories,Menswear,Nike,22.04,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,1,2.0
+366,Nike Casual Menswear,Clothing & Accessories,Menswear,Nike,45.5,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,1,3.0
+370,Puma Essential Menswear,Clothing & Accessories,Menswear,Puma,68.81,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+372,Adidas Essential Menswear,Clothing & Accessories,Menswear,Adidas,47.46,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,2,0.4000,0.0000,0,
+376,Columbia Essential Womenswear,Clothing & Accessories,Womenswear,Columbia,50.43,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,3,0.7500,0.0000,0,
+377,Nike Womenswear Dress,Clothing & Accessories,Womenswear,Nike,73.16,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,2,0.1667,0.0000,0,
+380,Nike Premium Womenswear,Clothing & Accessories,Womenswear,Nike,19.85,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,1,0.1111,0.0000,0,
+381,Nike Essential Womenswear,Clothing & Accessories,Womenswear,Nike,47.02,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,2,0.6667,0.0000,0,
+382,Ralph Lauren Premium Womenswear,Clothing & Accessories,Womenswear,Ralph Lauren,85.15,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,30,6,0.2000,0.0000,0,
+383,Adidas Womenswear in Cream,Clothing & Accessories,Womenswear,Adidas,14.4,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+388,Nike Premium Womenswear,Clothing & Accessories,Womenswear,Nike,47.5,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+389,Under Armour Essential Womenswear,Clothing & Accessories,Womenswear,Under Armour,23.7,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,21,5,0.2381,0.0000,0,
+392,Nike Premium Womenswear,Clothing & Accessories,Womenswear,Nike,131.11,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,7,0.5833,0.0000,1,5.0
+394,H&M Casual Womenswear,Clothing & Accessories,Womenswear,H&M,85.86,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,2,0.2857,0.0000,0,
+395,Zara Womenswear in Olive,Clothing & Accessories,Womenswear,Zara,19.83,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,3,0.4286,0.0000,0,
+396,Nike Womenswear in Blue,Clothing & Accessories,Womenswear,Nike,22.1,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,14,3,0.2143,0.0000,0,
+398,Adidas Casual Womenswear,Clothing & Accessories,Womenswear,Adidas,31.45,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,2,0.3333,0.0000,0,
+403,Nike Womenswear in Navy,Clothing & Accessories,Womenswear,Nike,43.24,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,1,0.2500,0.0000,0,
+404,Nike Essential Womenswear,Clothing & Accessories,Womenswear,Nike,110.02,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,1,0.1667,0.0000,0,
+406,Adidas Womenswear in Red,Clothing & Accessories,Womenswear,Adidas,37.54,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,4,0.8000,0.0000,0,
+407,Adidas Womenswear in Slate,Clothing & Accessories,Womenswear,Adidas,28.75,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,16,3,0.1875,0.0000,0,
+408,Nike Womenswear Dress,Clothing & Accessories,Womenswear,Nike,30.4,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,1,0.1667,0.0000,0,
+409,Logitech Wireless Accessorie,Electronics,Accessories,Logitech,379.16,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+411,Apple Accessorie Adapter,Electronics,Accessories,Apple,164.58,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,1,0.1667,0.0000,0,
+412,Apple Wireless Accessorie,Electronics,Accessories,Apple,282.31,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,1,1.0000,0.0000,1,4.0
+413,Samsung Accessorie Stand,Electronics,Accessories,Samsung,90.86,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,1,0.1000,0.0000,1,3.0
+414,HP Accessorie Charger,Electronics,Accessories,HP,161.61,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,2,0.1538,0.0000,0,
+415,Sony Accessorie Charger,Electronics,Accessories,Sony,154.71,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,19,5,0.2632,0.0000,0,
+416,Samsung Accessorie Cable,Electronics,Accessories,Samsung,106.11,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,2,0.2222,0.0000,1,5.0
+418,Apple Wireless Accessorie,Electronics,Accessories,Apple,208.37,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+420,LG Wireless Accessorie,Electronics,Accessories,LG,404.44,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,1,4.0
+421,Apple Accessorie Charger,Electronics,Accessories,Apple,634.27,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,0,0.0000,,0,
+422,Apple Accessorie Charger,Electronics,Accessories,Apple,173.59,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+423,Microsoft Accessorie Stand,Electronics,Accessories,Microsoft,55.41,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,25,6,0.2400,0.0000,0,
+424,Apple Accessorie Adapter,Electronics,Accessories,Apple,322.87,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+425,Apple Wireless Accessorie,Electronics,Accessories,Apple,476.77,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,2,2.0000,0.0000,0,
+427,Sony Accessorie Charger,Electronics,Accessories,Sony,150.78,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,1,5.0
+428,Apple Wireless Accessorie,Electronics,Accessories,Apple,55.7,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,1,0.0833,0.0000,0,
+429,Bose Accessorie Charger,Electronics,Accessories,Bose,84.77,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,3,3.0000,0.0000,0,
+430,Samsung Accessorie Stand,Electronics,Accessories,Samsung,335.15,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+435,Fitbit Book19 DSLR,Electronics,Cameras,Fitbit,166.17,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,1,0.1667,0.0000,1,5.0
+437,LG Ultra Mirrorless Camera,Electronics,Cameras,LG,181.53,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,1,0.1250,0.0000,0,
+439,Apple Edge4 Digital Camera,Electronics,Cameras,Apple,468.78,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+440,Lenovo Air16 DSLR,Electronics,Cameras,Lenovo,572.66,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,3,1.0000,0.0000,0,
+441,Nokia Galaxy10 Instant Camera,Electronics,Cameras,Nokia,304.35,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,0,0.0000,,1,1.0
+442,Samsung Book1 Instant Camera,Electronics,Cameras,Samsung,114.97,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,23,6,0.2609,0.0000,0,
+443,Apple Max Action Cam,Electronics,Cameras,Apple,436.99,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+444,Apple Z10 Digital Camera,Electronics,Cameras,Apple,348.81,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+445,Apple Elite Mirrorless Camera,Electronics,Cameras,Apple,231.64,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+446,Logitech Edge13 DSLR,Electronics,Cameras,Logitech,173.19,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,3,0.2727,0.0000,1,5.0
+447,Samsung Max Action Cam,Electronics,Cameras,Samsung,80.11,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,1,0.1667,0.0000,0,
+449,Acer Elite Mirrorless Camera,Electronics,Cameras,Acer,117.96,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,25,4,0.1600,0.0000,1,4.0
+450,Samsung Book13 DSLR,Electronics,Cameras,Samsung,123.34,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,0,0.0000,,0,
+451,LG Book16 DSLR,Electronics,Cameras,LG,89.59,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,2,0.1818,0.0000,0,
+452,Samsung Air7 DSLR,Electronics,Cameras,Samsung,886.76,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+453,Lenovo Elite Action Cam,Electronics,Cameras,Lenovo,169.1,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,1,5.0
+456,Google Essential Over-Ear Headphones,Electronics,Headphones,Google,62.91,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,38,4,0.1053,0.0000,2,4.5
+457,Apple Essential Noise-Canceling Headphones,Electronics,Headphones,Apple,344.63,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,1,,0.0000,1,5.0
+458,Apple Pro8 Bluetooth Earbuds,Electronics,Headphones,Apple,187.9,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,20,1,0.0500,0.0000,0,
+459,Samsung Max Noise-Canceling Headphones,Electronics,Headphones,Samsung,178.98,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,5,0.5000,0.0000,0,
+465,Sony Max Noise-Canceling Headphones,Electronics,Headphones,Sony,329.64,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+466,Samsung Prime4 Wireless Headphones,Electronics,Headphones,Samsung,659.56,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,1,1.0000,0.0000,0,
+468,Apple Pro Noise-Canceling Headphones,Electronics,Headphones,Apple,48.86,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,24,4,0.1667,0.0000,1,2.0
+469,Dell Book6 Bluetooth Earbuds,Electronics,Headphones,Dell,856.72,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,0,0.0000,,1,4.0
+470,ASUS Max14 Wireless Headphones,Electronics,Headphones,ASUS,134.0,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,2,0.2857,0.0000,0,
+471,Samsung Air9 Wireless Headphones,Electronics,Headphones,Samsung,397.86,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+472,Apple Air7 Bluetooth Earbuds,Electronics,Headphones,Apple,300.48,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,1,1.0000,0.0000,0,
+475,Sony Book1 Bluetooth Earbuds,Electronics,Headphones,Sony,89.61,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,4,0.6667,0.0000,0,
+476,Apple Z19 Bluetooth Earbuds,Electronics,Headphones,Apple,410.23,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+478,Sony Pixel8 In-Ear Monitors,Electronics,Headphones,Sony,149.49,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,1,0.0909,0.0000,0,
+479,Apple Elite Over-Ear Headphones,Electronics,Headphones,Apple,154.16,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+480,HP Edge12 Bluetooth Earbuds,Electronics,Headphones,HP,278.54,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+481,LG Pixel13 Wireless Headphones,Electronics,Headphones,LG,127.25,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+482,Dell Elite Over-Ear Headphones,Electronics,Headphones,Dell,93.37,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,37,9,0.2432,0.0000,0,
+483,Apple Air Over-Ear Headphones,Electronics,Headphones,Apple,299.6,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,38,5,0.1316,0.0000,0,
+484,JBL Pro Over-Ear Headphones,Electronics,Headphones,JBL,263.85,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+485,Dell Book13 Bluetooth Earbuds,Electronics,Headphones,Dell,93.54,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,16,0,0.0000,,1,5.0
+487,"HP Studio 17""",Electronics,Laptops,HP,244.79,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+488,Apple Max 9th Gen,Electronics,Laptops,Apple,309.85,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,1,5.0
+489,Dell Core Pro,Electronics,Laptops,Dell,225.68,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,2,0.5000,0.0000,0,
+493,Apple Essential Edge5 Laptop,Electronics,Laptops,Apple,565.33,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+496,Belkin Elite Edge11 Laptop,Electronics,Laptops,Belkin,139.37,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,0,0.0000,,0,
+499,Apple Classic Pro,Electronics,Laptops,Apple,210.29,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,18,5,0.2778,0.0000,0,
+501,Apple X18 Ultrabook,Electronics,Laptops,Apple,215.97,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,21,0,0.0000,,0,
+502,"Lenovo Pro 32""",Electronics,Laptops,Lenovo,74.84,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,14,2,0.1429,0.0000,0,
+504,Sony Prime 5th Gen,Electronics,Laptops,Sony,222.25,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,2,1.0000,0.0000,0,
+505,Sony Elite 1th Gen,Electronics,Laptops,Sony,125.68,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+510,HP Elite Pro,Electronics,Laptops,HP,125.22,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,3,0.7500,0.0000,0,
+512,Samsung Core Series5 Laptop,Electronics,Laptops,Samsung,271.74,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,1,1.0000,0.0000,0,
+516,LG Edge17 Smartphone,Electronics,Smartphones,LG,188.28,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,2,0.4000,0.0000,0,
+517,Apple Edge18 Pro 5G,Electronics,Smartphones,Apple,243.94,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,0,0.0000,,0,
+518,Samsung Galaxy Book6,Electronics,Smartphones,Samsung,230.65,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,2,0.3333,0.0000,0,
+520,Apple X15 Smartphone,Electronics,Smartphones,Apple,457.39,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+521,Sony Prime X8,Electronics,Smartphones,Sony,367.78,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,2,3.5
+522,Apple Prime Prime5,Electronics,Smartphones,Apple,175.72,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,48,10,0.2083,0.0000,0,
+523,Sony Pro8 Pro 5G,Electronics,Smartphones,Sony,226.16,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,18,5,0.2778,0.0000,0,
+524,Apple Pixel1 Pro 5G,Electronics,Smartphones,Apple,208.97,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,1,0.1250,0.0000,0,
+525,Samsung Prime5 Ultra,Electronics,Smartphones,Samsung,103.14,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,1,0.1667,0.0000,0,
+526,Apple Pixel2 Ultra,Electronics,Smartphones,Apple,46.57,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+531,Apple Z17 Ultra,Electronics,Smartphones,Apple,172.6,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,22,5,0.2273,0.0000,0,
+535,Apple Galaxy5 Pro 5G,Electronics,Smartphones,Apple,54.89,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,40,6,0.1500,0.0000,1,5.0
+536,Lenovo Ultra Pixel18,Electronics,Smartphones,Lenovo,128.62,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,22,0,0.0000,,0,
+537,Apple Book6 Pro 5G,Electronics,Smartphones,Apple,120.59,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,2,0.2000,0.0000,0,
+538,Lenovo Edge1 Pro 5G,Electronics,Smartphones,Lenovo,81.29,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,6,0.4000,0.0000,0,
+539,Apple Ultra Series11,Electronics,Smartphones,Apple,534.27,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+541,Apple Galaxy11 Smartphone,Electronics,Smartphones,Apple,352.34,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+544,ASUS Z3 Ultra,Electronics,Smartphones,ASUS,217.62,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+545,Apple Edge14 Pro 5G,Electronics,Smartphones,Apple,510.54,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,1,0.5000,0.0000,0,
+546,Apple Max Prime13,Electronics,Smartphones,Apple,145.65,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,1,0.2500,0.0000,0,
+547,ASUS Galaxy11 Pro 5G,Electronics,Smartphones,ASUS,44.71,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,3,0.5000,0.0000,0,
+549,Apple Z5 Smartphone,Electronics,Smartphones,Apple,498.03,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+551,HP Air17 Smartphone,Electronics,Smartphones,HP,121.99,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,2,0.6667,0.0000,0,
+552,Panasonic Pro18 Ultra,Electronics,Smartphones,Panasonic,124.25,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,3,3.0000,0.0000,0,
+553,Apple Pro13 Pro 5G,Electronics,Smartphones,Apple,202.07,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+554,Apple Galaxy8 Ultra,Electronics,Smartphones,Apple,293.42,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,23,5,0.2174,0.0000,0,
+557,Sony Air1 Pro 5G,Electronics,Smartphones,Sony,242.06,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+559,Apple Core Tab,Electronics,Tablets,Apple,107.95,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,34,3,0.0882,0.0000,0,
+561,HP Max9 Pro Tablet,Electronics,Tablets,HP,165.17,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,2,0.2857,0.0000,0,
+563,"Samsung Essential 13"" Display Tablet",Electronics,Tablets,Samsung,261.82,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,2,0.2222,0.0000,0,
+566,Apple Essential Tablet,Electronics,Tablets,Apple,188.04,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+567,"Samsung Ultra 13"" Display Tablet",Electronics,Tablets,Samsung,811.19,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,1,0.5000,0.0000,0,
+569,"Belkin Essential 32"" Display Tablet",Electronics,Tablets,Belkin,195.56,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,2,0.2000,0.0000,0,
+570,Apple X5 Pro Tablet,Electronics,Tablets,Apple,71.36,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,16,0,0.0000,,1,5.0
+571,Anker Air12 2-in-1 Tablet,Electronics,Tablets,Anker,185.97,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,2,0.1333,0.0000,0,
+572,Apple Max11 Pro Tablet,Electronics,Tablets,Apple,198.1,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,3,0.7500,0.0000,0,
+573,"Dell Studio 32"" Display Tablet",Electronics,Tablets,Dell,91.4,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,2,0.1818,0.0000,0,
+574,Apple Elite Tablet,Electronics,Tablets,Apple,286.74,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+575,Dell Series19 Activity Band,Electronics,Wearables,Dell,143.24,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,1,5.0
+580,Sony Max5 Fitness Tracker,Electronics,Wearables,Sony,45.3,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,49,4,0.0816,0.0000,0,
+581,Apple Studio Sport Watch,Electronics,Wearables,Apple,92.83,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,21,6,0.2857,0.0000,0,
+582,Samsung Book4 Fitness Tracker,Electronics,Wearables,Samsung,366.08,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,1,0.5000,0.0000,0,
+583,Apple Classic Hybrid Smartwatch,Electronics,Wearables,Apple,195.5,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,14,4,0.2857,0.0000,0,
+584,Apple Essential Sport Watch,Electronics,Wearables,Apple,23.9,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,38,7,0.1842,0.0000,0,
+588,Bose Series13 Fitness Tracker,Electronics,Wearables,Bose,288.56,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+589,Philips Air18 Fitness Tracker,Electronics,Wearables,Philips,53.71,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,1,0.1250,0.0000,0,
+594,Samsung Core Smartwatch,Electronics,Wearables,Samsung,228.41,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+595,Samsung Air Smartwatch,Electronics,Wearables,Samsung,140.36,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+596,Samsung Classic Smartwatch,Electronics,Wearables,Samsung,123.71,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+599,General Mills Premium Beverage,Grocery & Gourmet,Beverages,General Mills,5.24,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,22,4,0.1818,0.0000,0,
+600,Nestle Original Beverage,Grocery & Gourmet,Beverages,Nestle,12.44,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,1,0.1667,0.0000,0,
+601,PepsiCo Premium Beverage,Grocery & Gourmet,Beverages,PepsiCo,6.58,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+602,Coca-Cola Organic Beverage,Grocery & Gourmet,Beverages,Coca-Cola,7.86,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,2,0.1538,0.0000,0,
+603,Kraft Organic Beverage,Grocery & Gourmet,Beverages,Kraft,6.51,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,4,0.3077,0.0000,0,
+606,Kraft Artisan Gourmet Food,Grocery & Gourmet,Gourmet Foods,Kraft,11.49,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,1,0.1667,0.0000,0,
+607,M&M's Artisan Gourmet Food,Grocery & Gourmet,Gourmet Foods,M&M's,9.15,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,22,6,0.2727,0.0000,0,
+608,Kraft Handcrafted Gourmet Food,Grocery & Gourmet,Gourmet Foods,Kraft,5.89,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,0,0.0000,,0,
+609,Nestle Artisan Gourmet Food,Grocery & Gourmet,Gourmet Foods,Nestle,4.86,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,19,5,0.2632,0.0000,0,
+610,"Nestle Gourmet Food - 14""",Grocery & Gourmet,Gourmet Foods,Nestle,5.81,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,0,
+614,Lay's Organic Organic Food,Grocery & Gourmet,Organic Foods,Lay's,7.38,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,1,0.0769,0.0000,0,
+617,M&M's Non-GMO Organic Food,Grocery & Gourmet,Organic Foods,M&M's,8.85,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,5,0.4545,0.0000,0,
+618,Nestle Non-GMO Organic Food,Grocery & Gourmet,Organic Foods,Nestle,10.17,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,1,1.0000,0.0000,0,
+619,Twinnings Non-GMO Organic Food,Grocery & Gourmet,Organic Foods,Twinnings,14.12,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,1,0.1250,0.0000,0,
+623,"PepsiCo Pantry Staple - 27""",Grocery & Gourmet,Pantry Staples,PepsiCo,5.07,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,0,0.0000,,1,3.0
+624,Nestle Pantry Staple Unscented,Grocery & Gourmet,Pantry Staples,Nestle,8.05,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,23,3,0.1304,0.0000,0,
+629,"Nestle Pantry Staple - 32""",Grocery & Gourmet,Pantry Staples,Nestle,6.46,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,0,0.0000,,0,
+630,Coca-Cola Pantry Staple Value Size,Grocery & Gourmet,Pantry Staples,Coca-Cola,8.02,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,3,0.2308,0.0000,0,
+631,"Lavazza Pantry Staple - 32""",Grocery & Gourmet,Pantry Staples,Lavazza,12.79,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,1,0.0769,0.0000,0,
+632,M&M's Pantry Staple Value Size,Grocery & Gourmet,Pantry Staples,M&M's,11.87,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,25,3,0.1200,0.0000,0,
+633,Nestle Organic Pantry Staple,Grocery & Gourmet,Pantry Staples,Nestle,14.09,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,1,0.1250,0.0000,0,
+635,Nestle Snack Variety Pack,Grocery & Gourmet,Snacks,Nestle,6.81,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,2,0.1818,0.0000,0,
+638,PepsiCo Sweet Snack,Grocery & Gourmet,Snacks,PepsiCo,19.79,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,1,0.0909,0.0000,0,
+639,"Kraft Snack - 17""",Grocery & Gourmet,Snacks,Kraft,3.95,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,20,5,0.2500,0.0000,0,
+640,Coca-Cola Snack Variety Pack,Grocery & Gourmet,Snacks,Coca-Cola,14.26,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,3,0.5000,0.0000,1,4.0
+641,Kraft Snack Variety Pack,Grocery & Gourmet,Snacks,Kraft,14.52,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,0,0.0000,,0,
+643,Kraft Snack Family Size,Grocery & Gourmet,Snacks,Kraft,8.0,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,2,0.2857,0.0000,0,
+645,Nestle Spicy Snack,Grocery & Gourmet,Snacks,Nestle,10.93,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,2,0.4000,0.0000,0,
+646,Nestle Original Snack,Grocery & Gourmet,Snacks,Nestle,10.65,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,4,0.3333,0.0000,1,5.0
+649,PepsiCo Snack Variety Pack,Grocery & Gourmet,Snacks,PepsiCo,3.62,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,1,4.0
+650,"Coca-Cola Snack - 14""",Grocery & Gourmet,Snacks,Coca-Cola,4.27,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,32,7,0.2188,0.0000,1,2.0
+655,KitchenAid Smart Appliance,Home & Kitchen,Appliances,KitchenAid,13.77,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,1,5.0
+656,Le Creuset Core Appliance,Home & Kitchen,Appliances,Le Creuset,95.75,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,0,0.0000,,0,
+658,KitchenAid Prime Appliance,Home & Kitchen,Appliances,KitchenAid,34.62,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,18,5,0.2778,0.0000,0,
+660,Cuisinart Digital Appliance,Home & Kitchen,Appliances,Cuisinart,167.56,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,20,3,0.1500,0.0000,0,
+662,KitchenAid Appliance Pro,Home & Kitchen,Appliances,KitchenAid,127.83,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,4,1.0000,0.0000,0,
+664,Le Creuset Max Appliance,Home & Kitchen,Appliances,Le Creuset,74.96,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,28,2,0.0714,0.0000,0,
+667,Cuisinart Comfort Bedding,Home & Kitchen,Bedding,Cuisinart,127.68,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,0,0.0000,,0,
+668,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,75.56,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,1,0.2500,0.0000,0,
+670,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,61.89,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,0,
+671,Dyson Premium Cotton Bedding,Home & Kitchen,Bedding,Dyson,67.0,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,40,3,0.0750,0.0000,0,
+673,KitchenAid Premium Spandex Bedding,Home & Kitchen,Bedding,KitchenAid,71.79,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,0,
+676,KitchenAid Comfort Bedding,Home & Kitchen,Bedding,KitchenAid,11.36,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+677,KitchenAid Bedding in Blue,Home & Kitchen,Bedding,KitchenAid,32.23,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,0,0.0000,,0,
+679,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,42.83,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,62,11,0.1774,0.0000,0,
+681,Cuisinart Comfort Bedding,Home & Kitchen,Bedding,Cuisinart,24.89,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,3,0.2000,0.0000,0,
+684,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,57.46,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,16,5,0.3125,0.0000,0,
+686,KitchenAid Comfort Bedding,Home & Kitchen,Bedding,KitchenAid,56.04,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,2,0.1667,0.0000,0,
+687,Cuisinart Ultra-Soft Bedding,Home & Kitchen,Bedding,Cuisinart,369.99,Luxury,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+690,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,54.86,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+691,Cuisinart Premium Silk Bedding,Home & Kitchen,Bedding,Cuisinart,48.07,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+692,KitchenAid Comfort Bedding,Home & Kitchen,Bedding,KitchenAid,79.07,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,21,1,0.0476,0.0000,0,
+693,Cuisinart Bedding in Cobalt,Home & Kitchen,Bedding,Cuisinart,47.22,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+694,Dyson Furniture - Green,Home & Kitchen,Furniture,Dyson,73.28,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,4,0.3077,0.0000,0,
+696,Lodge Microfiber Furniture,Home & Kitchen,Furniture,Lodge,53.83,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,1,0.3333,0.0000,2,3.0
+697,KitchenAid Modern Furniture,Home & Kitchen,Furniture,KitchenAid,67.18,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,3,0.4286,0.0000,0,
+698,KitchenAid Furniture - Black,Home & Kitchen,Furniture,KitchenAid,106.81,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,2,0.5000,0.0000,0,
+699,Morphy Richards Polyester Furniture,Home & Kitchen,Furniture,Morphy Richards,59.45,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,24,3,0.1250,0.0000,0,
+700,Shark Denim Furniture,Home & Kitchen,Furniture,Shark,21.25,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,23,3,0.1304,0.0000,0,
+702,KitchenAid Furniture - Cobalt,Home & Kitchen,Furniture,KitchenAid,80.97,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,4,0.5000,0.0000,0,
+704,KitchenAid Furniture - Sand,Home & Kitchen,Furniture,KitchenAid,14.13,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,16,0,0.0000,,0,
+707,Instant Pot Modern Furniture,Home & Kitchen,Furniture,Instant Pot,105.47,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,29,7,0.2414,0.0000,0,
+708,KitchenAid Bamboo Furniture,Home & Kitchen,Furniture,KitchenAid,6.97,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,2,0.3333,0.0000,0,
+710,KitchenAid Premium Furniture,Home & Kitchen,Furniture,KitchenAid,15.04,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,1,0.3333,0.0000,0,
+712,Shark Fleece Furniture,Home & Kitchen,Furniture,Shark,30.88,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,0,
+713,KitchenAid Furniture - Brown,Home & Kitchen,Furniture,KitchenAid,23.86,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,19,5,0.2632,0.0000,0,
+714,KitchenAid Denim Furniture,Home & Kitchen,Furniture,KitchenAid,31.43,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+717,Pyrex Modern Furniture,Home & Kitchen,Furniture,Pyrex,40.82,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,3,0.3333,0.0000,0,
+719,Cuisinart Furniture Set,Home & Kitchen,Furniture,Cuisinart,30.48,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,2,0.1818,0.0000,0,
+721,KitchenAid Premium Furniture,Home & Kitchen,Furniture,KitchenAid,34.53,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,1,0.0769,0.0000,1,2.0
+724,Le Creuset Modern Home Decor,Home & Kitchen,Home Decor,Le Creuset,5.88,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,1,5.0
+726,Cuisinart Modern Home Decor,Home & Kitchen,Home Decor,Cuisinart,67.9,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,17,2,0.1176,0.0000,0,
+728,KitchenAid Scandinavian Home Decor,Home & Kitchen,Home Decor,KitchenAid,93.35,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+732,Cuisinart Home Decor - Slate,Home & Kitchen,Home Decor,Cuisinart,94.08,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,3,0.6000,0.0000,0,
+733,Cuisinart Home Decor - Beige,Home & Kitchen,Home Decor,Cuisinart,117.63,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,1,0.3333,0.0000,0,
+734,KitchenAid Decorative Home Decor,Home & Kitchen,Home Decor,KitchenAid,31.51,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,2,0.2000,0.0000,1,4.0
+735,Cuisinart Decorative Home Decor,Home & Kitchen,Home Decor,Cuisinart,26.29,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,4,1.0000,0.0000,0,
+736,Le Creuset Cotton Home Decor,Home & Kitchen,Home Decor,Le Creuset,12.36,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,13,5,0.3846,0.0000,0,
+737,KitchenAid Decorative Home Decor,Home & Kitchen,Home Decor,KitchenAid,71.65,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,19,4,0.2105,0.0000,0,
+738,Vitamix Bohemian Home Decor,Home & Kitchen,Home Decor,Vitamix,170.0,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,1,0.2500,0.0000,0,
+741,Pyrex Cotton Home Decor,Home & Kitchen,Home Decor,Pyrex,25.11,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,0,0.0000,,1,5.0
+743,Instant Pot Silk Home Decor,Home & Kitchen,Home Decor,Instant Pot,53.4,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,0,0.0000,,0,
+744,Ninja Non-Stick Kitchenware,Home & Kitchen,Kitchenware,Ninja,33.87,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,34,4,0.1176,0.0000,1,5.0
+745,Le Creuset Microfiber Kitchenware,Home & Kitchen,Kitchenware,Le Creuset,32.14,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,19,3,0.1579,0.0000,0,
+746,"Cuisinart 15.6"" Kitchenware Set",Home & Kitchen,Kitchenware,Cuisinart,48.84,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,0,
+747,KitchenAid Premium Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,57.91,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,6,0.4000,0.0000,0,
+749,"KitchenAid 14"" Kitchenware Set",Home & Kitchen,Kitchenware,KitchenAid,23.16,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,1,0.0667,0.0000,0,
+752,KitchenAid Professional Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,52.15,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,1,3.0
+755,KitchenAid Professional Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,65.19,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,1,0.1000,0.0000,1,5.0
+756,KitchenAid Professional Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,50.07,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,2,0.6667,0.0000,0,
+758,KitchenAid Professional Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,74.28,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,0,0.0000,,0,
+760,Cuisinart Denim Kitchenware,Home & Kitchen,Kitchenware,Cuisinart,26.18,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,0,0.0000,,0,
+761,KitchenAid Premium Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,27.51,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,5,0.4167,0.0000,0,
+762,Cuisinart Non-Stick Kitchenware,Home & Kitchen,Kitchenware,Cuisinart,37.9,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,6,0.6000,0.0000,2,3.5
+763,Cuisinart Non-Stick Kitchenware,Home & Kitchen,Kitchenware,Cuisinart,23.71,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,2,0.3333,0.0000,2,5.0
+767,Le Creuset Non-Stick Kitchenware,Home & Kitchen,Kitchenware,Le Creuset,62.3,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,1,0.0909,0.0000,0,
+768,"OXO 17"" Kitchenware Set",Home & Kitchen,Kitchenware,OXO,57.6,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+771,"KitchenAid 17"" Kitchenware Set",Home & Kitchen,Kitchenware,KitchenAid,40.61,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,1,5.0
+772,"KitchenAid 32"" Kitchenware Set",Home & Kitchen,Kitchenware,KitchenAid,64.78,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,2,0.2000,0.0000,0,
+774,Pyrex Smart Lighting,Home & Kitchen,Lighting,Pyrex,74.28,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,0,
+776,Le Creuset Modern Lighting,Home & Kitchen,Lighting,Le Creuset,43.94,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,1,0.5000,0.0000,1,5.0
+777,Le Creuset Modern Lighting,Home & Kitchen,Lighting,Le Creuset,93.8,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,0,0.0000,,0,
+778,Le Creuset Rustic Lighting,Home & Kitchen,Lighting,Le Creuset,68.82,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+779,KitchenAid Modern Lighting,Home & Kitchen,Lighting,KitchenAid,25.47,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,0,0.0000,,1,5.0
+781,KitchenAid LED Lighting,Home & Kitchen,Lighting,KitchenAid,36.25,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,4,0.4444,0.0000,0,
+784,KitchenAid Lighting - Ivory,Home & Kitchen,Lighting,KitchenAid,27.26,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,3,0.3333,0.0000,0,
+787,KitchenAid Lighting - White,Home & Kitchen,Lighting,KitchenAid,57.27,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+788,KitchenAid Lighting - Olive,Home & Kitchen,Lighting,KitchenAid,27.06,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,18,2,0.1111,0.0000,0,
+789,Cuisinart Lighting - Sand,Home & Kitchen,Lighting,Cuisinart,37.82,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,3,0.3000,0.0000,0,
+791,KitchenAid LED Lighting,Home & Kitchen,Lighting,KitchenAid,25.37,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,4,0.4000,0.0000,0,
+792,KitchenAid Modern Lighting,Home & Kitchen,Lighting,KitchenAid,109.86,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,1,0.1250,0.0000,0,
+794,Le Creuset Smart Lighting,Home & Kitchen,Lighting,Le Creuset,25.93,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+796,Staples Office Furniture Pro,Office Products,Office Furniture,Staples,13.57,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+798,Staples Adjustable Office Furniture,Office Products,Office Furniture,Staples,24.2,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,0,0.0000,,0,
+802,Staples Compact Office Furniture,Office Products,Office Furniture,Staples,23.28,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,1,0.0833,0.0000,0,
+804,Brother Desktop Organization,Office Products,Organization,Brother,37.7,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,2,4.0
+805,Staples Organization Set,Office Products,Organization,Staples,13.45,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,1,4.0
+806,Pilot Organization Set,Office Products,Organization,Pilot,11.03,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,2,1.0000,0.0000,1,5.0
+807,3M Organization Organizer,Office Products,Organization,3M,10.69,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+809,Herman Miller Compact Printer,Office Products,Printers,Herman Miller,17.93,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,2,0.2000,0.0000,0,
+812,Sharpie Printer Pro,Office Products,Printers,Sharpie,25.27,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,18,4,0.2222,0.0000,0,
+814,3M Compact Printer,Office Products,Printers,3M,24.46,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,2,0.1333,0.0000,0,
+815,3M X18 Wireless Printer,Office Products,Printers,3M,9.09,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,0,0,,,0,
+816,3M Printer Pro,Office Products,Printers,3M,17.86,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,0,0.0000,,0,
+822,Staples Assorted Stationery,Office Products,Stationery,Staples,9.33,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,1,0.1111,0.0000,0,
+824,"Staples Supplie - 27""",Office Products,Supplies,Staples,13.39,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,3,2,0.6667,0.0000,1,5.0
+825,Fellowes Supplie Multipack,Office Products,Supplies,Fellowes,7.83,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,1,2.0
+826,Post-it Supplie Multipack,Office Products,Supplies,Post-it,7.69,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+829,Spalding Camping Gear Kit,Sports & Outdoors,Camping Gear,Spalding,22.16,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,16,2,0.1250,0.0000,0,
+830,Wilson Waterproof Camping Gear,Sports & Outdoors,Camping Gear,Wilson,35.59,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,1,0.0833,0.0000,1,4.0
+831,Wilson Camping Gear Kit,Sports & Outdoors,Camping Gear,Wilson,66.46,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,1,0.1111,0.0000,0,
+835,Wilson Edge13 Camping Gear,Sports & Outdoors,Camping Gear,Wilson,29.52,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,44,14,0.3182,0.0000,0,
+837,Yeti Ultralight Camping Gear,Sports & Outdoors,Camping Gear,Yeti,90.08,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,3,0.6000,0.0000,0,
+841,Wilson Waterproof Camping Gear,Sports & Outdoors,Camping Gear,Wilson,31.47,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,2,0.1333,0.0000,1,4.0
+845,Wilson Camping Gear Kit,Sports & Outdoors,Camping Gear,Wilson,50.88,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,0,0.0000,,0,
+846,Timberland Ultralight Camping Gear,Sports & Outdoors,Camping Gear,Timberland,24.86,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,2,0.2857,0.0000,0,
+847,Wilson 55L Camping Gear,Sports & Outdoors,Camping Gear,Wilson,116.8,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,4,0.4000,0.0000,1,4.0
+848,Wilson 118L Camping Gear,Sports & Outdoors,Camping Gear,Wilson,30.09,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,1,0.1000,0.0000,0,
+849,Columbia Performance Cycling,Sports & Outdoors,Cycling,Columbia,76.91,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,1,0.0833,0.0000,0,
+851,Wilson Pro Bike,Sports & Outdoors,Cycling,Wilson,40.55,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,18,5,0.2778,0.0000,0,
+852,Yeti Series6 Cycling,Sports & Outdoors,Cycling,Yeti,31.32,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,3,0.3750,0.0000,0,
+856,Spalding Z15 Cycling,Sports & Outdoors,Cycling,Spalding,49.61,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,2,0.1818,0.0000,1,5.0
+859,Yeti Cycling - Charcoal,Sports & Outdoors,Cycling,Yeti,80.1,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,11,1,0.0909,0.0000,0,
+862,Wilson Performance Cycling,Sports & Outdoors,Cycling,Wilson,47.58,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,2,0.2500,0.0000,0,
+863,Wilson Cycling Pro,Sports & Outdoors,Cycling,Wilson,159.14,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,1,5.0
+865,Theragun Cycling Pro,Sports & Outdoors,Cycling,Theragun,172.03,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,4,0.2667,0.0000,1,5.0
+866,Wilson Ultra Bike,Sports & Outdoors,Cycling,Wilson,49.59,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,2,0.2000,0.0000,0,
+867,Bowflex Adjustable Fitness Equipment,Sports & Outdoors,Fitness Equipment,Bowflex,82.24,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,2,0.2222,0.0000,0,
+868,Wilson Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,53.33,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,2,0.4000,0.0000,0,
+879,Coleman Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Coleman,37.82,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,7,0.4667,0.0000,0,
+880,Head Max1 Fitness Equipment,Sports & Outdoors,Fitness Equipment,Head,72.87,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,39,15,0.3846,0.0000,0,
+886,REI Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,REI,101.82,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,1,0.1111,0.0000,0,
+888,Wilson All-Weather Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,53.28,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,1,0.1000,0.0000,1,5.0
+889,Wilson All-Weather Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,29.11,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+894,Wilson Premium Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,72.51,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,0,
+896,Wilson Premium Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,59.63,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,14,1,0.0714,0.0000,0,
+899,Wilson Premium Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,73.67,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,3,0.3750,0.0000,0,
+900,Wilson Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,Wilson,39.25,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,0,0.0000,,0,
+901,Merrell Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,Merrell,100.34,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,29,5,0.1724,0.0000,0,
+902,Wilson Portable Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,45.63,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,19,2,0.1053,0.0000,0,
+907,Yeti Portable Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Yeti,41.28,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,36,3,0.0833,0.0000,0,
+908,Wilson Premium Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,22.53,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,2,0.2222,0.0000,1,5.0
+911,Wilson Pro Team Sport,Sports & Outdoors,Team Sports,Wilson,52.04,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,14,3,0.2143,0.0000,2,5.0
+915,Wilson Max10 Team Sport,Sports & Outdoors,Team Sports,Wilson,78.13,Premium,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,3,0.3750,0.0000,0,
+916,Wilson Team Sport Set,Sports & Outdoors,Team Sports,Wilson,47.05,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,2,0.2857,0.0000,0,
+917,Spalding Team Sport Set,Sports & Outdoors,Team Sports,Spalding,28.68,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,1,0.1000,0.0000,0,
+920,Wilson Edge3 Team Sport,Sports & Outdoors,Team Sports,Wilson,54.81,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,2,0.1667,0.0000,1,5.0
+923,LEGO Air Jack Figure,Toys & Games,Action Figures,LEGO,23.79,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,4,1.0000,0.0000,1,3.0
+925,LEGO Pro Deluxe Leo,Toys & Games,Action Figures,LEGO,32.04,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+926,"LEGO Aria 13"" Figure",Toys & Games,Action Figures,LEGO,6.1,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,1,0.1000,0.0000,0,
+927,Barbie Max Deluxe Mia,Toys & Games,Action Figures,Barbie,20.67,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+928,Hasbro Core Deluxe Sam,Toys & Games,Action Figures,Hasbro,52.63,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,1,1.0000,0.0000,0,
+929,LEGO Elite Jack Figure,Toys & Games,Action Figures,LEGO,32.85,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,24,6,0.2500,0.0000,1,5.0
+930,"LEGO Jack 27"" Figure",Toys & Games,Action Figures,LEGO,8.21,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,21,2,0.0952,0.0000,0,
+931,Hasbro Luna Action Figure,Toys & Games,Action Figures,Hasbro,17.17,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,4,0.5000,0.0000,0,
+932,LEGO Jack Collectible,Toys & Games,Action Figures,LEGO,36.05,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,2,1.0000,0.0000,1,4.0
+933,LEGO Jack Collectible,Toys & Games,Action Figures,LEGO,33.64,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,1,0.1667,0.0000,2,4.5
+935,LEGO Essential Max Figure,Toys & Games,Action Figures,LEGO,24.04,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,18,3,0.1667,0.0000,0,
+938,Mattel Max Action Figure,Toys & Games,Action Figures,Mattel,52.57,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,2,1.0000,0.0000,0,
+941,Mattel Pro Deluxe Zoe,Toys & Games,Action Figures,Mattel,34.21,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,2,0.1667,0.0000,0,
+942,"Mattel Zoe 16"" Figure",Toys & Games,Action Figures,Mattel,24.87,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,1,0.2500,0.0000,0,
+944,LEGO Leo Action Figure,Toys & Games,Action Figures,LEGO,22.37,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,2,0.1333,0.0000,0,
+945,Minecraft Max Aria Figure,Toys & Games,Action Figures,Minecraft,21.23,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+948,LEGO Aura Family Game,Toys & Games,Board Games,LEGO,15.41,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,1,0.2500,0.0000,0,
+949,Mattel Nova Board Game,Toys & Games,Board Games,Mattel,11.26,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+955,Hasbro Drift Strategy Game,Toys & Games,Board Games,Hasbro,30.0,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,3,0.2500,0.0000,0,
+957,Mattel Aura Family Game,Toys & Games,Board Games,Mattel,17.43,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,1,0.1111,0.0000,0,
+958,Fisher-Price Drift Board Game,Toys & Games,Board Games,Fisher-Price,25.03,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,0,0.0000,,0,
+961,LEGO Bloom Building Set,Toys & Games,Educational Toys,LEGO,29.7,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,1,0.2000,0.0000,0,
+962,LEGO Midnight Learning Set,Toys & Games,Educational Toys,LEGO,30.99,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,1,0,0.0000,,0,
+963,LEGO Cascade STEM Kit,Toys & Games,Educational Toys,LEGO,58.8,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,2,0.2222,0.0000,0,
+964,LEGO Cascade STEM Kit,Toys & Games,Educational Toys,LEGO,23.86,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,1,0.1000,0.0000,0,
+966,Hot Wheels Aura Science Experiment,Toys & Games,Educational Toys,Hot Wheels,20.58,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,14,5,0.3571,0.0000,1,5.0
+967,LEGO Velvet Building Set,Toys & Games,Educational Toys,LEGO,17.97,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,19,2,0.1053,0.0000,0,
+968,LEGO Bloom Building Set,Toys & Games,Educational Toys,LEGO,70.65,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,15,0,0.0000,,0,
+970,Melissa & Doug Haven Coding Kit,Toys & Games,Educational Toys,Melissa & Doug,11.17,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,16,1,0.0625,0.0000,0,
+971,LEGO Haven Learning Set,Toys & Games,Educational Toys,LEGO,16.74,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,8,1,0.1250,0.0000,0,
+975,LEGO Aura Building Set,Toys & Games,Educational Toys,LEGO,56.34,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,0,
+976,Hot Wheels Nova Coding Kit,Toys & Games,Educational Toys,Hot Wheels,25.71,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,12,1,0.0833,0.0000,0,
+978,Mattel Cybersecurity 3000pc Puzzle,Toys & Games,Puzzles,Mattel,68.91,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,0,0.0000,,0,
+981,Hasbro NLP 500pc Puzzle,Toys & Games,Puzzles,Hasbro,40.45,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,6,1,0.1667,0.0000,0,
+983,LEGO Panoramic Yoga Puzzle,Toys & Games,Puzzles,LEGO,20.83,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,5,0,0.0000,,0,
+984,LEGO 3D Haven Puzzle,Toys & Games,Puzzles,LEGO,71.77,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,9,0,0.0000,,0,
+985,LEGO 3D Bloom Puzzle,Toys & Games,Puzzles,LEGO,17.81,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,0,
+989,Fisher-Price Panoramic Machine Learning Puzzle,Toys & Games,Puzzles,Fisher-Price,31.46,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,2,0,0.0000,,1,5.0
+991,A Robust Cipher Remastered,Toys & Games,Video Games,LEGO,25.47,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,1,0.1429,0.0000,0,
+992,Max 4: A Hands-On Approach,Toys & Games,Video Games,LEGO,21.81,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,7,2,0.2857,0.0000,0,
+995,The Elite Cipher - PlayStation 5 Edition,Toys & Games,Video Games,Hasbro,12.93,Budget,No Sales,,,,,0,0.0,0,0,,0.00,0.0,10,1,0.1000,0.0000,0,
+997,A Ultimate Aurora - Xbox Series X Edition,Toys & Games,Video Games,Fisher-Price,22.47,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,4,2,0.5000,0.0000,0,
+1000,Max: The Definitive Guide,Toys & Games,Video Games,Fisher-Price,32.37,Mid-Range,No Sales,,,,,0,0.0,0,0,,0.00,0.0,24,4,0.1667,0.0000,0,

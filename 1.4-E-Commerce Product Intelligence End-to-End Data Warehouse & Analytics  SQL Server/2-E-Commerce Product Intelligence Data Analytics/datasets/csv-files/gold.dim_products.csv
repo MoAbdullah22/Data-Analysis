@@ -1,0 +1,1001 @@
+product_key,product_id,product_name,category,subcategory,brand,list_price,price_band,avg_rating,review_count,stock_quantity,date_added
+1,01fb4862-2311-407e-9294-aa0a4ac9a81d,Mobil Heavy-Duty Car Accessorie,Automotive,Car Accessories,Mobil,13.44,Budget,,0,1,2024-01-10
+2,2e1a3d22-2a05-4b6e-bfd8-4b5d5dab3009,Michelin Heavy-Duty Car Accessorie,Automotive,Car Accessories,Michelin,40.15,Mid-Range,4.7,15,10,2024-08-09
+3,42f9572a-31c3-4d9f-9fb1-ae2e8598ef45,Bosch Car Accessorie - Beige,Automotive,Car Accessories,Bosch,66.98,Mid-Range,5.0,1,1,2024-03-23
+4,8b90ec3c-b810-484a-8a6e-3631149ecacb,Goodyear Car Accessorie - Navy,Automotive,Car Accessories,Goodyear,53.23,Mid-Range,4.0,2,2,2025-10-06
+5,9909eb41-e124-44a6-8a4a-537194cbcaf0,Turtle Wax Premium Car Accessorie,Automotive,Car Accessories,Turtle Wax,35.26,Mid-Range,,0,1,2023-01-19
+6,9fc09c6f-3d90-4b33-a950-cc9b977df8ed,Castrol Universal Car Accessorie,Automotive,Car Accessories,Castrol,55.11,Mid-Range,,0,96,2023-02-10
+7,a879a2c9-5349-4da1-833a-2a7fb8e39664,Michelin Air11 Car Accessorie,Automotive,Car Accessories,Michelin,21.94,Mid-Range,,0,1,2023-04-12
+8,d2ecc3eb-9cef-4b7a-8d4a-89c51817135c,Bosch Car Accessorie - White,Automotive,Car Accessories,Bosch,23.28,Mid-Range,,0,1,2023-02-07
+9,da073e84-d1ca-4cc9-b1bd-c399cd13fe61,Continental Premium Car Accessorie,Automotive,Car Accessories,Continental,27.66,Mid-Range,5.0,1,2,2024-01-04
+10,1e4b0458-68ae-4a5c-bc79-8a3e9933260e,Bridgestone Premium Car Care,Automotive,Car Care,Bridgestone,24.78,Mid-Range,5.0,1,2,2024-12-09
+11,1f0f53f2-b061-414a-9a6d-7d4038f216bc,Bosch Car Care Cleaner,Automotive,Car Care,Bosch,65.11,Mid-Range,4.0,1,2,2025-03-09
+12,966734c9-d17f-4a1d-8836-a2b809197416,"Bosch Car Care - 14""",Automotive,Car Care,Bosch,16.8,Budget,2.5,2,4,2023-03-29
+13,cf3c6032-d25f-42cb-8dbf-951141d60bd9,Bosch Car Care Cleaner,Automotive,Car Care,Bosch,30.72,Mid-Range,5.0,1,11,2026-03-22
+14,eb5e1d1d-8dff-4a1f-b019-87b266f12881,NOCO Car Care Kit,Automotive,Car Care,NOCO,176.55,Premium,4.0,1,1,2024-04-17
+15,eb819333-b501-4c18-8c53-c786ed62c2f9,Mobil Premium Car Care,Automotive,Car Care,Mobil,42.34,Mid-Range,1.0,1,1,2024-03-26
+16,25debbec-d996-4422-8c51-d35343de8bb1,Bosch Electronic Display,Automotive,Electronics,Bosch,28.8,Mid-Range,4.5,2,5,2023-03-12
+17,60cb943f-c3ec-4e4e-952d-e761452c9520,Bosch Smart Electronic,Automotive,Electronics,Bosch,77.17,Premium,2.5,2,4,2023-10-25
+18,920a8047-d219-4f21-bf1e-9904f1097bad,Bosch Prime6 Electronic,Automotive,Electronics,Bosch,10.56,Budget,4.2,6,1,2026-03-31
+19,c44d8b86-cf14-4c57-8b74-488e494e5f2d,Bosch Electronic Display,Automotive,Electronics,Bosch,14.57,Budget,3.0,1,1,2024-07-13
+20,ecb6628b-2a3e-4205-ada1-0b8a4b6d6a66,Michelin Smart Electronic,Automotive,Electronics,Michelin,66.98,Mid-Range,5.0,1,1,2025-09-28
+21,f81e1fd5-a01b-4fbe-81d6-5dc5ab19b03c,Castrol Prime7 Electronic,Automotive,Electronics,Castrol,120.75,Premium,4.8,9,1,2023-04-14
+22,027dba4e-9f9b-42a3-9083-a37076fda985,Goodyear Synthetic Fluid,Automotive,Fluids,Goodyear,24.89,Mid-Range,4.0,1,2,2024-09-22
+23,28475826-6a6f-456b-ad1e-9aec02b7bb83,Michelin Synthetic Fluid,Automotive,Fluids,Michelin,54.0,Mid-Range,,0,1,2024-04-16
+24,2c625841-a848-47a7-bae9-4be42c6f6846,Goodyear Fluid SAE 5W-30,Automotive,Fluids,Goodyear,205.45,Luxury,5.0,1,1,2024-01-01
+25,3432e9ed-d6bf-489c-9a63-2f6b63759434,WeatherTech Synthetic Fluid,Automotive,Fluids,WeatherTech,16.31,Budget,,0,42,2024-05-01
+26,4162fcbc-cae2-42c8-89ad-7e8ba8854f1c,Turtle Wax Synthetic Fluid,Automotive,Fluids,Turtle Wax,17.58,Budget,,0,3,2025-04-27
+27,7e8e07e1-2ed3-4d7a-b2a9-19fc943eedc2,Michelin Synthetic Fluid,Automotive,Fluids,Michelin,21.96,Mid-Range,,0,1,2024-07-20
+28,82f9fd9d-6a36-4638-b5b7-20792e75f4a7,Bosch Fluid Mercedes MB 229.5,Automotive,Fluids,Bosch,54.61,Mid-Range,,0,2,2025-08-04
+29,0c70a612-d55e-4879-9bce-299d323437f3,Bosch Tools & Equipment Set,Automotive,Tools & Equipment,Bosch,78.06,Premium,3.8,8,1,2024-09-23
+30,4f87db9a-cec9-4e1d-b23b-871d5424db63,Goodyear Edge5 Tools & Equipment,Automotive,Tools & Equipment,Goodyear,16.36,Budget,3.8,4,1,2024-05-24
+31,5e7640a2-6ae2-404a-b17e-2d4e60bbff41,OTC Tools Galaxy4 Tools & Equipment,Automotive,Tools & Equipment,OTC Tools,22.57,Mid-Range,4.0,2,7,2024-08-15
+32,81551ffe-b19f-48da-9da3-e1084975e33b,Bosch Professional Tools & Equipment,Automotive,Tools & Equipment,Bosch,37.6,Mid-Range,4.0,1,1,2024-12-13
+33,9b648884-cdc0-4d7d-ab65-573caef47e99,WeatherTech Galaxy8 Tools & Equipment,Automotive,Tools & Equipment,WeatherTech,36.83,Mid-Range,,0,5,2025-03-12
+34,9fb721cb-14fb-4b2b-9a53-cc4c0dacd4ec,Turtle Wax Tools & Equipment Kit,Automotive,Tools & Equipment,Turtle Wax,31.26,Mid-Range,3.3,3,2,2023-07-01
+35,b6a0576e-f197-4cbe-a7c5-af745d82ec05,Michelin Heavy-Duty Tools & Equipment,Automotive,Tools & Equipment,Michelin,34.36,Mid-Range,,0,2,2023-01-11
+36,c1a03f48-f87a-487d-9691-997377699d87,NOCO Professional Tools & Equipment,Automotive,Tools & Equipment,NOCO,25.92,Mid-Range,4.0,1,1,2023-12-03
+37,c64a19bc-f692-4de2-9ae5-454cd9d84637,Bosch Professional Tools & Equipment,Automotive,Tools & Equipment,Bosch,12.24,Budget,,0,2,2025-08-18
+38,dfbce523-ca71-4795-8fe9-3d18cd585ca6,Lucas Oil Tools & Equipment Set,Automotive,Tools & Equipment,Lucas Oil,17.95,Budget,4.0,2,3,2024-12-13
+39,fc8ff5d6-2425-45fd-9562-7e24de9f7cd1,Michelin Tools & Equipment Kit,Automotive,Tools & Equipment,Michelin,121.84,Premium,3.5,11,3,2023-05-05
+40,16a3dd27-b631-4a6c-b0a9-a481d1fd5b8d,L'Oreal Bath & Body Wash,Beauty & Personal Care,Bath & Body,L'Oreal,10.59,Budget,4.0,1,1,2024-05-06
+41,2758ff6a-d2a3-43d0-ba31-3b52bebcbe2a,Olay Bath & Body Scrub,Beauty & Personal Care,Bath & Body,Olay,18.27,Budget,,0,1,2026-04-29
+42,2ee058a5-f098-4961-a46d-ba699b635b84,L'Oreal Bath & Body Scrub,Beauty & Personal Care,Bath & Body,L'Oreal,46.25,Mid-Range,,0,1,2024-02-22
+43,51b40fa6-a6b3-41c0-970c-3bf697e8701e,L'Oreal Bath & Body Scrub,Beauty & Personal Care,Bath & Body,L'Oreal,36.58,Mid-Range,,0,1,2023-09-25
+44,5f619e23-797f-45ee-8fd2-54d846dca61e,Olay Bath & Body Wash,Beauty & Personal Care,Bath & Body,Olay,22.42,Mid-Range,3.5,2,4,2025-12-09
+45,6014b105-9f70-4ad9-8cb2-441a091bc827,Olay Bath & Body - Lavender,Beauty & Personal Care,Bath & Body,Olay,11.95,Budget,3.0,1,2,2026-04-28
+46,61a5683d-e524-45fa-8527-19526e9151cd,L'Oreal Bath & Body - Almond,Beauty & Personal Care,Bath & Body,L'Oreal,20.03,Mid-Range,,0,13,2025-11-02
+47,9a59e2a6-3c12-48dd-8b90-f79fc161e7f2,Dove Bath & Body Wash,Beauty & Personal Care,Bath & Body,Dove,10.99,Budget,,0,1,2025-06-01
+48,9ab8abc1-e02f-4c86-8d64-7b77009beb29,Dove Bath & Body Scrub,Beauty & Personal Care,Bath & Body,Dove,14.48,Budget,5.0,1,8,2025-03-31
+49,bf7c5518-5208-4f78-9552-7dd43c26e179,Maybelline Bath & Body Butter,Beauty & Personal Care,Bath & Body,Maybelline,19.63,Budget,,0,1,2026-03-31
+50,c2e39751-db17-424f-8d71-61ec7ecad424,Neutrogena Bath & Body Lotion,Beauty & Personal Care,Bath & Body,Neutrogena,33.8,Mid-Range,4.3,22,1,2024-08-29
+51,f2387fa4-954d-4c92-8a3c-e7f2a02c906a,L'Oreal Bath & Body - Vanilla,Beauty & Personal Care,Bath & Body,L'Oreal,40.14,Mid-Range,,0,1,2023-10-03
+52,f7c07eff-e300-44c7-89dd-0652dd9dc9f8,L'Oreal Bath & Body Scrub,Beauty & Personal Care,Bath & Body,L'Oreal,14.87,Budget,3.0,1,9,2024-09-22
+53,004eb82c-1643-4850-9738-fd2e2c81d645,L'Oreal Velvet Eau de Toilette,Beauty & Personal Care,Fragrance,L'Oreal,30.62,Mid-Range,,0,1,2025-11-26
+54,05b2966b-569e-4a4e-aab9-74241dcd3599,L'Oreal Nova Rollerball,Beauty & Personal Care,Fragrance,L'Oreal,19.83,Budget,,0,1,2023-02-17
+55,111606d4-51dd-4751-b620-03fca7a12881,Neutrogena Drift Perfume Spray,Beauty & Personal Care,Fragrance,Neutrogena,16.61,Budget,3.8,13,3,2024-04-25
+56,13e599b7-2cd7-410f-a630-14cd42967cd2,L'Oreal Midnight Eau de Toilette,Beauty & Personal Care,Fragrance,L'Oreal,16.85,Budget,,0,40,2023-05-30
+57,216381f0-a419-4518-ae02-b0c5f385c0e3,Maybelline Aura Perfume Spray,Beauty & Personal Care,Fragrance,Maybelline,14.09,Budget,,0,2,2026-04-12
+58,277bceef-c970-496f-bac5-e3465630acfe,L'Oreal Midnight Perfume Spray,Beauty & Personal Care,Fragrance,L'Oreal,20.79,Mid-Range,,0,2,2025-05-27
+59,296e5061-63b9-431e-90ee-3528c693b6ea,Dove Nova Cologne,Beauty & Personal Care,Fragrance,Dove,65.9,Mid-Range,5.0,1,1,2023-05-16
+60,2cef5320-bda8-498e-8db2-4881938dadc8,Garnier Cascade Eau de Parfum,Beauty & Personal Care,Fragrance,Garnier,25.68,Mid-Range,,0,44,2024-01-27
+61,38a5e881-540c-43cc-9ea2-eedcf569279e,L'Oreal Drift Perfume Spray,Beauty & Personal Care,Fragrance,L'Oreal,20.96,Mid-Range,4.0,2,1,2023-07-10
+62,3bc35984-5ef3-4f1a-84bd-9d057e890766,L'Oreal Bloom Eau de Parfum,Beauty & Personal Care,Fragrance,L'Oreal,32.8,Mid-Range,,0,1,2025-01-14
+63,3d80ba79-2a0c-4c3d-8c86-bf1685e1b791,Clinique Aura Eau de Toilette,Beauty & Personal Care,Fragrance,Clinique,12.8,Budget,,0,1,2023-02-03
+64,4ebe94fb-6705-4f36-96df-cb464c559568,L'Oreal Bloom Cologne,Beauty & Personal Care,Fragrance,L'Oreal,42.49,Mid-Range,4.6,7,9,2023-08-16
+65,5d5464bd-48cf-484b-8775-10d9ae690a5f,L'Oreal Midnight Cologne,Beauty & Personal Care,Fragrance,L'Oreal,21.05,Mid-Range,,0,3,2023-10-24
+66,7285a4a6-cea0-4f24-a032-be807939c072,Dove Elysium Eau de Parfum,Beauty & Personal Care,Fragrance,Dove,21.01,Mid-Range,4.0,1,1,2025-11-16
+67,7ecb70ed-d72e-4bb1-afe7-24c4df0ec494,L'Oreal Cascade Perfume Spray,Beauty & Personal Care,Fragrance,L'Oreal,9.97,Budget,,0,5,2024-10-16
+68,808b0afc-b94e-49be-a768-db0b73ad0cd2,Estee Lauder Velvet Eau de Parfum,Beauty & Personal Care,Fragrance,Estee Lauder,28.53,Mid-Range,5.0,1,1,2023-11-26
+69,894f938e-7852-4774-a5fa-dff768067a9a,Olay Elysium Eau de Toilette,Beauty & Personal Care,Fragrance,Olay,35.55,Mid-Range,,0,1,2024-10-24
+70,94d8cca1-d1a9-4166-b0ed-7d41536afd08,Clinique Aura Perfume Spray,Beauty & Personal Care,Fragrance,Clinique,24.11,Mid-Range,4.5,2,2,2023-01-23
+71,cbb3e5bc-c8cd-4ad5-a4c3-4fd732148c36,Maybelline Aura Perfume Spray,Beauty & Personal Care,Fragrance,Maybelline,51.11,Mid-Range,,0,2,2025-07-22
+72,db631d35-ff3a-4c56-89f8-423c58983a9b,L'Oreal Aura Rollerball,Beauty & Personal Care,Fragrance,L'Oreal,31.65,Mid-Range,,0,1,2024-08-17
+73,f0717c75-28ec-46b5-a124-5c69461b522c,Maybelline Bloom Eau de Toilette,Beauty & Personal Care,Fragrance,Maybelline,14.04,Budget,5.0,1,3,2025-03-20
+74,07d0959d-aa53-43e0-b844-ea183196b748,L'Oreal Haircare Treatment,Beauty & Personal Care,Haircare,L'Oreal,22.52,Mid-Range,,0,1,2023-10-15
+75,15aab0b8-557b-4fed-b273-06eee86de77d,L'Oreal Haircare Shampoo,Beauty & Personal Care,Haircare,L'Oreal,46.86,Mid-Range,4.0,5,1,2025-06-18
+76,1b88c220-2477-400b-8c69-32023804437b,"Kiehl's Haircare - 15.6""",Beauty & Personal Care,Haircare,Kiehl's,27.23,Mid-Range,,0,47,2025-08-29
+77,26b374b4-221c-445e-8794-5c99a128d26c,Maybelline Haircare Serum,Beauty & Personal Care,Haircare,Maybelline,7.34,Budget,1.0,1,20,2024-02-03
+78,2bf0bc0f-a5fa-4973-915b-6b2fc44ac93e,"Neutrogena Haircare - 17""",Beauty & Personal Care,Haircare,Neutrogena,25.89,Mid-Range,,0,3,2023-09-29
+79,3a54d223-2e18-4960-b91a-e4a68ae293fc,Maybelline Haircare Conditioner,Beauty & Personal Care,Haircare,Maybelline,21.42,Mid-Range,4.0,1,1,2025-12-23
+80,43895bf6-b6a7-40c0-b2e5-cb809f94758a,Olay Haircare Treatment,Beauty & Personal Care,Haircare,Olay,27.29,Mid-Range,,0,2,2024-12-27
+81,444ff043-fb5b-4e2d-a1f0-95ae1d2f1533,L'Oreal Haircare Conditioner,Beauty & Personal Care,Haircare,L'Oreal,50.54,Mid-Range,,0,1,2023-12-08
+82,589e0131-5300-428c-a674-12ca700a0214,"Garnier Haircare - 16""",Beauty & Personal Care,Haircare,Garnier,21.74,Mid-Range,,0,1,2023-04-03
+83,76e07c3c-2843-4320-a524-c3c606bfca24,L'Oreal Haircare Treatment,Beauty & Personal Care,Haircare,L'Oreal,27.16,Mid-Range,3.5,2,2,2025-04-22
+84,7b74b088-3813-40c8-b3e0-22f3c72ee791,MAC Haircare Treatment,Beauty & Personal Care,Haircare,MAC,12.82,Budget,,0,1,2025-09-05
+85,862ad620-8c67-4aeb-b869-a8d95e16ee80,L'Oreal Haircare Shampoo,Beauty & Personal Care,Haircare,L'Oreal,13.14,Budget,,0,8,2024-07-27
+86,b0228388-a496-4e9e-99e8-33759e8ea929,Olay Haircare Serum,Beauty & Personal Care,Haircare,Olay,7.31,Budget,4.0,1,6,2024-12-29
+87,b8cfd15d-f114-4dc4-8b81-eb89f074c4bb,L'Oreal Haircare Serum,Beauty & Personal Care,Haircare,L'Oreal,14.36,Budget,,0,1,2025-03-07
+88,d5beeaa2-6999-4a44-9edf-f299efab2d46,L'Oreal Haircare Shampoo,Beauty & Personal Care,Haircare,L'Oreal,12.73,Budget,,0,1,2026-04-10
+89,e69a6cb0-5cb0-4dda-97a7-af5ebe033a81,L'Oreal Haircare Serum,Beauty & Personal Care,Haircare,L'Oreal,7.78,Budget,,0,1,2024-07-23
+90,e9057e4c-5b85-426f-a6d9-28f830530cfe,L'Oreal Haircare Serum,Beauty & Personal Care,Haircare,L'Oreal,11.95,Budget,3.0,1,1,2026-02-17
+91,f1dc0e99-602f-4cfb-bf4a-6f0484b71078,"L'Oreal Haircare - 14""",Beauty & Personal Care,Haircare,L'Oreal,31.67,Mid-Range,,0,1,2024-05-05
+92,ff761c59-6875-469b-9f30-479237b8bb94,L'Oreal Haircare Conditioner,Beauty & Personal Care,Haircare,L'Oreal,7.6,Budget,,0,1,2023-08-01
+93,0086bdef-729f-4a6a-b636-09655dd15052,L'Oreal Makeup Palette,Beauty & Personal Care,Makeup,L'Oreal,13.63,Budget,,0,1,2026-03-02
+94,35dfd05c-b23d-4671-9196-2c2d979999ef,Neutrogena Matte Makeup,Beauty & Personal Care,Makeup,Neutrogena,8.91,Budget,3.3,3,8,2023-10-19
+95,6e4953ee-17bc-4f99-8c81-3d5f7815777c,Neutrogena Makeup Palette,Beauty & Personal Care,Makeup,Neutrogena,22.2,Mid-Range,,0,1,2026-01-02
+96,76dbc26a-427f-4433-9bb5-43dddd1adbcd,Neutrogena Liquid Makeup,Beauty & Personal Care,Makeup,Neutrogena,27.71,Mid-Range,4.5,6,1,2025-04-27
+97,8a4aa0a6-d37e-40e7-bb35-dc8391877fb8,Olay Makeup Palette,Beauty & Personal Care,Makeup,Olay,15.23,Budget,4.0,2,4,2023-08-16
+98,8e10c439-7275-4ecf-9433-a8fa8b25c443,Olay Liquid Makeup,Beauty & Personal Care,Makeup,Olay,24.99,Mid-Range,1.0,1,3,2023-01-09
+99,936fb559-2a18-4d8d-8267-ac5e006a1a52,Clinique Makeup Foundation,Beauty & Personal Care,Makeup,Clinique,10.13,Budget,,0,21,2025-05-02
+100,993a8cf7-18d9-49db-bf43-6dd5eb047a76,L'Oreal Liquid Makeup,Beauty & Personal Care,Makeup,L'Oreal,34.55,Mid-Range,,0,1,2023-03-18
+101,b6ccd093-e5fa-415b-bac9-adaa6a8e9e68,L'Oreal Matte Makeup,Beauty & Personal Care,Makeup,L'Oreal,12.78,Budget,,0,1,2026-01-23
+102,d9f8a3f0-f3b2-4c85-874d-a8819e73b376,L'Oreal Makeup Palette,Beauty & Personal Care,Makeup,L'Oreal,28.86,Mid-Range,4.0,1,1,2026-04-21
+103,fac9f7cb-7484-4330-bd8a-42565f5794cb,L'Oreal Liquid Makeup,Beauty & Personal Care,Makeup,L'Oreal,16.32,Budget,4.8,4,1,2026-02-01
+104,21a0742e-0dd9-4e98-96bc-c61a5e2740ab,L'Oreal Skincare for Dry Skin,Beauty & Personal Care,Skincare,L'Oreal,21.48,Mid-Range,3.5,2,30,2026-05-02
+105,3a90919f-9c1f-4717-9d32-44ae17fba3e5,L'Oreal Skincare Cream,Beauty & Personal Care,Skincare,L'Oreal,45.09,Mid-Range,2.0,1,1,2025-12-01
+106,612e87ac-7292-47de-b390-a320e94135b5,L'Oreal Skincare Serum,Beauty & Personal Care,Skincare,L'Oreal,12.32,Budget,,0,10,2025-10-08
+107,69d601f4-c980-470c-8c59-755e9aecf91b,Dove Skincare for Dry Skin,Beauty & Personal Care,Skincare,Dove,22.88,Mid-Range,,0,1,2025-01-28
+108,6afb8b2f-c98c-4818-bdd6-1583d58c83f2,L'Oreal Skincare Cream,Beauty & Personal Care,Skincare,L'Oreal,14.38,Budget,,0,2,2024-08-12
+109,819960cb-bc9c-4dc3-86fc-239d8c32e00e,L'Oreal Skincare Cream,Beauty & Personal Care,Skincare,L'Oreal,53.52,Mid-Range,,0,2,2023-04-05
+110,8a647bd2-f66f-469b-874d-01a1358c55f0,L'Oreal Skincare Complex,Beauty & Personal Care,Skincare,L'Oreal,27.21,Mid-Range,,0,2,2026-01-28
+111,98bba6b6-73a2-47fb-aada-81cd4ac3cf9e,"Neutrogena Skincare - 16""",Beauty & Personal Care,Skincare,Neutrogena,8.45,Budget,2.0,1,14,2026-05-13
+112,a0c63932-3335-49e7-b637-8d3b0c7680f8,L'Oreal Skincare Cream,Beauty & Personal Care,Skincare,L'Oreal,33.78,Mid-Range,3.5,4,2,2025-05-03
+113,c2a06d28-ff18-4026-b93f-2f76b2672382,"L'Oreal Skincare - 17""",Beauty & Personal Care,Skincare,L'Oreal,34.07,Mid-Range,5.0,1,1,2023-06-12
+114,d7481884-a64e-43ae-b90c-98cd32f7c464,Nivea Skincare Serum,Beauty & Personal Care,Skincare,Nivea,13.16,Budget,5.0,1,2,2023-02-24
+115,daa08f70-8807-486e-b9fe-f8cc961016a2,L'Oreal Skincare Cream,Beauty & Personal Care,Skincare,L'Oreal,31.95,Mid-Range,4.0,1,18,2025-01-17
+116,db9e90f6-153b-41a2-8dd2-76e1ca03e257,"Maybelline Skincare - 13""",Beauty & Personal Care,Skincare,Maybelline,7.42,Budget,,0,1,2023-05-11
+117,f6adc9c0-e497-4963-9c5e-f7ec0d4711a4,"L'Oreal Skincare - 13""",Beauty & Personal Care,Skincare,L'Oreal,23.41,Mid-Range,4.5,4,16,2023-07-08
+118,0e6583b5-be64-4e0e-8dd8-df31ae4db52c,My First Quantum Computing,Books,Children's Books,Penguin Books,16.69,Budget,2.0,1,2,2024-10-16
+119,25450c50-662a-4ac3-8265-374d6a1e70e0,The elite phoenix,Books,Children's Books,Penguin Books,24.3,Mid-Range,4.0,3,1,2025-06-20
+120,33390961-43c2-40ed-80bb-53cd28a5caee,Learn Leadership with Sam,Books,Children's Books,HarperCollins,19.28,Budget,4.0,1,9,2024-02-15
+121,34ab6855-040c-4f02-8b34-caac7ecd8435,My First Optimization,Books,Children's Books,Macmillan,30.93,Mid-Range,,0,2,2023-08-21
+122,3623b620-1419-496a-95d5-f620fe664f1e,Learn Psychology with Jack,Books,Children's Books,Random House,10.2,Budget,3.7,3,1,2024-11-30
+123,4890520e-e077-4212-b75c-57def8dd8cd7,The robust bear,Books,Children's Books,Penguin Books,10.69,Budget,3.0,1,1,2024-02-06
+124,4a3c27a3-42b0-4bcb-9be6-cbd34aa84236,Learn Finance with Finn,Books,Children's Books,HarperCollins,21.93,Mid-Range,,0,1,2023-12-02
+125,4fa8f97d-f6ea-47d9-ba99-285c5a3bb3ff,My First Meditation,Books,Children's Books,HarperCollins,8.66,Budget,,0,1,2023-12-17
+126,7465f92f-fc91-4f1e-8989-636192034112,My First Finance,Books,Children's Books,HarperCollins,18.58,Budget,,0,1,2025-03-19
+127,79ffa574-bec1-401d-ad0f-508ad6f46905,Versatile fusion Adventure,Books,Children's Books,HarperCollins,32.34,Mid-Range,,0,2,2023-01-29
+128,7dd2f487-d433-4185-99db-0e084dee1882,Learn Programming with Ella,Books,Children's Books,Penguin Books,13.27,Budget,,0,1,2025-05-30
+129,89105c88-ed09-4cb9-8314-5bc3d9d52291,My First Optimization,Books,Children's Books,Penguin Books,9.67,Budget,,0,1,2024-10-24
+130,8cbd67b3-730d-47e0-8306-63f6a4dd379c,Vortex and the sleek vortex,Books,Children's Books,Penguin Books,27.65,Mid-Range,,0,3,2026-01-09
+131,8d0e558c-e441-49cc-8b6c-eb1cb7b2c999,Superior vanguard Adventure,Books,Children's Books,Penguin Books,18.81,Budget,5.0,1,1,2024-07-28
+132,9a4c5e8a-5831-4b7f-8a36-28150eeea59e,Apex and the professional apex,Books,Children's Books,Penguin Books,9.73,Budget,,0,41,2026-02-19
+133,9cd03717-8792-47ad-8886-76fc97f393d8,Ultimate pinnacle Adventure,Books,Children's Books,Simon & Schuster,12.27,Budget,,0,3,2023-07-10
+134,b5013616-0d4b-4109-a242-b2501f735328,Pinnacle and the premium pinnacle,Books,Children's Books,Penguin Books,16.43,Budget,,0,1,2023-12-12
+135,d4c82aec-8ebb-48be-8b4b-dc5dc3b7aef7,Pioneer and the sophisticated pioneer,Books,Children's Books,HarperCollins,9.13,Budget,,0,1,2025-03-11
+136,d8bc55a8-1ed7-499f-8249-d90d1ef536c0,Advanced pinnacle Adventure,Books,Children's Books,Penguin Books,14.54,Budget,3.0,2,1,2023-05-09
+137,e3baf771-a60d-4ac8-b619-25ff65a58ccb,Portable cipher Adventure,Books,Children's Books,Harvard Press,15.08,Budget,4.0,1,2,2025-12-18
+138,efb00d57-64ec-4537-b59a-5f790c1cf595,Learn Optimization with Sam,Books,Children's Books,Penguin Books,20.72,Mid-Range,5.0,1,1,2023-03-22
+139,f2dbc3f9-915e-4e2f-9a01-977a2299a285,My First Reinforcement Learning,Books,Children's Books,Penguin Books,18.22,Budget,5.0,2,4,2025-12-04
+140,f5b4f7f0-ad84-414d-b6a9-ec386fbd8a8d,Learn Fitness with Sam,Books,Children's Books,Macmillan,16.39,Budget,,0,1,2025-09-10
+141,0de32150-ac3c-4928-889a-17f68f21d525,Legends #2: A Hands-On Approach,Books,Comics,Penguin Books,4.85,Budget,3.0,1,1,2024-12-13
+142,282324cf-0b38-443e-a3b5-1f6784dca4e9,An Compact Element: Building Real-World Solutions,Books,Comics,Penguin Books,7.64,Budget,,0,8,2024-11-23
+143,341db25d-1cfb-4b01-8303-070a169d0c56,Legends - Volume 10,Books,Comics,Penguin Books,43.94,Mid-Range,4.3,17,17,2024-02-16
+144,42f60e55-58f2-4129-a7b0-cb4ec5753faf,"Odyssey #7: Concepts, Techniques, and Tools",Books,Comics,Penguin Books,9.2,Budget,,0,1,2025-07-01
+145,47e7f275-f5b2-46dd-9c52-fd12a6ec351d,Star Commander: Fundamentals and Beyond,Books,Comics,Penguin Books,13.58,Budget,,0,2,2023-06-08
+146,53a6f40f-7783-4d52-b14d-e977706edaf2,The essential The Wanderer,Books,Comics,Penguin Books,17.12,Budget,,0,15,2023-08-06
+147,5546a905-549b-42c5-accf-e855eea162a9,Saga #8: The Complete Reference,Books,Comics,Macmillan,6.91,Budget,,0,1,2023-09-03
+148,6423c371-130e-481a-8f65-57c728cb6ae7,The Sleek Drift: A Practical Approach,Books,Comics,Macmillan,8.35,Budget,,0,1,2025-09-05
+149,725d531d-3def-4a46-83db-b68cb76ff5e2,The elegant Night Guardian,Books,Comics,Penguin Books,7.18,Budget,5.0,1,94,2023-07-27
+150,72af798d-dd65-4dfe-b807-d84757d3e847,A Superior Spectrum: Building Real-World Solutions,Books,Comics,Hachette,12.35,Budget,,0,5,2025-04-27
+151,808b9c21-b002-40a7-a636-aabb7673b4a9,Odyssey #5: Building Real-World Solutions,Books,Comics,Penguin Books,11.98,Budget,,0,2,2023-11-11
+152,8ac6ecce-76be-48bc-b4e0-ed8eb14cebe2,Odyssey - Volume 6,Books,Comics,Penguin Books,14.58,Budget,,0,1,2024-06-02
+153,8c08b507-1f47-4e21-beb5-258709f5c6d3,An Premium Pioneer: Principles and Applications,Books,Comics,Oxford University Press,36.7,Mid-Range,5.0,1,3,2023-07-09
+154,8da0a9ff-c2ca-4dbc-ada0-b81e99c86412,Shadow Agent: From Theory to Practice,Books,Comics,Penguin Books,14.2,Budget,,0,1,2023-12-31
+155,9e041a5d-17de-47d3-abde-8902d7ca6ae5,Star Commander: The Complete Reference,Books,Comics,Penguin Books,24.55,Mid-Range,,0,4,2024-01-15
+156,b947050d-9008-461d-9d8d-b7753d179c9e,Legends - Volume 10,Books,Comics,Oxford University Press,8.73,Budget,,0,1,2024-12-07
+157,d5e296e1-c8c5-44cb-af55-a138ad9c74d6,"Star Commander: Concepts, Techniques, and Tools",Books,Comics,Penguin Books,12.84,Budget,5.0,1,1,2023-09-24
+158,011a7341-1f25-4cd0-9777-edabe4c60de7,Advanced Robotics,Books,Educational,Doubleday,12.43,Budget,,0,1,2023-10-06
+159,06ce14c8-3158-44a4-b6a0-04674d81a0d2,Introduction to Deep Learning,Books,Educational,HarperCollins,11.76,Budget,,0,1,2023-02-16
+160,0d667e6c-ae9c-441e-b61a-5e454093bcd9,Yoga: Advanced Concepts Explained,Books,Educational,Penguin Books,12.19,Budget,4.0,1,2,2023-04-18
+161,155788a3-3c19-4b95-955c-34c0f87d57fe,Architecture: The Definitive Guide,Books,Educational,Simon & Schuster,8.44,Budget,,0,1,2023-03-30
+162,15e13e8e-1781-4b75-8969-6f81e4059991,Introduction to Linear Algebra,Books,Educational,HarperCollins,8.65,Budget,,0,1,2023-11-07
+163,1e66832f-5895-47a7-9f3f-982cbd1e40ac,Architecture for Professionals,Books,Educational,Penguin Books,9.9,Budget,,0,9,2024-10-26
+164,21bcf43e-2dd7-4f50-914b-f084c4b05ed6,The dynamic Yoga Handbook,Books,Educational,HarperCollins,14.09,Budget,,0,1,2025-03-15
+165,32411867-7e10-4557-8459-4fb295f47c68,Advanced Statistics,Books,Educational,Simon & Schuster,25.2,Mid-Range,,0,1,2024-12-13
+166,37c91f3d-72e5-4f4d-b001-07af34335aa1,The modern Philosophy Handbook,Books,Educational,Penguin Books,25.46,Mid-Range,,0,1,2025-07-19
+167,3ebaae94-fb58-4115-bc3b-f28591c099ef,Introduction to Software Engineering,Books,Educational,Penguin Books,13.98,Budget,,0,2,2025-07-18
+168,4b9e0daa-984a-49ef-9b19-02df804d29fa,Advanced Machine Learning,Books,Educational,Penguin Books,16.18,Budget,,0,1,2025-03-01
+169,4ea65774-8dab-49cc-80a4-61223719d4d6,The superior Machine Learning Handbook,Books,Educational,Random House,6.59,Budget,,0,1,2023-06-19
+170,4ee17653-62d7-467f-8438-e5870e4b617e,Advanced Finance,Books,Educational,Random House,10.27,Budget,4.5,2,1,2023-01-24
+171,61bc670a-141e-423c-a0d9-209051f9920c,The dynamic Artificial Intelligence Handbook,Books,Educational,Penguin Books,11.85,Budget,,0,1,2023-05-30
+172,73a75a44-cd7c-4fc9-b3ff-6378dee9672f,The smart Statistics Handbook,Books,Educational,Penguin Books,9.0,Budget,,0,1,2024-11-16
+173,897fbea8-369d-45b9-a88e-61d89b7745b5,Introduction to Software Engineering,Books,Educational,Hachette,11.23,Budget,5.0,1,1,2025-06-26
+174,8e7b93f6-32cc-413d-b73b-ad49a1db72d9,Leadership for Data Scientists,Books,Educational,Penguin Books,7.16,Budget,,0,10,2025-12-14
+175,8ebe35c7-f797-452c-8871-ffd6c856e8e3,Advanced NLP,Books,Educational,Random House,4.31,Budget,,0,1,2025-06-21
+176,9d6f16cd-17eb-4be3-8e0b-4608b5a1feed,Advanced Data Science,Books,Educational,Penguin Books,9.66,Budget,,0,1,2024-03-09
+177,b12269f8-cfeb-4ebf-8bfd-12a393c1b358,Introduction to Cybersecurity,Books,Educational,Vintage Books,13.99,Budget,,0,1,2023-10-13
+178,b2e4a88d-89ca-4afe-a050-eb9300e4aa95,Advanced Digital Marketing,Books,Educational,Bloomsbury,16.92,Budget,,0,1,2025-12-26
+179,c8976c4e-8635-412e-9e53-7c3e67f137e8,The portable Data Science Handbook,Books,Educational,Penguin Books,9.04,Budget,,0,2,2024-04-18
+180,d30b76ee-5a18-4e36-bbb7-84723460be23,Fitness for Professionals,Books,Educational,Simon & Schuster,17.51,Budget,3.0,1,1,2023-03-26
+181,d74b2d27-83c9-4d3b-b650-ff3f91f9e1e7,Advanced Optimization,Books,Educational,Penguin Books,11.98,Budget,,0,3,2025-07-22
+182,db8d4457-8949-47a3-a0bb-c3b8900727dc,Advanced Computer Vision,Books,Educational,Hachette,17.68,Budget,,0,1,2023-05-24
+183,dd7f06d5-acb6-41c9-9283-04f6b571c4e9,Blockchain for Young Learners,Books,Educational,Penguin Books,15.1,Budget,,0,1,2025-05-17
+184,f3293b39-cbad-4731-8413-29bf8f81d50e,Introduction to Deep Learning,Books,Educational,Penguin Books,11.88,Budget,,0,4,2024-05-26
+185,fa8e94c7-decb-44da-b86d-0ce73492874c,Digital Marketing for Data Scientists,Books,Educational,Macmillan,8.49,Budget,,0,5,2025-08-19
+186,03984285-0a09-4d9d-a0a7-ef2a35bfd92b,The refined horizon,Books,Fiction,HarperCollins,14.22,Budget,,0,2,2023-07-12
+187,03b6874a-6369-4741-a305-9c3f0b1036eb,The legacy's legacy,Books,Fiction,Penguin Books,9.61,Budget,1.0,1,1,2023-04-24
+188,0d047bee-65d4-40ac-bfc1-3fc3d21698b6,The advanced vortex,Books,Fiction,Oxford University Press,7.79,Budget,2.0,1,6,2025-02-09
+189,126471c9-fb39-470a-b0dc-f02dad2e767e,The ultimate horizon,Books,Fiction,Penguin Books,10.79,Budget,,0,1,2023-10-04
+190,21465c5c-b5d6-41c7-b552-d89cb8f6b77a,The zenith's zenith,Books,Fiction,Simon & Schuster,11.02,Budget,,0,366,2023-08-11
+191,2615e520-795d-4a24-9d47-5b4307afebf8,Modern of time,Books,Fiction,Penguin Books,12.74,Budget,2.0,1,2,2023-12-06
+192,29015888-2b89-4204-8244-ba4d3257caec,A Sophisticated Aurora,Books,Fiction,HarperCollins,6.76,Budget,,0,1,2025-05-12
+193,39d4ea0e-931e-4545-818f-0bacce501c29,The ultimate pioneer,Books,Fiction,HarperCollins,7.67,Budget,,0,1,2025-01-23
+194,4002658b-d144-4603-8452-7e18942e4e74,Modern of stars,Books,Fiction,Cambridge Press,17.23,Budget,4.0,2,1,2025-01-19
+195,5d1c4a0d-acb2-4098-95b0-00289233353b,A ultimate pinnacle,Books,Fiction,Penguin Books,16.59,Budget,,0,1,2024-03-28
+196,6a3c603e-d935-4280-8d4c-8a4b725fa8af,A robust drift,Books,Fiction,Macmillan,20.14,Mid-Range,,0,1,2025-09-02
+197,776df9ea-e13e-40b6-bb01-fa51110f4390,A premium legacy,Books,Fiction,Cambridge Press,20.53,Mid-Range,5.0,1,2,2026-04-24
+198,895004bb-bc48-4955-95ba-fcbc9c59fbe5,Elegant of silence,Books,Fiction,McGraw-Hill,12.55,Budget,1.0,1,12,2026-04-06
+199,8dab9b57-b0b5-4af6-aa44-c98f2dabbc43,A superior fusion,Books,Fiction,HarperCollins,11.58,Budget,,0,3,2024-07-03
+200,92236ccd-8045-4827-b752-5e48a84d9a32,The element's element,Books,Fiction,Vintage Books,16.79,Budget,5.0,1,1,2025-09-04
+201,9f3a318b-d5cc-4da4-8fd9-663f9671439c,The Versatile Cascade,Books,Fiction,Penguin Books,28.75,Mid-Range,,0,1,2025-05-29
+202,b1a39ae6-0c51-4a3c-bdc4-118a7e285ec3,Modern of time,Books,Fiction,Penguin Books,5.28,Budget,3.0,1,1,2024-09-16
+203,b21e2f4d-ad9a-43bd-a87a-71d341f33051,Sophisticated of fate,Books,Fiction,Hachette,37.59,Mid-Range,3.7,7,131,2024-01-01
+204,b6c5a64c-cf4f-4ead-93d9-ccff245c81d0,A refined quantum,Books,Fiction,Penguin Books,10.73,Budget,,0,1,2024-03-05
+205,c45b62ae-3dd2-45d5-ab43-f6e74a2e3cd2,The Classic Aurora,Books,Fiction,Cambridge Press,12.67,Budget,4.0,1,3,2026-02-08
+206,ca48b66a-b1cd-45f8-abef-741b244f0dfc,Classic of silence,Books,Fiction,HarperCollins,15.7,Budget,5.0,2,2,2023-02-14
+207,daac50fd-b0f3-401b-8e4f-82b6573ea539,An Premium Pioneer,Books,Fiction,Simon & Schuster,16.41,Budget,4.0,1,1,2024-10-29
+208,dafd112c-f226-40f8-a298-ed495d08874f,The innovative element,Books,Fiction,Penguin Books,16.99,Budget,,0,13,2025-08-23
+209,e218ae73-e52b-41cd-be42-73a06f169fe4,The elegant vertex,Books,Fiction,Penguin Books,9.33,Budget,,0,2,2025-06-25
+210,e2d1dda4-1585-40fc-ac1f-d58afe9b8d26,A essential nexus,Books,Fiction,HarperCollins,14.16,Budget,,0,11,2024-10-08
+211,effbaab5-5b3a-4f97-a1d1-ef7241dd9d65,A smart quantum,Books,Fiction,Bloomsbury,11.5,Budget,3.0,1,3,2023-11-16
+212,fc85e6da-3f50-4390-b347-461412f7d6c3,Versatile of thunder,Books,Fiction,Penguin Books,9.5,Budget,,0,1,2023-05-20
+213,03c79966-c80d-47a2-bcc6-b1f85c706c69,Psychology,Books,Non-Fiction,Random House,9.83,Budget,1.0,1,1,2023-03-13
+214,060c5f22-1a0c-45fb-800a-312a5b926e69,"Sleek Deep Learning: The Concepts, Techniques, and Tools",Books,Non-Fiction,HarperCollins,15.85,Budget,5.0,1,136,2023-12-17
+215,0ee95bfd-3f6c-4094-a217-7172a275cc58,Linear Algebra: A professional History,Books,Non-Fiction,Penguin Books,36.01,Mid-Range,,0,3,2024-03-12
+216,1d4f54e4-16a4-4d27-a651-2abf2087e42d,Linear Algebra: A compact History,Books,Non-Fiction,HarperCollins,15.08,Budget,,0,1,2026-03-22
+217,1e6d1ef9-34f9-4a4d-81f4-d82110d8137d,The sophisticated Guide to Software Engineering,Books,Non-Fiction,Penguin Books,21.17,Mid-Range,5.0,1,75,2023-12-16
+218,20a7b807-e7ec-48c5-a2b4-0c0b39bbf134,Algorithms: A portable History,Books,Non-Fiction,Random House,7.74,Budget,,0,49,2023-12-03
+219,31575edd-2512-4b79-a8bf-ef9e15d0789a,Elite World History: The From Theory to Practice,Books,Non-Fiction,Penguin Books,28.85,Mid-Range,1.0,1,1,2025-12-21
+220,38a8eed8-1628-47df-a1b8-cad63728f040,The portable Guide to Psychology,Books,Non-Fiction,Penguin Books,47.12,Mid-Range,4.9,9,2,2023-05-18
+221,41334f74-7835-4a29-9b90-4e1b9b4a18da,The advanced Guide to Data Structures,Books,Non-Fiction,Scholastic,14.87,Budget,5.0,1,1,2023-06-21
+222,48702740-ffd5-4eca-8fa9-c39563b2a8c8,Nutrition,Books,Non-Fiction,Penguin Books,10.68,Budget,4.0,1,3,2023-05-21
+223,4a1b769a-c5b0-48f1-8bfe-9168a844e31e,Data Science,Books,Non-Fiction,MIT Press,28.68,Mid-Range,,0,4,2024-09-04
+224,4e5c9477-fa55-41c8-98fe-a01014cb2d15,Compact Leadership: The Advanced Concepts Explained,Books,Non-Fiction,Penguin Books,13.82,Budget,,0,2,2025-07-08
+225,50d9ec7e-0105-41ea-b192-303811ed357f,Reinforcement Learning,Books,Non-Fiction,HarperCollins,25.47,Mid-Range,4.0,1,1,2023-08-28
+226,5421da2a-4a0c-437d-934d-d2384fae9de4,The Meditation: The Definitive Guide,Books,Non-Fiction,Oxford University Press,8.37,Budget,,0,1,2026-05-27
+227,6c915719-e0e2-4c7c-a69c-398305b55a7a,The advanced Guide to Yoga,Books,Non-Fiction,Random House,14.22,Budget,,0,2,2025-07-26
+228,6e2eae64-7685-4c89-883d-51d3bc863f6f,Digital Marketing: A classic History,Books,Non-Fiction,Penguin Books,13.09,Budget,,0,270,2023-07-10
+229,730206e1-27a1-42b5-b0d0-53224d11f1d9,Machine Learning: A ultimate History,Books,Non-Fiction,Penguin Books,22.98,Mid-Range,5.0,2,1,2023-08-29
+230,7333927d-4b6d-4564-b758-053bcdeda66a,Calculus,Books,Non-Fiction,Penguin Books,16.47,Budget,,0,99,2023-02-18
+231,78c15786-9013-4add-8b7d-2939a24ffebe,Entrepreneurship: A advanced History,Books,Non-Fiction,Penguin Books,5.64,Budget,,0,10,2025-04-19
+232,7b10c51f-7f57-4542-96cb-531815a363b1,Architecture: A superior History,Books,Non-Fiction,Penguin Books,15.3,Budget,,0,1,2025-10-14
+233,920b6f6f-d113-4b7a-861b-b6bda3de9fdc,Professional Entrepreneurship: The Advanced Concepts Explained,Books,Non-Fiction,Penguin Books,19.46,Budget,4.8,6,1,2025-01-31
+234,9d68d51a-1599-4a5a-92b1-667b4aec1eb6,The Blockchain: Building Real-World Solutions,Books,Non-Fiction,Penguin Books,13.92,Budget,5.0,1,1,2023-01-12
+235,a1625971-e605-48a1-8587-1fd0e4508855,The Entrepreneurship: The Complete Reference,Books,Non-Fiction,Penguin Books,12.3,Budget,,0,9,2024-02-17
+236,a2b42482-1378-41a9-851a-5150ccb9a3f4,Meditation,Books,Non-Fiction,Macmillan,6.42,Budget,5.0,1,362,2025-02-14
+237,a8fad85c-f931-4464-82cc-d7c4dc569021,Nutrition,Books,Non-Fiction,McGraw-Hill,10.09,Budget,,0,3,2024-12-08
+238,aac451f8-462d-402c-9701-83603f5e3638,Finance: A robust History,Books,Non-Fiction,Penguin Books,12.13,Budget,5.0,1,28,2025-03-22
+239,b731da9d-72e3-4d09-bfa8-89ef45ed2fae,Elite Psychology: The The Definitive Guide,Books,Non-Fiction,Penguin Books,8.95,Budget,,0,2,2023-07-06
+240,c1ab2206-9b50-4aaa-9446-f322d0976ea6,The Data Structures: A Comprehensive Guide,Books,Non-Fiction,Simon & Schuster,19.97,Budget,3.9,28,5000,2023-03-03
+241,d834d935-3177-4efa-8508-effcc38d8c60,The robust Guide to Reinforcement Learning,Books,Non-Fiction,Macmillan,23.93,Mid-Range,,0,17,2025-06-26
+242,da7ffcd9-a029-4730-9a07-5cee5a412298,Professional Yoga: The Advanced Concepts Explained,Books,Non-Fiction,Cambridge Press,22.94,Mid-Range,,0,2,2023-01-16
+243,db058a09-6fbc-4923-8eda-d73ec8d7511d,The World History: An Introduction for Beginners,Books,Non-Fiction,McGraw-Hill,10.83,Budget,,0,5,2026-03-29
+244,e4961773-89aa-48c5-871b-aa6c6b2c9b4f,Digital Marketing: A refined History,Books,Non-Fiction,Random House,24.01,Mid-Range,3.0,1,2,2024-01-10
+245,f04c6e31-f1d2-41db-ae5c-40c53e818da1,Programming: A elite History,Books,Non-Fiction,Cambridge Press,1.99,Budget,,0,1,2024-12-01
+246,f0b5f80b-9c03-4856-b950-1006943874f4,The NLP: A Practical Approach,Books,Non-Fiction,Penguin Books,14.15,Budget,,0,4,2024-05-15
+247,f648f11a-091a-497b-8973-50a00f0dda74,The essential Guide to Deep Learning,Books,Non-Fiction,Penguin Books,13.72,Budget,,0,1,2024-04-14
+248,f6f558e2-1730-4da2-abd3-1c5ce8a7d46d,Optimization,Books,Non-Fiction,Simon & Schuster,13.16,Budget,,0,1,2024-05-21
+249,fa6f0458-dc6f-4247-a498-617abb0bbc33,Compact Blockchain: The Principles and Applications,Books,Non-Fiction,HarperCollins,9.32,Budget,,0,1,2025-08-30
+250,037cec35-3b10-4dec-bc5d-f1872c162070,Adidas Classic Accessorie,Clothing & Accessories,Accessories,Adidas,34.73,Mid-Range,1.0,1,22,2026-04-22
+251,087de774-1be2-4674-a707-d0dc1346e762,Nike Accessorie Set,Clothing & Accessories,Accessories,Nike,36.41,Mid-Range,,0,7,2023-08-03
+252,34c9ff5f-00f5-4f95-b1b7-2686317131bc,Nike Premium Accessorie,Clothing & Accessories,Accessories,Nike,10.43,Budget,4.5,2,1,2025-12-31
+253,44743d2d-52f5-41bc-b267-ff0894c9d033,Nike Premium Accessorie,Clothing & Accessories,Accessories,Nike,9.77,Budget,,0,6,2024-06-06
+254,48bf1bda-7bd7-411c-9949-b4a200e16e62,Adidas Premium Accessorie,Clothing & Accessories,Accessories,Adidas,38.08,Mid-Range,3.5,2,2,2024-12-27
+255,59815d2b-d0be-46cd-bf9c-1e68398bfb97,Zara Accessorie Set,Clothing & Accessories,Accessories,Zara,45.01,Mid-Range,4.7,3,1,2023-11-21
+256,599afd9a-72f9-4f7e-b325-6f795e3d220e,Nike Accessorie - Sage,Clothing & Accessories,Accessories,Nike,69.04,Mid-Range,,0,1,2025-04-26
+257,5bc7f769-def0-46b9-8a64-35b8bc9c0a76,Nike Accessorie - Sand,Clothing & Accessories,Accessories,Nike,43.95,Mid-Range,,0,1,2023-03-25
+258,5d836ef6-20f0-47c1-9a54-791a4bfeded1,Nike Accessorie - Blue,Clothing & Accessories,Accessories,Nike,16.78,Budget,3.5,8,7,2023-12-17
+259,5e8855cc-835f-493f-8e5c-38c61cc98cbc,Nike Premium Accessorie,Clothing & Accessories,Accessories,Nike,39.35,Mid-Range,,0,1,2026-03-23
+260,6c16835c-4aaf-4a21-8578-165c9a812b20,Zara Classic Accessorie,Clothing & Accessories,Accessories,Zara,25.9,Mid-Range,4.0,1,1,2025-04-09
+261,7fbbb644-604b-48d2-a2d3-9b8d6c16f889,Patagonia Accessorie Set,Clothing & Accessories,Accessories,Patagonia,18.49,Budget,3.7,7,2,2026-03-29
+262,854f59a0-38d4-4e20-b346-43eca5ccb8cb,Nike Classic Accessorie,Clothing & Accessories,Accessories,Nike,24.95,Mid-Range,4.2,15,1,2026-01-01
+263,8d311d0f-0ab3-44ee-a2f4-6d5d3f76787f,Nike Premium Accessorie,Clothing & Accessories,Accessories,Nike,28.67,Mid-Range,,0,34,2023-11-30
+264,9d1b3baf-2f39-4e48-9244-2ac7afda3ed6,Adidas Accessorie Set,Clothing & Accessories,Accessories,Adidas,37.16,Mid-Range,,0,2,2024-03-03
+265,b89ab99b-26eb-47c5-88b7-2d940a73d960,Nike Accessorie - Brown,Clothing & Accessories,Accessories,Nike,12.37,Budget,,0,12,2023-11-10
+266,c1367786-f12a-4b65-a8fc-6cc0ea8d78ad,Adidas Accessorie - Green,Clothing & Accessories,Accessories,Adidas,84.14,Premium,4.5,2,1,2023-01-27
+267,c1a606fd-0ee6-405f-8706-d4d929f2a890,Nike Premium Accessorie,Clothing & Accessories,Accessories,Nike,50.24,Mid-Range,3.0,2,1,2024-11-13
+268,c20ac685-66b3-4efa-8241-dabf2b1f8e9c,Nike Accessorie - Navy,Clothing & Accessories,Accessories,Nike,65.42,Mid-Range,,0,4,2023-05-15
+269,d197c826-f822-44f5-8c33-0c6bf03c787b,Puma Accessorie - Olive,Clothing & Accessories,Accessories,Puma,43.29,Mid-Range,4.7,3,1,2025-12-25
+270,2068100b-794f-4e1b-8f91-6eaade53c5ff,H&M Core Tote Bag,Clothing & Accessories,Bags,H&M,30.66,Mid-Range,2.0,1,1,2025-10-19
+271,227d2d69-694a-4953-a231-d1e78172d65e,Nike Air12 Crossbody Bag,Clothing & Accessories,Bags,Nike,33.15,Mid-Range,3.5,2,1,2024-06-14
+272,22ce4a6c-3a8e-4c2e-a596-cf9d97a11b52,Puma Classic Duffel Bag,Clothing & Accessories,Bags,Puma,60.83,Mid-Range,4.0,1,4,2025-08-26
+273,232c35ad-ed2e-4a01-a68c-6e9234063892,Nike Pixel14 Backpack,Clothing & Accessories,Bags,Nike,79.68,Premium,,0,9,2025-06-21
+274,432c0469-6d08-485f-8c4a-e4e2b1f72e18,Nike Pro13 Backpack,Clothing & Accessories,Bags,Nike,63.36,Mid-Range,3.0,1,1,2025-09-17
+275,62ed9f3b-bd41-48e5-885b-0bba6e87b319,Nike X5 Crossbody Bag,Clothing & Accessories,Bags,Nike,47.36,Mid-Range,,0,1,2023-07-27
+276,73c416bc-be09-4fbd-88b5-eb6448323467,Nike Pro Duffel Bag,Clothing & Accessories,Bags,Nike,21.29,Mid-Range,2.0,1,3,2024-01-06
+277,931b5b09-fd15-45f0-8756-0613623c53e3,Nike Max Tote Bag,Clothing & Accessories,Bags,Nike,10.95,Budget,,0,1,2023-05-07
+278,97c6254a-3718-47fb-8614-f6a100f8d311,H&M Prime7 Messenger Bag,Clothing & Accessories,Bags,H&M,24.58,Mid-Range,,0,1,2023-12-16
+279,a1cc5081-192e-4895-82ff-91dbde642565,Nike Core Tote Bag,Clothing & Accessories,Bags,Nike,235.87,Luxury,5.0,1,1,2024-09-10
+280,afbc31c5-dc7a-4f54-8222-e3751f411289,Nike Edge9 Messenger Bag,Clothing & Accessories,Bags,Nike,35.12,Mid-Range,2.0,1,1,2026-05-16
+281,b90ba947-06c1-415c-96d6-e331d9ca3964,Adidas Galaxy7 Messenger Bag,Clothing & Accessories,Bags,Adidas,38.77,Mid-Range,,0,2,2024-03-03
+282,fa154827-8602-4668-8cc5-11d7cc80b637,Levi's Edge1 Messenger Bag,Clothing & Accessories,Bags,Levi's,51.82,Mid-Range,,0,1,2023-08-27
+283,018b6e1e-f0ef-4e47-b67a-6e3efaebcfa8,Nike Ultra Sandals,Clothing & Accessories,Footwear,Nike,9.78,Budget,3.0,1,5,2026-04-05
+284,04f4e6f5-8abc-4544-badb-a909ff3a2352,Zara Air1 Running Shoes,Clothing & Accessories,Footwear,Zara,29.78,Mid-Range,5.0,1,1,2025-10-30
+285,0a3729d7-44ad-4fef-869a-837915853a0f,Nike Z4 Running Shoes,Clothing & Accessories,Footwear,Nike,25.24,Mid-Range,,0,1,2023-01-21
+286,1285f796-396a-46b3-8285-0a8ca4f3dfa5,Nike Ultra Casual Sneakers,Clothing & Accessories,Footwear,Nike,25.77,Mid-Range,4.0,1,1,2024-04-18
+287,2cb8afa1-906e-42c6-bc0f-a58557387ecf,Nike Max14 Running Shoes,Clothing & Accessories,Footwear,Nike,54.32,Mid-Range,,0,6,2025-10-13
+288,350c4202-5edd-42fd-9696-fe1b499cda86,Zara Essential Casual Sneakers,Clothing & Accessories,Footwear,Zara,108.92,Premium,,0,2,2023-02-09
+289,37845217-759a-40e1-957d-406a266e4489,Tommy Hilfiger Air5 Training Shoes,Clothing & Accessories,Footwear,Tommy Hilfiger,22.11,Mid-Range,5.0,2,1,2025-04-22
+290,4a1e79d7-75c8-4163-9612-e9e5e0decf49,Calvin Klein Pixel17 Running Shoes,Clothing & Accessories,Footwear,Calvin Klein,35.55,Mid-Range,3.0,1,1,2025-07-10
+291,53f54914-fe13-4d18-8025-70725ef310e7,Gap Galaxy10 Training Shoes,Clothing & Accessories,Footwear,Gap,48.29,Mid-Range,5.0,1,1,2024-02-23
+292,582ad3f0-681f-4e0b-a7c5-d0a114359c3b,Ralph Lauren Elite Casual Sneakers,Clothing & Accessories,Footwear,Ralph Lauren,23.74,Mid-Range,,0,1,2023-12-14
+293,68306ccc-25a7-4bdd-ac15-f3074568de96,Nike Air9 Running Shoes,Clothing & Accessories,Footwear,Nike,56.97,Mid-Range,3.0,1,1,2023-07-03
+294,6a0e0451-14e5-4c31-9ec5-58420bcf5a06,Levi's Ultra Casual Sneakers,Clothing & Accessories,Footwear,Levi's,19.72,Budget,,0,2,2023-04-16
+295,787b5243-feb4-42ad-bc16-d687e2579407,Nike Elite Sandals,Clothing & Accessories,Footwear,Nike,17.16,Budget,3.0,2,1,2025-07-06
+296,7d73f5a0-9d24-4e15-8bba-eac1995a726a,Zara Prime1 Hiking Boots,Clothing & Accessories,Footwear,Zara,43.72,Mid-Range,,0,2,2025-06-04
+297,91a9f312-e0c0-4ecb-afba-5ba640b7b615,Gap X11 Running Shoes,Clothing & Accessories,Footwear,Gap,42.6,Mid-Range,,0,2,2025-05-15
+298,9bfc7e29-2e6a-4c6f-82a0-d8cea984883a,Nike Elite Sandals,Clothing & Accessories,Footwear,Nike,23.23,Mid-Range,,0,2,2023-02-14
+299,a3b05ea3-5b3c-4492-aacd-738020015127,Nike Pro Casual Sneakers,Clothing & Accessories,Footwear,Nike,71.87,Mid-Range,,0,1,2024-01-09
+300,a3c44c20-02fd-4102-8825-548cd500b92d,Nike Pro9 Running Shoes,Clothing & Accessories,Footwear,Nike,31.51,Mid-Range,4.5,2,7,2025-12-25
+301,a8953964-4612-412d-981e-3002313ebf56,Adidas Galaxy12 Training Shoes,Clothing & Accessories,Footwear,Adidas,27.01,Mid-Range,,0,1,2026-01-13
+302,b533d150-a99e-4b1b-9b3f-7eaa3eed17ac,Adidas Max Casual Sneakers,Clothing & Accessories,Footwear,Adidas,36.72,Mid-Range,,0,10,2023-11-01
+303,b800c615-b400-4529-85e4-5fc909e9a5a3,Adidas Classic Sandals,Clothing & Accessories,Footwear,Adidas,21.7,Mid-Range,2.0,1,28,2025-01-08
+304,c7d4af0f-6f0b-45fd-b222-7316c071f512,Nike Z8 Running Shoes,Clothing & Accessories,Footwear,Nike,24.48,Mid-Range,3.0,1,1,2024-04-04
+305,db8a054f-7069-4c80-b41f-21ac10d45981,Nike Series17 Running Shoes,Clothing & Accessories,Footwear,Nike,35.35,Mid-Range,3.5,2,8,2025-09-07
+306,dbdf2946-0896-4274-8eb2-f087e169723f,Adidas Prime10 Training Shoes,Clothing & Accessories,Footwear,Adidas,13.48,Budget,4.5,2,2,2024-08-24
+307,e672476a-04a1-4d79-aecc-25c1811df7c0,Adidas Pro15 Training Shoes,Clothing & Accessories,Footwear,Adidas,25.9,Mid-Range,3.5,2,1,2026-05-23
+308,ec87a594-19d2-497a-9156-fb77b3658b7e,The North Face Classic Sandals,Clothing & Accessories,Footwear,The North Face,41.56,Mid-Range,,0,1,2026-04-24
+309,edb494d5-fb46-45f4-b40a-8f259c2ce029,Nike Pro8 Training Shoes,Clothing & Accessories,Footwear,Nike,111.0,Premium,,0,6,2024-05-11
+310,ede55b83-a7fa-4873-93aa-c69628714e2e,H&M Prime2 Training Shoes,Clothing & Accessories,Footwear,H&M,44.28,Mid-Range,,0,1,2025-12-03
+311,ee9a7086-5d93-4c5b-a734-9e573667ca43,Zara Edge19 Running Shoes,Clothing & Accessories,Footwear,Zara,9.21,Budget,,0,14,2025-11-25
+312,efc6dbc0-0c3b-459a-a0fd-334a554a9e69,Nike Air Sandals,Clothing & Accessories,Footwear,Nike,23.04,Mid-Range,,0,1,2025-11-23
+313,fa0a2095-6ccf-43a6-b338-a1fd78aa14df,Ralph Lauren Air9 Running Shoes,Clothing & Accessories,Footwear,Ralph Lauren,16.91,Budget,,0,3,2025-11-13
+314,0a6aa3ef-069b-4bfa-9ced-5905bfc3b7be,DKNY Ruby Jewelry,Clothing & Accessories,Jewelry,DKNY,17.04,Budget,,0,51,2024-12-21
+315,51d0e076-b71f-4770-8790-2f4285e33420,Nike Silver Jewelry,Clothing & Accessories,Jewelry,Nike,12.15,Budget,,0,1,2026-04-09
+316,5a9a6b4a-6b4f-4edc-b09f-2b92105bee2a,Nike Sterling Silver Jewelry,Clothing & Accessories,Jewelry,Nike,64.02,Mid-Range,,0,1,2025-01-18
+317,5b3d594f-c119-4dd4-a5c8-c4758791e9ce,Nike Platinum Jewelry,Clothing & Accessories,Jewelry,Nike,40.78,Mid-Range,,0,1,2024-06-02
+318,5d07bcd4-3670-4a0d-91f6-e36d7d335597,Adidas Sterling Silver Jewelry,Clothing & Accessories,Jewelry,Adidas,27.22,Mid-Range,3.9,23,35,2024-12-27
+319,685e02ed-59ac-4486-a789-bfe4792b071a,Adidas Amethyst Jewelry,Clothing & Accessories,Jewelry,Adidas,18.72,Budget,,0,1,2024-02-01
+320,6cfe1e01-5a7c-470a-a447-1938935f57e2,Tommy Hilfiger Opal Jewelry,Clothing & Accessories,Jewelry,Tommy Hilfiger,35.78,Mid-Range,,0,2,2024-08-19
+321,732c859a-2ab4-400c-a207-ab515f6d6123,Nike Sterling Silver Jewelry,Clothing & Accessories,Jewelry,Nike,47.91,Mid-Range,,0,1,2025-06-11
+322,7b154416-87b4-4bc1-b3ce-31f85aa20819,H&M Emerald Jewelry,Clothing & Accessories,Jewelry,H&M,11.56,Budget,1.0,1,1,2024-10-24
+323,7cdf9131-b156-41ee-901a-cdd51984ba9c,Nike Amethyst Jewelry,Clothing & Accessories,Jewelry,Nike,46.16,Mid-Range,2.5,2,1,2025-06-19
+324,89346311-6daa-4ff8-bc93-1872f795a3e4,Nike Gold-Plated Jewelry,Clothing & Accessories,Jewelry,Nike,48.96,Mid-Range,5.0,1,1,2025-07-22
+325,8943d643-73a4-4601-8e25-96ecea923e04,Adidas Sterling Silver Jewelry,Clothing & Accessories,Jewelry,Adidas,41.86,Mid-Range,3.0,1,1,2026-02-27
+326,f08bd08a-f499-4679-bab4-bece5d845844,Nike Sterling Silver Jewelry,Clothing & Accessories,Jewelry,Nike,21.27,Mid-Range,,0,307,2026-02-08
+327,f78b3d6a-36dd-4fda-8382-31865d961859,H&M Gold-Plated Jewelry,Clothing & Accessories,Jewelry,H&M,14.49,Budget,,0,2,2025-09-01
+328,fca9701c-7e41-4782-a1cb-5b46e500507d,Adidas Gold-Plated Jewelry,Clothing & Accessories,Jewelry,Adidas,82.36,Premium,,0,2,2023-08-07
+329,fee444e7-488a-4c6d-811b-c0748dd24fa3,Adidas Gold-Plated Jewelry,Clothing & Accessories,Jewelry,Adidas,44.56,Mid-Range,,0,4,2023-10-25
+330,11be4dba-b87b-40c3-bad6-8ceb3e4d9bcc,Zara Casual Menswear,Clothing & Accessories,Menswear,Zara,27.7,Mid-Range,,0,1,2025-05-27
+331,1c06bb38-495a-42b6-9576-bc0b27f3501a,Nike Classic Fit Menswear,Clothing & Accessories,Menswear,Nike,62.34,Mid-Range,,0,1,2023-05-28
+332,20eb21bc-729f-4a94-842c-c415b73440c6,Ralph Lauren Premium Menswear,Clothing & Accessories,Menswear,Ralph Lauren,28.41,Mid-Range,,0,1,2023-07-28
+333,2237ff96-b78a-409e-ba13-3b7af0463aed,Zara Menswear in Cream,Clothing & Accessories,Menswear,Zara,152.02,Premium,5.0,1,1,2025-12-24
+334,224283c4-f8e1-4eb8-8a88-14e77e433b2b,Puma Essential Menswear,Clothing & Accessories,Menswear,Puma,83.58,Premium,,0,7,2024-01-01
+335,27312073-c823-4e6b-a74b-2ce328bd8ef5,Nike Menswear in Sage,Clothing & Accessories,Menswear,Nike,78.86,Premium,,0,1,2025-09-15
+336,2b364b81-45e5-4b5d-8a67-a8bcd2bfd653,Nike Casual Menswear,Clothing & Accessories,Menswear,Nike,53.69,Mid-Range,4.5,2,1,2023-03-05
+337,30319d69-8cdb-4768-b9fa-b6ada8e0c9bf,Nike Premium Menswear,Clothing & Accessories,Menswear,Nike,27.82,Mid-Range,5.0,1,1,2024-03-31
+338,3242dfa2-e831-4818-96fe-329fd97fc8b9,Adidas Casual Menswear,Clothing & Accessories,Menswear,Adidas,18.65,Budget,,0,1,2023-02-13
+339,385814b3-a7e2-4640-bc91-8ec6a03e9ac6,H&M Menswear in Charcoal,Clothing & Accessories,Menswear,H&M,19.28,Budget,,0,1,2024-08-08
+340,3e4996b9-0f0c-4a5d-94fa-60be51781e8a,Calvin Klein Essential Menswear,Clothing & Accessories,Menswear,Calvin Klein,38.92,Mid-Range,5.0,2,1,2024-09-04
+341,3f0a5d78-4e0e-4820-b444-93a7e8aa3252,Zara Menswear in Brown,Clothing & Accessories,Menswear,Zara,36.61,Mid-Range,5.0,1,10,2023-06-21
+342,413730d7-8b68-45d7-a4b2-a7da580339a3,Nike Classic Fit Menswear,Clothing & Accessories,Menswear,Nike,33.9,Mid-Range,,0,11,2026-02-25
+343,42274d6e-756a-48e8-be35-134e2bc14d96,DKNY Menswear in White,Clothing & Accessories,Menswear,DKNY,18.1,Budget,5.0,2,7,2024-09-08
+344,47e5b549-076f-45d4-9ea1-21406734fccb,Vans Classic Fit Menswear,Clothing & Accessories,Menswear,Vans,20.49,Mid-Range,,0,2,2024-01-10
+345,47f32e6a-7123-4edc-9223-9e295bcf5000,Nike Premium Menswear,Clothing & Accessories,Menswear,Nike,33.02,Mid-Range,5.0,1,4,2023-02-14
+346,47fa2b1f-bc05-45c7-8bca-b528774942f0,Nike Casual Menswear,Clothing & Accessories,Menswear,Nike,34.83,Mid-Range,5.0,1,5,2023-05-27
+347,5724e855-5b64-43be-ae0d-aa26623226da,Nike Essential Menswear,Clothing & Accessories,Menswear,Nike,49.12,Mid-Range,,0,10,2023-06-18
+348,66f61e44-9b3f-49ec-9f06-c97130ce94d2,Adidas Essential Menswear,Clothing & Accessories,Menswear,Adidas,81.69,Premium,4.0,1,1,2023-06-19
+349,67fabda2-a591-4051-b636-c2d261e9fe13,Nike Classic Fit Menswear,Clothing & Accessories,Menswear,Nike,11.56,Budget,5.0,1,108,2023-12-29
+350,6dc7a3f9-d94d-4f3a-bc57-883c89de9309,Nike Classic Fit Menswear,Clothing & Accessories,Menswear,Nike,23.51,Mid-Range,4.0,5,4,2023-11-05
+351,7020a4dc-6140-4307-9aa9-63bc3dd3b258,H&M Classic Fit Menswear,Clothing & Accessories,Menswear,H&M,37.69,Mid-Range,,0,4,2024-09-06
+352,72ffc844-95e7-453c-85e1-9cfeb7cafabe,Adidas Premium Menswear,Clothing & Accessories,Menswear,Adidas,12.99,Budget,,0,1,2023-06-24
+353,73986400-fbde-4248-a340-850fdac4bd8f,Zara Classic Fit Menswear,Clothing & Accessories,Menswear,Zara,13.51,Budget,,0,1,2023-10-16
+354,75ae0093-17da-4f30-a6f3-047e33a11958,Hugo Boss Casual Menswear,Clothing & Accessories,Menswear,Hugo Boss,15.81,Budget,,0,1,2024-09-23
+355,85016e04-8cd0-47e3-8b77-52d6de00cfcf,Nike Premium Menswear,Clothing & Accessories,Menswear,Nike,40.39,Mid-Range,5.0,1,3,2026-05-05
+356,87a25311-10b2-4d32-a0a0-895640929060,Tommy Hilfiger Essential Menswear,Clothing & Accessories,Menswear,Tommy Hilfiger,14.0,Budget,,0,1,2025-12-05
+357,88965b45-8fc8-4773-b34a-24f841236491,Nike Casual Menswear,Clothing & Accessories,Menswear,Nike,58.25,Mid-Range,,0,1,2023-01-23
+358,add54b88-7fbc-4bd9-99e1-42fc308f3f72,Adidas Classic Fit Menswear,Clothing & Accessories,Menswear,Adidas,30.96,Mid-Range,5.0,1,2,2025-10-22
+359,b2dbae96-90ef-4212-b4ea-fd68ea6f4623,Nike Menswear in Brown,Clothing & Accessories,Menswear,Nike,59.79,Mid-Range,,0,3,2025-09-28
+360,b6425249-99fc-4638-a4df-4da80f0ce9d0,H&M Casual Menswear,Clothing & Accessories,Menswear,H&M,37.14,Mid-Range,,0,1,2024-12-31
+361,ba2e26b1-16e7-4b86-9e48-ab24dc3c26ff,Nike Menswear in Sand,Clothing & Accessories,Menswear,Nike,38.78,Mid-Range,,0,1,2025-06-30
+362,bafb50a6-f635-488d-b55e-26f6684173a7,Nike Classic Fit Menswear,Clothing & Accessories,Menswear,Nike,18.34,Budget,5.0,1,1,2025-06-28
+363,be0febce-c6db-44a8-9b49-162463988db9,Nike Casual Menswear,Clothing & Accessories,Menswear,Nike,22.04,Mid-Range,2.0,1,2,2023-02-16
+364,c20e1516-a80c-46ef-8857-158e9e7a1a70,Nike Casual Menswear,Clothing & Accessories,Menswear,Nike,59.73,Mid-Range,4.0,1,1,2024-04-23
+365,d477e2b1-796a-4d3e-9c83-a22d09ade40a,Adidas Menswear in Cobalt,Clothing & Accessories,Menswear,Adidas,49.26,Mid-Range,4.0,8,1,2024-11-14
+366,db769754-3e4f-476b-83c1-8230537fa6a5,Nike Casual Menswear,Clothing & Accessories,Menswear,Nike,45.5,Mid-Range,3.0,1,1,2023-07-15
+367,ddc97c07-b0a8-4555-be94-fe6895726b6e,Nike Menswear in Red,Clothing & Accessories,Menswear,Nike,97.62,Premium,4.5,2,1,2024-03-12
+368,e065748b-4b46-4d4f-9b51-89ed0f702ef8,Nike Menswear in Gray,Clothing & Accessories,Menswear,Nike,24.31,Mid-Range,5.0,1,1,2025-11-19
+369,e38d1f5f-2a70-46be-acaa-92edc3c81788,Adidas Menswear in Green,Clothing & Accessories,Menswear,Adidas,68.42,Mid-Range,4.0,1,1,2025-02-10
+370,e404770b-d18a-4932-ac69-cf474a5f714f,Puma Essential Menswear,Clothing & Accessories,Menswear,Puma,68.81,Mid-Range,,0,4,2025-09-27
+371,ea4a2dc7-d7a2-4eab-bb13-10eef406e9f5,Nike Essential Menswear,Clothing & Accessories,Menswear,Nike,110.64,Premium,,0,3,2026-04-05
+372,eb8313fc-01b5-418d-97ed-452df97a6a05,Adidas Essential Menswear,Clothing & Accessories,Menswear,Adidas,47.46,Mid-Range,,0,1,2023-06-01
+373,ee5bfbb8-e261-4dd3-bec7-696e2aa69c4b,Nike Premium Menswear,Clothing & Accessories,Menswear,Nike,36.5,Mid-Range,4.1,10,1,2023-06-11
+374,f3708cda-e846-4023-a471-dcfcd1624ea7,Nike Premium Menswear,Clothing & Accessories,Menswear,Nike,27.76,Mid-Range,4.5,2,2,2023-03-13
+375,feb4aa01-7ff9-4af7-a308-7d2aa93e9698,Adidas Classic Fit Menswear,Clothing & Accessories,Menswear,Adidas,66.81,Mid-Range,4.0,7,1,2023-05-17
+376,0cb668df-0eab-4992-9572-5072a1412725,Columbia Essential Womenswear,Clothing & Accessories,Womenswear,Columbia,50.43,Mid-Range,,0,2,2023-01-14
+377,0cc93ab8-705e-4fa5-836f-63bfd83a21c8,Nike Womenswear Dress,Clothing & Accessories,Womenswear,Nike,73.16,Mid-Range,,0,1,2024-12-08
+378,14daea5b-0057-4804-8001-4d53c7006e70,Nike Casual Womenswear,Clothing & Accessories,Womenswear,Nike,46.67,Mid-Range,5.0,2,3,2025-09-15
+379,1660a6f2-7ef5-4f47-a4aa-e917f41e014e,Tommy Hilfiger Womenswear Dress,Clothing & Accessories,Womenswear,Tommy Hilfiger,56.68,Mid-Range,3.8,16,1,2026-05-19
+380,196e5f63-122c-4d20-abee-9b92d298b5e5,Nike Premium Womenswear,Clothing & Accessories,Womenswear,Nike,19.85,Budget,,0,3,2026-05-19
+381,1fc911b3-7429-46dd-9b91-77dc111d50cc,Nike Essential Womenswear,Clothing & Accessories,Womenswear,Nike,47.02,Mid-Range,,0,2,2025-03-08
+382,22784f96-50da-45a7-8a60-dc9d2069f350,Ralph Lauren Premium Womenswear,Clothing & Accessories,Womenswear,Ralph Lauren,85.15,Premium,,0,2,2025-03-02
+383,2b5d618e-d4a1-4ea6-957f-2468c77092ab,Adidas Womenswear in Cream,Clothing & Accessories,Womenswear,Adidas,14.4,Budget,,0,3,2025-11-30
+384,2bb7db38-20ca-4318-9910-ee9802679169,Nike Womenswear in Brown,Clothing & Accessories,Womenswear,Nike,79.66,Premium,,0,1,2023-07-16
+385,352979d2-b0d2-481b-937f-be96fed6657f,Zara Casual Womenswear,Clothing & Accessories,Womenswear,Zara,27.68,Mid-Range,,0,5,2023-04-12
+386,36c253c0-c416-415b-92cb-9ec9c7be787a,Adidas Womenswear Dress,Clothing & Accessories,Womenswear,Adidas,53.01,Mid-Range,4.0,1,1,2026-03-27
+387,385c6996-215f-4841-bd60-c953b3a098c0,Adidas Womenswear in White,Clothing & Accessories,Womenswear,Adidas,46.85,Mid-Range,4.0,1,19,2024-10-13
+388,442ae132-d9b0-4d67-a5d2-7f39c2a118cf,Nike Premium Womenswear,Clothing & Accessories,Womenswear,Nike,47.5,Mid-Range,,0,2,2024-05-11
+389,4b4a84a2-6897-494a-9d37-329fb5c8da83,Under Armour Essential Womenswear,Clothing & Accessories,Womenswear,Under Armour,23.7,Mid-Range,,0,1,2024-04-03
+390,53430b06-15c5-4cf1-a4a0-6f83c09aec66,Nike Essential Womenswear,Clothing & Accessories,Womenswear,Nike,64.27,Mid-Range,5.0,1,325,2023-09-29
+391,56afe0c3-52da-439b-83c2-e7eedb2324de,Tommy Hilfiger Casual Womenswear,Clothing & Accessories,Womenswear,Tommy Hilfiger,29.24,Mid-Range,3.9,7,3,2024-10-23
+392,577bc486-8da7-4aa4-ab2b-12bdb72ebeb0,Nike Premium Womenswear,Clothing & Accessories,Womenswear,Nike,131.11,Premium,5.0,1,1,2025-11-06
+393,5b35c31e-9293-4bd9-9a1b-5c6258f53057,Adidas Premium Womenswear,Clothing & Accessories,Womenswear,Adidas,64.4,Mid-Range,,0,111,2025-05-08
+394,6c07b457-82a2-451e-b105-c556e3ec3ef6,H&M Casual Womenswear,Clothing & Accessories,Womenswear,H&M,85.86,Premium,,0,1,2024-11-18
+395,6dde328a-30a6-44be-9946-5b8ccc7448a1,Zara Womenswear in Olive,Clothing & Accessories,Womenswear,Zara,19.83,Budget,,0,1,2023-01-07
+396,8424c25b-34cc-4d85-b307-926d09297068,Nike Womenswear in Blue,Clothing & Accessories,Womenswear,Nike,22.1,Mid-Range,,0,1,2024-08-22
+397,8b875a73-88df-44ff-966d-5649d7a14d31,Nike Womenswear in Olive,Clothing & Accessories,Womenswear,Nike,64.5,Mid-Range,4.2,16,2,2023-07-20
+398,9db92aff-423b-41c3-bf52-b13bb11a39c3,Adidas Casual Womenswear,Clothing & Accessories,Womenswear,Adidas,31.45,Mid-Range,,0,1,2024-11-28
+399,a096d73d-1daa-41fc-b3c9-ef7233052cfc,Nike Premium Womenswear,Clothing & Accessories,Womenswear,Nike,27.32,Mid-Range,3.0,2,1,2026-02-14
+400,bcdc00ff-c173-40aa-9371-c06827f80868,Nike Womenswear Dress,Clothing & Accessories,Womenswear,Nike,62.74,Mid-Range,,0,6,2026-04-25
+401,bfc89c5b-179c-4b25-b6a8-3a3140311dd3,H&M Womenswear Dress,Clothing & Accessories,Womenswear,H&M,41.95,Mid-Range,3.5,2,1,2025-01-08
+402,c854a70f-ffd2-43a3-94b0-794fd0cb9733,Adidas Womenswear in Red,Clothing & Accessories,Womenswear,Adidas,20.74,Mid-Range,4.0,3,57,2023-10-31
+403,cf0bc276-6567-4b32-8a25-194d697bf5ad,Nike Womenswear in Navy,Clothing & Accessories,Womenswear,Nike,43.24,Mid-Range,,0,4,2025-04-04
+404,d2442dc1-0962-4c45-9fd4-dc21eb729c85,Nike Essential Womenswear,Clothing & Accessories,Womenswear,Nike,110.02,Premium,,0,1,2025-06-18
+405,d2a6d3d8-93f3-4004-a928-dfa968dcf01b,Adidas Premium Womenswear,Clothing & Accessories,Womenswear,Adidas,36.06,Mid-Range,3.0,1,1,2024-10-28
+406,d37b86a6-746e-48e8-a8af-8d1cfd60864b,Adidas Womenswear in Red,Clothing & Accessories,Womenswear,Adidas,37.54,Mid-Range,,0,1,2024-05-01
+407,e3b82e7a-4dc2-4079-a860-de254774c039,Adidas Womenswear in Slate,Clothing & Accessories,Womenswear,Adidas,28.75,Mid-Range,,0,10,2024-02-05
+408,ff1e519c-29d1-4eab-88c1-3041b22dd73c,Nike Womenswear Dress,Clothing & Accessories,Womenswear,Nike,30.4,Mid-Range,,0,1,2024-05-20
+409,0ca36cba-669c-4376-898b-d697a5294cf1,Logitech Wireless Accessorie,Electronics,Accessories,Logitech,379.16,Luxury,,0,2,2023-04-23
+410,11063776-8a90-4196-8b29-cf5c159bf468,Apple Accessorie Cable,Electronics,Accessories,Apple,92.89,Premium,4.7,3,1,2024-08-18
+411,1d4e8909-0873-43a1-87f9-c968b439d6e1,Apple Accessorie Adapter,Electronics,Accessories,Apple,164.58,Premium,,0,1,2026-03-17
+412,1d8c4305-2fff-47eb-8b7e-fe165cd95e02,Apple Wireless Accessorie,Electronics,Accessories,Apple,282.31,Luxury,4.0,1,2,2024-04-26
+413,1e7c79d1-0a00-4d37-b3e1-2f6262900884,Samsung Accessorie Stand,Electronics,Accessories,Samsung,90.86,Premium,3.0,1,2,2025-09-26
+414,2a5600e0-4c5c-4cfc-83b8-1ddc1b800877,HP Accessorie Charger,Electronics,Accessories,HP,161.61,Premium,,0,10,2025-08-25
+415,34a77a70-6a07-40d2-936d-df4647fea13d,Sony Accessorie Charger,Electronics,Accessories,Sony,154.71,Premium,,0,3,2025-12-19
+416,49683991-45bd-44ed-afdd-b3143cafc765,Samsung Accessorie Cable,Electronics,Accessories,Samsung,106.11,Premium,5.0,1,2,2023-11-21
+417,4b9c83ae-69fe-4826-ac62-bae53913ea33,Apple Accessorie Stand,Electronics,Accessories,Apple,286.89,Luxury,3.8,5,8,2023-11-03
+418,5e875953-b164-41c5-91ad-a71f35ae5c8a,Apple Wireless Accessorie,Electronics,Accessories,Apple,208.37,Luxury,,0,1,2025-10-29
+419,6e9b539a-77ad-4307-acb5-f558f8b5cc6f,Apple Accessorie Stand,Electronics,Accessories,Apple,70.02,Mid-Range,4.1,49,1,2023-03-29
+420,7191829e-2976-4b42-b52d-d4499b0b2d6b,LG Wireless Accessorie,Electronics,Accessories,LG,404.44,Luxury,4.0,1,1,2025-01-01
+421,8347a39b-710c-4eed-ac44-d8b028b7bd72,Apple Accessorie Charger,Electronics,Accessories,Apple,634.27,Luxury,,0,4,2023-03-25
+422,8f95d984-6cee-479b-8b36-983a1913d771,Apple Accessorie Charger,Electronics,Accessories,Apple,173.59,Premium,,0,2,2025-09-12
+423,9bbf3ec0-bb7a-45a8-8500-1b2c03596f4d,Microsoft Accessorie Stand,Electronics,Accessories,Microsoft,55.41,Mid-Range,,0,1,2023-01-19
+424,a35b6eee-5fd4-4ef2-9026-111742bbdd40,Apple Accessorie Adapter,Electronics,Accessories,Apple,322.87,Luxury,,0,8,2023-07-22
+425,c30f55f0-90c3-46b6-a757-206ad5548872,Apple Wireless Accessorie,Electronics,Accessories,Apple,476.77,Luxury,,0,1,2024-06-04
+426,cf301c21-300a-451e-ae20-31f93b065422,Apple Accessorie Charger,Electronics,Accessories,Apple,225.99,Luxury,2.0,1,1,2024-10-04
+427,d061e1a0-6f8b-4ba4-8423-0f069800ffdd,Sony Accessorie Charger,Electronics,Accessories,Sony,150.78,Premium,5.0,1,1,2025-02-12
+428,d12224f0-0bed-4d26-9c06-517f560d42b2,Apple Wireless Accessorie,Electronics,Accessories,Apple,55.7,Mid-Range,,0,1,2024-09-20
+429,d1a9b2e1-5100-4a11-8831-b579f9cd2c98,Bose Accessorie Charger,Electronics,Accessories,Bose,84.77,Premium,,0,2,2024-06-30
+430,ddea521a-f6e7-4379-9a0f-841f828b1473,Samsung Accessorie Stand,Electronics,Accessories,Samsung,335.15,Luxury,,0,1,2024-05-29
+431,e9a8765c-6cb1-41f2-b5dc-e9b69e29c85d,Apple Accessorie Cable,Electronics,Accessories,Apple,48.3,Mid-Range,5.0,1,1,2023-10-23
+432,eccc757e-5fbb-4601-84c8-d947bf6b76da,Apple Accessorie Cable,Electronics,Accessories,Apple,52.23,Mid-Range,4.0,1,67,2023-09-01
+433,f7d00f98-d143-46e7-ac9f-4e56089dab8c,Acer Accessorie Adapter,Electronics,Accessories,Acer,37.55,Mid-Range,3.0,2,1,2023-06-28
+434,0b3a2262-026c-4f04-9ad3-bcb3da675d2a,Apple Prime16 Instant Camera,Electronics,Cameras,Apple,107.88,Premium,3.0,1,72,2025-11-11
+435,0f1e0d87-71e1-4120-9b78-1a6e82714f30,Fitbit Book19 DSLR,Electronics,Cameras,Fitbit,166.17,Premium,5.0,1,1,2024-06-17
+436,255578d3-3ac1-4b89-a398-b5522a1ca483,Samsung Pro Mirrorless Camera,Electronics,Cameras,Samsung,338.3,Luxury,5.0,1,3,2024-06-16
+437,294958eb-ae9d-46e7-b55e-f394581c67cc,LG Ultra Mirrorless Camera,Electronics,Cameras,LG,181.53,Premium,,0,18,2023-08-14
+438,2c6495e1-8615-4556-89da-6fee76c42fd8,Apple Classic Action Cam,Electronics,Cameras,Apple,79.6,Premium,5.0,1,1,2025-03-29
+439,38a52dba-365b-4c3e-a80d-bd32ca1d5319,Apple Edge4 Digital Camera,Electronics,Cameras,Apple,468.78,Luxury,,0,1,2025-05-18
+440,48824001-8422-4fb7-a988-a9d8447e81f3,Lenovo Air16 DSLR,Electronics,Cameras,Lenovo,572.66,Luxury,,0,1,2025-06-25
+441,54b702fb-b8ab-4748-87d3-c1580b95a1e5,Nokia Galaxy10 Instant Camera,Electronics,Cameras,Nokia,304.35,Luxury,1.0,1,2,2024-09-02
+442,593b5a60-ad0f-43fa-b1e7-8a97f23a6475,Samsung Book1 Instant Camera,Electronics,Cameras,Samsung,114.97,Premium,,0,1,2025-07-17
+443,77e18a4d-8791-42a8-a2f3-81a888a28599,Apple Max Action Cam,Electronics,Cameras,Apple,436.99,Luxury,,0,1,2023-08-12
+444,898fa4a9-8691-41bd-a883-77b591553413,Apple Z10 Digital Camera,Electronics,Cameras,Apple,348.81,Luxury,,0,2,2023-09-28
+445,97eeed96-3182-4982-896e-a0b93ccf36e8,Apple Elite Mirrorless Camera,Electronics,Cameras,Apple,231.64,Luxury,,0,82,2024-05-15
+446,9d0d4a96-a03b-4500-8e94-6ba5a7fd936e,Logitech Edge13 DSLR,Electronics,Cameras,Logitech,173.19,Premium,5.0,1,1,2024-02-09
+447,a4407635-9c5c-4f35-b56b-c6e50a97d784,Samsung Max Action Cam,Electronics,Cameras,Samsung,80.11,Premium,,0,1,2025-10-26
+448,a94414bb-dd50-4b50-b7d1-08119d1921be,OnePlus Prime19 DSLR,Electronics,Cameras,OnePlus,207.18,Luxury,3.5,2,1,2025-12-14
+449,aab3742e-1f9c-4aee-92e7-02bdd298eacd,Acer Elite Mirrorless Camera,Electronics,Cameras,Acer,117.96,Premium,4.0,1,10,2024-03-26
+450,c26f8cbd-e751-4339-ba06-dabb5c3fc40b,Samsung Book13 DSLR,Electronics,Cameras,Samsung,123.34,Premium,,0,70,2025-04-04
+451,c375596d-8ce7-45a7-92a7-a651b6c791f4,LG Book16 DSLR,Electronics,Cameras,LG,89.59,Premium,,0,2,2023-09-19
+452,ec18ade1-b0a3-48c3-bc9f-de34fc29c34e,Samsung Air7 DSLR,Electronics,Cameras,Samsung,886.76,Luxury,,0,1,2025-12-15
+453,f703fbf2-003d-4b96-86b5-009ad9972951,Lenovo Elite Action Cam,Electronics,Cameras,Lenovo,169.1,Premium,5.0,1,1,2024-02-03
+454,fe5c42d7-85a6-4ad1-be6c-8af51581f31a,HP Series17 DSLR,Electronics,Cameras,HP,201.93,Luxury,5.0,1,51,2023-10-23
+455,042edb3f-1326-4845-acbe-e679cc7785e2,LG X6 Bluetooth Earbuds,Electronics,Headphones,LG,188.08,Premium,5.0,1,3,2023-06-09
+456,062073be-fb18-4b54-9cb8-323fb1af2dee,Google Essential Over-Ear Headphones,Electronics,Headphones,Google,62.91,Mid-Range,4.5,2,2,2024-04-28
+457,0798c5d3-f933-4b17-ba42-2b539e9ee0aa,Apple Essential Noise-Canceling Headphones,Electronics,Headphones,Apple,344.63,Luxury,5.0,1,2,2023-06-16
+458,0cae6b2b-a5f9-43e7-8349-92ad987901ec,Apple Pro8 Bluetooth Earbuds,Electronics,Headphones,Apple,187.9,Premium,,0,8,2025-05-30
+459,0fd8be61-bce2-480c-95b9-66e8e07e0a3c,Samsung Max Noise-Canceling Headphones,Electronics,Headphones,Samsung,178.98,Premium,,0,1,2025-12-15
+460,112d7b2c-fec0-442f-b3aa-4d676570bd76,Sony Air1 Wireless Headphones,Electronics,Headphones,Sony,334.24,Luxury,4.0,1,3,2025-02-20
+461,1f557280-639d-4bf5-a7be-9c137ac2d6fe,Lenovo Pro Noise-Canceling Headphones,Electronics,Headphones,Lenovo,106.84,Premium,4.0,4,1,2024-03-04
+462,2af47ff5-b419-4687-a803-5da416791c9a,Samsung Air12 In-Ear Monitors,Electronics,Headphones,Samsung,330.06,Luxury,5.0,1,1,2025-06-12
+463,356b91c4-74fa-4ed5-8a5c-6a6f740905ce,Apple Classic Over-Ear Headphones,Electronics,Headphones,Apple,157.6,Premium,5.0,3,2,2023-01-24
+464,3b2552ec-8714-4c94-b09b-1fce1bab8f05,Apple Max7 Bluetooth Earbuds,Electronics,Headphones,Apple,102.88,Premium,5.0,3,2,2023-05-16
+465,48069b4f-f571-45ef-abd7-03c372cf64d6,Sony Max Noise-Canceling Headphones,Electronics,Headphones,Sony,329.64,Luxury,,0,1,2024-11-16
+466,49b70791-365c-4f01-8a9e-5f6aef742c47,Samsung Prime4 Wireless Headphones,Electronics,Headphones,Samsung,659.56,Luxury,,0,20,2024-03-11
+467,49bd9c87-bf33-4642-b7f0-a03ac9bb8e52,Apple X2 In-Ear Monitors,Electronics,Headphones,Apple,259.89,Luxury,5.0,1,3,2025-06-15
+468,4ec2441e-33a8-46fa-97c2-095290d67d51,Apple Pro Noise-Canceling Headphones,Electronics,Headphones,Apple,48.86,Mid-Range,2.0,1,1,2023-01-30
+469,6b40ca94-ebc0-4376-9078-07f60d3cb285,Dell Book6 Bluetooth Earbuds,Electronics,Headphones,Dell,856.72,Luxury,4.0,1,2,2023-01-31
+470,6bbdbe06-9adc-4825-9e6f-ae10de735ddc,ASUS Max14 Wireless Headphones,Electronics,Headphones,ASUS,134.0,Premium,,0,8,2025-01-08
+471,7295972b-4f00-4ab3-b08a-9c8660bc3ea2,Samsung Air9 Wireless Headphones,Electronics,Headphones,Samsung,397.86,Luxury,,0,1,2025-01-25
+472,7a29cde0-245e-430f-aaf2-c36541a95075,Apple Air7 Bluetooth Earbuds,Electronics,Headphones,Apple,300.48,Luxury,,0,3,2024-09-07
+473,7efed94c-fc66-418b-89ea-5763fe86228b,Apple Ultra Over-Ear Headphones,Electronics,Headphones,Apple,259.52,Luxury,5.0,1,5,2023-03-02
+474,8000d2ee-72de-4530-bcee-09d140320208,Samsung Studio Noise-Canceling Headphones,Electronics,Headphones,Samsung,212.43,Luxury,5.0,1,1,2023-01-05
+475,8f18338c-4ecd-4288-bc47-d7682a3c7ec7,Sony Book1 Bluetooth Earbuds,Electronics,Headphones,Sony,89.61,Premium,,0,1,2025-03-22
+476,9edf3c2c-b903-4c32-8dc3-7a9011f5f868,Apple Z19 Bluetooth Earbuds,Electronics,Headphones,Apple,410.23,Luxury,,0,1,2025-12-24
+477,a6fbc223-a2e5-4cd3-a74d-429130cdf9ec,Apple Studio Noise-Canceling Headphones,Electronics,Headphones,Apple,317.9,Luxury,3.0,1,1,2025-03-29
+478,cc22ed88-bacf-4587-a916-4eb8e48f973f,Sony Pixel8 In-Ear Monitors,Electronics,Headphones,Sony,149.49,Premium,,0,1,2025-01-12
+479,d77c697a-8713-4896-acf7-4908ea02a4af,Apple Elite Over-Ear Headphones,Electronics,Headphones,Apple,154.16,Premium,,0,1,2023-08-13
+480,dbbd1458-bade-4522-a662-5f1a6671895d,HP Edge12 Bluetooth Earbuds,Electronics,Headphones,HP,278.54,Luxury,,0,1,2023-01-15
+481,de2f1a6b-aeef-4893-a3b0-9c892c8424b3,LG Pixel13 Wireless Headphones,Electronics,Headphones,LG,127.25,Premium,,0,1,2023-08-14
+482,e4fcf025-6331-4ca2-9a3f-3ed79d171c1b,Dell Elite Over-Ear Headphones,Electronics,Headphones,Dell,93.37,Premium,,0,2,2024-07-21
+483,e7234ca8-c931-4f65-8aaa-f628e9aabdae,Apple Air Over-Ear Headphones,Electronics,Headphones,Apple,299.6,Luxury,,0,538,2025-08-09
+484,ee639333-59d9-4181-a33c-ee89896e11c0,JBL Pro Over-Ear Headphones,Electronics,Headphones,JBL,263.85,Luxury,,0,22,2025-12-12
+485,f74aad66-b598-429e-9839-b3e0ee95d2ee,Dell Book13 Bluetooth Earbuds,Electronics,Headphones,Dell,93.54,Premium,5.0,1,2,2026-03-31
+486,f829c8e9-9729-48aa-baf8-122cb2eb1d21,Samsung Air Over-Ear Headphones,Electronics,Headphones,Samsung,176.98,Premium,5.0,1,18,2023-10-16
+487,09e6cda9-42a6-4d6e-8cd0-044feb4f97a0,"HP Studio 17""",Electronics,Laptops,HP,244.79,Luxury,,0,2,2025-09-23
+488,0fd2840e-7ffa-4de0-ab59-f32f97760787,Apple Max 9th Gen,Electronics,Laptops,Apple,309.85,Luxury,5.0,1,1,2023-03-27
+489,1f8ad473-b99b-4859-8ddb-78d1733577dd,Dell Core Pro,Electronics,Laptops,Dell,225.68,Luxury,,0,5,2024-08-15
+490,2733463c-bd18-404c-91ca-f1ca635ae8f2,Apple Classic Air13 Laptop,Electronics,Laptops,Apple,47.21,Mid-Range,,0,5,2024-01-08
+491,2b0646c5-10d1-4ab0-a2fb-e024f68295b4,"Samsung Core 14""",Electronics,Laptops,Samsung,46.22,Mid-Range,2.5,2,1,2023-09-17
+492,2ea7a39e-736e-4b9c-a85f-6c2f3ddab48d,Dell Pixel14 Ultrabook,Electronics,Laptops,Dell,161.15,Premium,3.7,3,1,2023-10-06
+493,3cbd966b-3ec3-493c-b9a1-d8f59886b546,Apple Essential Edge5 Laptop,Electronics,Laptops,Apple,565.33,Luxury,,0,2,2025-04-30
+494,4246d120-fe4b-4366-9763-bebfb539a144,Apple Air Book3 Laptop,Electronics,Laptops,Apple,101.69,Premium,,0,1,2025-12-17
+495,4bf16321-aa0b-4ebb-a940-f905a908765e,Sony Ultra Air18 Laptop,Electronics,Laptops,Sony,47.29,Mid-Range,5.0,2,4,2023-10-05
+496,4dca5eb4-81a3-4758-abbb-f82a3512b877,Belkin Elite Edge11 Laptop,Electronics,Laptops,Belkin,139.37,Premium,,0,1,2024-02-03
+497,4e24b19e-c0ca-47a7-a615-67062662a44c,Lenovo Elite Max5 Laptop,Electronics,Laptops,Lenovo,193.96,Premium,3.0,1,1,2024-03-23
+498,5e5580f7-bf6e-482a-b953-d666826d6ba0,Apple Ultra 10th Gen,Electronics,Laptops,Apple,56.53,Mid-Range,5.0,1,2,2024-09-13
+499,73c21a86-0eb5-4378-9535-05b92c3e8482,Apple Classic Pro,Electronics,Laptops,Apple,210.29,Luxury,,0,1,2023-07-11
+500,7e7cc56c-75d6-43ce-85be-98883fa5adff,Samsung Max9 Ultrabook,Electronics,Laptops,Samsung,102.11,Premium,5.0,2,1,2025-10-26
+501,8326976a-f93c-45f1-9f15-07de1285060d,Apple X18 Ultrabook,Electronics,Laptops,Apple,215.97,Luxury,,0,27,2024-04-09
+502,8dccb08e-c4da-4377-88ba-d6f70abd52f6,"Lenovo Pro 32""",Electronics,Laptops,Lenovo,74.84,Mid-Range,,0,2,2024-10-26
+503,9efca920-7606-4059-8bf7-b71c6e303017,Apple Series17 Ultrabook,Electronics,Laptops,Apple,128.94,Premium,3.0,1,1,2023-03-01
+504,aa68015e-8f26-4199-821f-4db8434ce3df,Sony Prime 5th Gen,Electronics,Laptops,Sony,222.25,Luxury,,0,1,2026-03-28
+505,add69bd8-2f0b-48b2-b064-ded121df85d6,Sony Elite 1th Gen,Electronics,Laptops,Sony,125.68,Premium,,0,1,2024-02-20
+506,bbc99c6e-1552-4677-8a8f-61a2e541e6c8,Apple Book4 Ultrabook,Electronics,Laptops,Apple,259.07,Luxury,3.9,19,4,2024-01-19
+507,c05f8ee5-8339-4fc5-bb57-c4fe617e01db,Samsung Studio 5th Gen,Electronics,Laptops,Samsung,251.91,Luxury,5.0,2,3,2023-03-11
+508,c38f1915-b6d5-4111-ae82-d259f1e5b433,Apple Classic Pro,Electronics,Laptops,Apple,228.54,Luxury,5.0,1,19,2025-04-17
+509,cea6f4ba-ac51-4cba-a5a8-52f0ff14c6c4,Samsung Pixel12 Ultrabook,Electronics,Laptops,Samsung,229.72,Luxury,,0,3,2025-12-17
+510,e6ad8776-fa57-4e3b-9207-91551184e087,HP Elite Pro,Electronics,Laptops,HP,125.22,Premium,,0,4,2023-01-03
+511,f5734c2a-c309-42c2-9f79-55b3be36c25a,Apple Air11 Ultrabook,Electronics,Laptops,Apple,342.47,Luxury,5.0,1,1,2026-04-01
+512,fd50c123-95fd-4c09-bd4f-22f078c8b3f5,Samsung Core Series5 Laptop,Electronics,Laptops,Samsung,271.74,Luxury,,0,1,2024-03-04
+513,02287feb-fd4c-46db-bba2-c8fbd0059fe9,Apple Ultra Prime3,Electronics,Smartphones,Apple,530.27,Luxury,3.3,3,1,2025-07-29
+514,0a337711-3362-422b-918b-b36bf81feccb,Apple Series2 Pro 5G,Electronics,Smartphones,Apple,166.55,Premium,5.0,1,1,2025-06-18
+515,13d16283-160e-4c20-aebd-f9d6297e4c73,Samsung Prime Prime15,Electronics,Smartphones,Samsung,123.44,Premium,3.5,2,2,2023-03-07
+516,17c54b71-8faa-43b5-9416-a11b5715b4a2,LG Edge17 Smartphone,Electronics,Smartphones,LG,188.28,Premium,,0,3,2025-03-06
+517,19a76693-4727-45ef-9277-18819845b777,Apple Edge18 Pro 5G,Electronics,Smartphones,Apple,243.94,Luxury,,0,2048,2025-06-22
+518,1f3a8b13-45cf-4478-90ae-b1cbea318130,Samsung Galaxy Book6,Electronics,Smartphones,Samsung,230.65,Luxury,,0,12,2023-02-17
+519,201d045f-2007-4b17-864f-2fc59f08fc2e,Apple Series1 Pro 5G,Electronics,Smartphones,Apple,279.68,Luxury,5.0,1,3,2023-11-21
+520,22389617-c344-498d-afbf-4ce3e3535610,Apple X15 Smartphone,Electronics,Smartphones,Apple,457.39,Luxury,,0,1,2023-11-05
+521,233d8a06-84c1-4fd8-a3b2-34bbce6e2385,Sony Prime X8,Electronics,Smartphones,Sony,367.78,Luxury,3.5,2,1,2026-02-07
+522,233ea18b-ca97-4371-ba51-51731e512c3a,Apple Prime Prime5,Electronics,Smartphones,Apple,175.72,Premium,,0,2,2025-10-20
+523,2495d27f-0a93-4080-bee3-066f7b77d624,Sony Pro8 Pro 5G,Electronics,Smartphones,Sony,226.16,Luxury,,0,7,2024-05-14
+524,311ea60f-b387-4466-b952-fcb212198afd,Apple Pixel1 Pro 5G,Electronics,Smartphones,Apple,208.97,Luxury,,0,5,2026-01-22
+525,37b6fd84-d92c-4166-b883-bc70ec3078af,Samsung Prime5 Ultra,Electronics,Smartphones,Samsung,103.14,Premium,,0,1,2025-10-18
+526,3b86ff04-fe55-4ec2-95ad-257e6ab92eb8,Apple Pixel2 Ultra,Electronics,Smartphones,Apple,46.57,Mid-Range,,0,1,2023-11-14
+527,40c60ba3-70ba-4a8c-8d32-a114241b8f8f,Apple Prime8 Ultra,Electronics,Smartphones,Apple,203.89,Luxury,,0,145,2023-06-26
+528,433c5194-11d7-4bc7-84c6-b8a0b2c879a4,Apple Essential Pro16,Electronics,Smartphones,Apple,267.19,Luxury,,0,1,2025-03-20
+529,4adc622b-3ed0-49b5-bf25-14d639a2d82c,Logitech Studio Galaxy16,Electronics,Smartphones,Logitech,40.76,Mid-Range,4.0,3,1,2024-02-24
+530,55f70a74-e414-4d24-aa76-b6da8543dac6,Samsung Pro12 Smartphone,Electronics,Smartphones,Samsung,89.74,Premium,3.7,3,1,2025-02-12
+531,58056085-c7d7-412a-b8b6-f114cc59d540,Apple Z17 Ultra,Electronics,Smartphones,Apple,172.6,Premium,,0,1,2024-02-12
+532,5a8ba49f-924c-43ff-b90f-b578956a0f9d,Apple Edge8 Ultra,Electronics,Smartphones,Apple,168.81,Premium,,0,4,2025-07-21
+533,63c93142-2069-46c2-aca5-931a6dcf9cd3,Apple Series8 Smartphone,Electronics,Smartphones,Apple,263.98,Luxury,4.5,2,6,2025-12-28
+534,684ddd4e-85c7-4969-8e1e-224a92f777c2,Samsung Pixel1 Smartphone,Electronics,Smartphones,Samsung,328.03,Luxury,4.0,3,2,2026-05-02
+535,6c02f0ce-2183-4d32-a907-bb033c961fe9,Apple Galaxy5 Pro 5G,Electronics,Smartphones,Apple,54.89,Mid-Range,5.0,1,1,2026-02-03
+536,6cc967bd-7661-4bbd-9f42-b864b0eb05cd,Lenovo Ultra Pixel18,Electronics,Smartphones,Lenovo,128.62,Premium,,0,6,2024-01-20
+537,6ef9c7da-368f-4a3d-b2da-b84cc4db8e52,Apple Book6 Pro 5G,Electronics,Smartphones,Apple,120.59,Premium,,0,3,2024-10-28
+538,92525e01-4caa-416e-be97-6afc8757b96e,Lenovo Edge1 Pro 5G,Electronics,Smartphones,Lenovo,81.29,Premium,,0,1,2025-02-10
+539,938c5e12-892a-4b77-afea-8ff809f98366,Apple Ultra Series11,Electronics,Smartphones,Apple,534.27,Luxury,,0,1,2026-02-19
+540,95522b08-5910-4d1f-ae0a-5111d2ccc3d4,Samsung Max Z6,Electronics,Smartphones,Samsung,97.17,Premium,5.0,1,1,2025-06-17
+541,9f4d0e2d-1af4-408d-95ff-f5f2c3dea6ef,Apple Galaxy11 Smartphone,Electronics,Smartphones,Apple,352.34,Luxury,,0,3,2025-11-08
+542,a23bf6eb-55dc-486b-934c-2af91e7e1b11,Apple Z19 Smartphone,Electronics,Smartphones,Apple,208.83,Luxury,4.0,3,1,2023-09-28
+543,a88df0bb-fc35-4bd0-841c-0326c69a8251,Sony Galaxy Prime12,Electronics,Smartphones,Sony,97.23,Premium,4.0,1,1,2023-02-19
+544,a9734f27-7936-421c-9ca3-cdb4881ac29e,ASUS Z3 Ultra,Electronics,Smartphones,ASUS,217.62,Luxury,,0,1,2025-05-16
+545,a98c5dcd-10b5-4d25-aec0-9a632c7dff45,Apple Edge14 Pro 5G,Electronics,Smartphones,Apple,510.54,Luxury,,0,2,2025-06-10
+546,b94b8644-b1f5-47c2-b18b-b5b7b338c1fb,Apple Max Prime13,Electronics,Smartphones,Apple,145.65,Premium,,0,1,2025-01-06
+547,ba4159d2-b0ed-4c0e-bb3e-0ddb55c60848,ASUS Galaxy11 Pro 5G,Electronics,Smartphones,ASUS,44.71,Mid-Range,,0,3,2023-01-10
+548,be60ab9a-20b4-493b-8eb1-96560541155e,Bose Galaxy Pro11,Electronics,Smartphones,Bose,53.56,Mid-Range,4.0,1,2,2025-08-08
+549,d3afa213-522c-4df6-9c51-b8cab15c0bdb,Apple Z5 Smartphone,Electronics,Smartphones,Apple,498.03,Luxury,,0,2,2026-01-04
+550,d806394d-ab23-4159-8d7e-5a6f1c8a9ba9,Apple Galaxy Book4,Electronics,Smartphones,Apple,240.44,Luxury,,0,1,2024-01-13
+551,dc662ed1-894e-45c3-906c-6ea223c74145,HP Air17 Smartphone,Electronics,Smartphones,HP,121.99,Premium,,0,2,2025-03-01
+552,e10dff27-a974-4d5f-ab24-903c6a955730,Panasonic Pro18 Ultra,Electronics,Smartphones,Panasonic,124.25,Premium,,0,1,2024-03-13
+553,e9a74e71-3e0f-4f0b-a67e-c035fa4cb966,Apple Pro13 Pro 5G,Electronics,Smartphones,Apple,202.07,Luxury,,0,2,2026-03-15
+554,f1024bdb-2986-478b-9a58-64b4581f657d,Apple Galaxy8 Ultra,Electronics,Smartphones,Apple,293.42,Luxury,,0,25,2023-08-08
+555,f45a3601-c866-4fd5-b1c4-dbef16bcdf27,Samsung Edge8 Ultra,Electronics,Smartphones,Samsung,199.2,Premium,,0,1,2025-12-26
+556,f783efeb-a6ed-49c6-91d6-503568d2d5ab,Samsung Galaxy Z17,Electronics,Smartphones,Samsung,75.73,Premium,4.0,1,11,2023-05-24
+557,f84f1975-c50d-4044-9b8a-a4c36cf11bf8,Sony Air1 Pro 5G,Electronics,Smartphones,Sony,242.06,Luxury,,0,2,2025-07-16
+558,08676ed8-777d-4ad4-9377-bf76bb6fb98b,Apple Classic Tab,Electronics,Tablets,Apple,218.29,Luxury,,0,21,2023-02-09
+559,1063bdf9-5119-4f27-bcdb-051b1a60eaf0,Apple Core Tab,Electronics,Tablets,Apple,107.95,Premium,,0,2,2025-10-27
+560,1776d6e9-cd02-4b90-b7bb-50156ed4ca06,"Samsung Essential 17"" Display Tablet",Electronics,Tablets,Samsung,31.93,Mid-Range,,0,3,2023-11-15
+561,1780b82e-2ba3-46f3-a6de-e3162c5e667b,HP Max9 Pro Tablet,Electronics,Tablets,HP,165.17,Premium,,0,1,2025-11-11
+562,54556d74-5215-47d1-ad7a-1f0bbfdcbe17,Sony Elite Tab,Electronics,Tablets,Sony,135.99,Premium,,0,2,2024-03-15
+563,5cab2c9d-0862-4cfb-aff1-d65a4cc0f7f3,"Samsung Essential 13"" Display Tablet",Electronics,Tablets,Samsung,261.82,Luxury,,0,2,2024-05-31
+564,5e862f30-cfc8-4154-9804-1da98889ff24,Samsung Air Tab,Electronics,Tablets,Samsung,124.65,Premium,4.0,1,2,2025-09-14
+565,70f73cb8-9557-4aa3-96a2-759cf86b030d,"Dell Studio 15.6"" Display Tablet",Electronics,Tablets,Dell,171.31,Premium,5.0,3,1,2023-09-05
+566,b039719b-51c0-4f5c-8469-aef5a0397016,Apple Essential Tablet,Electronics,Tablets,Apple,188.04,Premium,,0,1,2026-02-04
+567,b5f57c4a-54b3-4636-b454-1722c7540a17,"Samsung Ultra 13"" Display Tablet",Electronics,Tablets,Samsung,811.19,Luxury,,0,23,2024-11-26
+568,b9474555-c8fb-4a3e-8005-d04b3ef24729,Samsung Pro19 Pro Tablet,Electronics,Tablets,Samsung,275.42,Luxury,5.0,1,1,2023-01-18
+569,bb7de970-4d96-48e3-9557-17d5cf8c9ae8,"Belkin Essential 32"" Display Tablet",Electronics,Tablets,Belkin,195.56,Premium,,0,8,2024-05-20
+570,bce2022f-a084-45e0-a936-f6f3e0a2c0f9,Apple X5 Pro Tablet,Electronics,Tablets,Apple,71.36,Mid-Range,5.0,1,5,2023-04-21
+571,c08ed6d6-7ff4-4227-9ea2-28d4f7c1b0eb,Anker Air12 2-in-1 Tablet,Electronics,Tablets,Anker,185.97,Premium,,0,1,2025-02-16
+572,c0bb4ff1-d539-4103-85e3-00090887c8cb,Apple Max11 Pro Tablet,Electronics,Tablets,Apple,198.1,Premium,,0,39,2025-07-16
+573,c5e8201b-a5f7-4e18-8e08-f3ae3df053ba,"Dell Studio 32"" Display Tablet",Electronics,Tablets,Dell,91.4,Premium,,0,1,2025-09-06
+574,d6fe078e-f4f0-4504-aa99-434d11270a74,Apple Elite Tablet,Electronics,Tablets,Apple,286.74,Luxury,,0,1,2023-02-14
+575,0abf6185-388a-4449-9e33-d5f5c63ec0ec,Dell Series19 Activity Band,Electronics,Wearables,Dell,143.24,Premium,5.0,1,3,2023-01-12
+576,12f74c19-872a-4b08-94e3-8c56c05afaa6,Sony Air Sport Watch,Electronics,Wearables,Sony,281.49,Luxury,5.0,1,1,2023-01-08
+577,13b5dbf7-5500-44ed-836e-c71e63e5a8c5,Apple Pro5 Fitness Tracker,Electronics,Wearables,Apple,214.24,Luxury,4.0,1,1,2024-09-26
+578,1e9375d3-32a3-4855-9af4-f0d384694c2b,Apple X12 Activity Band,Electronics,Wearables,Apple,13.8,Budget,,0,6,2024-08-24
+579,279e9971-91eb-4601-99cc-a3f3a1bfbe83,Apple Classic Smartwatch,Electronics,Wearables,Apple,77.92,Premium,3.5,2,1,2023-11-04
+580,29c51c4a-3690-4fad-9a99-c2404b42e985,Sony Max5 Fitness Tracker,Electronics,Wearables,Sony,45.3,Mid-Range,,0,1,2023-03-08
+581,3b701803-101d-4b4d-bc60-fb8310021feb,Apple Studio Sport Watch,Electronics,Wearables,Apple,92.83,Premium,,0,2,2025-03-12
+582,3c509182-25c4-440d-99c0-083a15ff2100,Samsung Book4 Fitness Tracker,Electronics,Wearables,Samsung,366.08,Luxury,,0,2,2024-03-07
+583,42a3fba8-01da-40a0-a1be-dfcb7b92ad33,Apple Classic Hybrid Smartwatch,Electronics,Wearables,Apple,195.5,Premium,,0,4,2025-09-01
+584,4f9e7267-cd6f-42ec-916d-7bb0957a5f19,Apple Essential Sport Watch,Electronics,Wearables,Apple,23.9,Mid-Range,,0,2,2026-05-11
+585,61db59c3-d456-445a-9c08-e152843b97c9,Apple Pro7 Fitness Tracker,Electronics,Wearables,Apple,167.89,Premium,5.0,1,1,2023-11-24
+586,72d5ae0b-e20d-40bc-beff-667dfb84af75,Samsung Core Smartwatch,Electronics,Wearables,Samsung,21.55,Mid-Range,5.0,2,3,2023-08-07
+587,7d8a063d-e0e9-4609-9aff-170eaf6b695f,Philips Elite Sport Watch,Electronics,Wearables,Philips,289.02,Luxury,,0,3,2024-04-20
+588,9d3e341d-6a11-4a16-9f3f-4eb9edd9d213,Bose Series13 Fitness Tracker,Electronics,Wearables,Bose,288.56,Luxury,,0,1,2024-09-04
+589,b0198cad-0f24-44c7-90c5-88c2a4d7d331,Philips Air18 Fitness Tracker,Electronics,Wearables,Philips,53.71,Mid-Range,,0,2,2025-06-28
+590,b73b38a1-df92-44b3-bfd8-e3189d42f74f,Apple X1 Activity Band,Electronics,Wearables,Apple,34.92,Mid-Range,3.0,1,1,2026-03-08
+591,b8370e9e-7970-4cac-a79f-3f8f5d18beae,Apple Air2 Fitness Tracker,Electronics,Wearables,Apple,51.13,Mid-Range,5.0,1,1,2023-06-12
+592,c5cece7a-59cf-4578-a013-3feb06819226,Apple Air Smartwatch,Electronics,Wearables,Apple,238.33,Luxury,5.0,3,1,2023-12-06
+593,d70d14b8-4566-4d3d-b9b3-eee857b374c0,Samsung X9 Fitness Tracker,Electronics,Wearables,Samsung,258.43,Luxury,4.8,4,1,2023-10-20
+594,db090e5d-82e1-4bfe-83ba-09e2ee97e409,Samsung Core Smartwatch,Electronics,Wearables,Samsung,228.41,Luxury,,0,1,2026-04-15
+595,e6838a70-dd74-4cab-97a6-88a7cec29978,Samsung Air Smartwatch,Electronics,Wearables,Samsung,140.36,Premium,,0,1,2025-07-15
+596,f1ebe6fb-938c-48be-be5a-3337030d3b97,Samsung Classic Smartwatch,Electronics,Wearables,Samsung,123.71,Premium,,0,1,2024-08-04
+597,0b0a7e9e-8f72-47d7-b78d-a95c7a8181f1,Nestle Organic Beverage,Grocery & Gourmet,Beverages,Nestle,8.66,Budget,2.0,1,2,2026-05-04
+598,14c07dc2-75f0-4216-acdb-55564f6e212d,Kraft Premium Beverage,Grocery & Gourmet,Beverages,Kraft,6.9,Budget,4.5,2,1,2025-08-25
+599,1a7f09df-9147-4491-b02d-38b5e614b165,General Mills Premium Beverage,Grocery & Gourmet,Beverages,General Mills,5.24,Budget,,0,1,2023-01-21
+600,29f45889-812e-410b-81b9-3a7e05ae762e,Nestle Original Beverage,Grocery & Gourmet,Beverages,Nestle,12.44,Budget,,0,1,2024-03-21
+601,5c06efaf-245a-4010-be1c-96022e38100e,PepsiCo Premium Beverage,Grocery & Gourmet,Beverages,PepsiCo,6.58,Budget,,0,1,2024-08-01
+602,7b214c32-0b09-4499-98b3-adf53f8801f4,Coca-Cola Organic Beverage,Grocery & Gourmet,Beverages,Coca-Cola,7.86,Budget,,0,1,2024-09-01
+603,a9d06530-36db-40e2-805e-47bae624b3c2,Kraft Organic Beverage,Grocery & Gourmet,Beverages,Kraft,6.51,Budget,,0,2,2024-03-05
+604,af3bccbc-763f-4162-a178-bf20bfaeccba,Kraft Beverage Variety Pack,Grocery & Gourmet,Beverages,Kraft,5.7,Budget,4.0,4,15,2025-05-05
+605,dde432a8-048f-42c6-a577-1402728f8edd,"Nestle Beverage - 13""",Grocery & Gourmet,Beverages,Nestle,5.93,Budget,,0,42,2025-08-26
+606,373a7d85-4a66-472d-a04f-ea13322d7b22,Kraft Artisan Gourmet Food,Grocery & Gourmet,Gourmet Foods,Kraft,11.49,Budget,,0,1,2023-04-23
+607,4c2ef82d-deef-4f72-9b54-faea1e499664,M&M's Artisan Gourmet Food,Grocery & Gourmet,Gourmet Foods,M&M's,9.15,Budget,,0,1,2024-04-24
+608,8ec64f12-d5b3-413e-9913-35fe062cd5ba,Kraft Handcrafted Gourmet Food,Grocery & Gourmet,Gourmet Foods,Kraft,5.89,Budget,,0,2,2023-06-26
+609,beeb93ab-afb3-4eb1-b81a-6b0fc70d462c,Nestle Artisan Gourmet Food,Grocery & Gourmet,Gourmet Foods,Nestle,4.86,Budget,,0,1,2024-09-23
+610,dec11364-d0a9-4dff-8cca-4e0bb74013e1,"Nestle Gourmet Food - 14""",Grocery & Gourmet,Gourmet Foods,Nestle,5.81,Budget,,0,1,2025-05-06
+611,0201393b-1811-4d77-bf28-e657ae0b5e64,Nestle Organic Organic Food Variety,Grocery & Gourmet,Organic Foods,Nestle,3.91,Budget,,0,2,2025-05-27
+612,0857a785-124c-4ae7-955f-8263d5a38c0b,Nestle Organic Organic Food Variety,Grocery & Gourmet,Organic Foods,Nestle,10.91,Budget,4.5,2,35,2025-08-10
+613,29101780-8b9e-4c5e-af92-bb2e667840ed,Nestle Certified Organic Organic Food,Grocery & Gourmet,Organic Foods,Nestle,9.98,Budget,5.0,2,1,2025-11-05
+614,47b53962-dab2-4976-8326-8d4a3f10a4a8,Lay's Organic Organic Food,Grocery & Gourmet,Organic Foods,Lay's,7.38,Budget,,0,1,2025-01-14
+615,553fc15c-17f5-4500-bad5-6a0269cb5736,"Hershey Organic Organic Food - 15.6""",Grocery & Gourmet,Organic Foods,Hershey,5.58,Budget,5.0,2,8,2024-09-20
+616,9ad8f49e-aafa-48f2-bb7a-71d99ae9d860,Nestle Organic Organic Food,Grocery & Gourmet,Organic Foods,Nestle,8.97,Budget,5.0,1,1,2025-01-16
+617,bd5dc4ac-a0b7-4e71-a490-f5612a4c6112,M&M's Non-GMO Organic Food,Grocery & Gourmet,Organic Foods,M&M's,8.85,Budget,,0,4,2025-03-11
+618,dd43ead1-95e9-4d9b-bb57-e4fa75e92dcd,Nestle Non-GMO Organic Food,Grocery & Gourmet,Organic Foods,Nestle,10.17,Budget,,0,2,2025-10-29
+619,ff991311-edc8-4bd9-9e20-780f3cd9239d,Twinnings Non-GMO Organic Food,Grocery & Gourmet,Organic Foods,Twinnings,14.12,Budget,,0,7,2026-01-14
+620,116ec354-36df-497b-bc6c-068817c7c4c4,Twinnings Pantry Staple Unscented,Grocery & Gourmet,Pantry Staples,Twinnings,5.64,Budget,,0,1,2024-06-10
+621,189bcba6-066f-4bdc-8e8f-272e178d0552,"Nestle Pantry Staple - 32""",Grocery & Gourmet,Pantry Staples,Nestle,5.45,Budget,5.0,1,1,2024-12-14
+622,18ac2bb9-bb4b-4d23-9114-b3bf76134b6b,Nestle Organic Pantry Staple,Grocery & Gourmet,Pantry Staples,Nestle,9.91,Budget,4.0,3,1,2024-12-29
+623,24028209-ddfe-4ac2-9205-fff5cd6df978,"PepsiCo Pantry Staple - 27""",Grocery & Gourmet,Pantry Staples,PepsiCo,5.07,Budget,3.0,1,1,2023-08-28
+624,29ac1c16-e728-4d93-9752-6feaf68762ce,Nestle Pantry Staple Unscented,Grocery & Gourmet,Pantry Staples,Nestle,8.05,Budget,,0,4,2024-12-15
+625,3a282bc4-c6e3-46a2-9833-8d12fb90c449,PepsiCo Organic Pantry Staple,Grocery & Gourmet,Pantry Staples,PepsiCo,3.24,Budget,4.5,2,2,2025-03-14
+626,807584c5-da8a-4cb8-9592-5fb20e963d76,"Lavazza Pantry Staple - 14""",Grocery & Gourmet,Pantry Staples,Lavazza,8.78,Budget,,0,1,2024-03-02
+627,86f492bc-9d9a-4dbf-aa1e-4761c49c3043,Nestle Organic Pantry Staple,Grocery & Gourmet,Pantry Staples,Nestle,2.03,Budget,,0,1,2024-03-12
+628,88f38eae-9124-4557-a285-248fc1cad30c,Nestle Pantry Staple Multipack,Grocery & Gourmet,Pantry Staples,Nestle,7.74,Budget,4.1,22,8,2023-04-09
+629,a3e2e317-2f8a-4dd5-9072-531b755f4d0d,"Nestle Pantry Staple - 32""",Grocery & Gourmet,Pantry Staples,Nestle,6.46,Budget,,0,13,2025-08-21
+630,ae4592f0-2346-42dc-bdab-51c0f871263f,Coca-Cola Pantry Staple Value Size,Grocery & Gourmet,Pantry Staples,Coca-Cola,8.02,Budget,,0,2,2023-06-20
+631,ba614d88-8ab0-4a37-aa65-1499d5adc5be,"Lavazza Pantry Staple - 32""",Grocery & Gourmet,Pantry Staples,Lavazza,12.79,Budget,,0,1,2023-04-16
+632,e09f1e0d-b138-4e3e-aae1-77923e9ac610,M&M's Pantry Staple Value Size,Grocery & Gourmet,Pantry Staples,M&M's,11.87,Budget,,0,15,2024-08-18
+633,fc61d76c-fc8a-4318-93c1-05d1402686d8,Nestle Organic Pantry Staple,Grocery & Gourmet,Pantry Staples,Nestle,14.09,Budget,,0,1,2023-09-16
+634,011d5172-065b-470a-9627-c9740efea733,Nestle Organic Snack,Grocery & Gourmet,Snacks,Nestle,13.7,Budget,4.0,2,1,2024-10-06
+635,202467d2-f1b2-490e-8a89-e013ad26d647,Nestle Snack Variety Pack,Grocery & Gourmet,Snacks,Nestle,6.81,Budget,,0,2,2025-01-21
+636,26fa0037-c745-4789-8a44-9f3dfb7f25f7,General Mills Organic Snack,Grocery & Gourmet,Snacks,General Mills,18.44,Budget,3.7,16,9,2024-01-06
+637,285c6282-8ebb-430d-83b5-f811b66cc69d,Nestle Tangy Snack,Grocery & Gourmet,Snacks,Nestle,7.48,Budget,5.0,2,2,2023-03-30
+638,478897ba-ae46-48cf-b2bb-82c4f374cb16,PepsiCo Sweet Snack,Grocery & Gourmet,Snacks,PepsiCo,19.79,Budget,,0,4,2024-04-18
+639,657fe627-526a-4348-8d83-d1931c355327,"Kraft Snack - 17""",Grocery & Gourmet,Snacks,Kraft,3.95,Budget,,0,5,2025-03-05
+640,667504df-5a65-4046-ba85-11c46edc7e23,Coca-Cola Snack Variety Pack,Grocery & Gourmet,Snacks,Coca-Cola,14.26,Budget,4.0,1,1,2023-10-21
+641,6c220378-7c62-4d26-900b-125cd41d28f6,Kraft Snack Variety Pack,Grocery & Gourmet,Snacks,Kraft,14.52,Budget,,0,1,2023-04-04
+642,6c28f298-484a-4eb1-8197-d880b91558dc,Nestle Organic Snack,Grocery & Gourmet,Snacks,Nestle,15.89,Budget,4.0,1,1,2026-04-20
+643,78a3b03e-9fc0-460e-aa1c-4cab94f70bcd,Kraft Snack Family Size,Grocery & Gourmet,Snacks,Kraft,8.0,Budget,,0,2,2023-10-21
+644,7b32ddb0-3ecc-4e67-a448-e9e9311f6379,Nestle Snack Variety Pack,Grocery & Gourmet,Snacks,Nestle,18.22,Budget,3.5,2,1,2023-12-21
+645,7ff13916-d872-426f-8e5d-c8d92cc04dc6,Nestle Spicy Snack,Grocery & Gourmet,Snacks,Nestle,10.93,Budget,,0,1,2025-01-01
+646,9222e866-25ba-44ee-b61e-8b52c7353034,Nestle Original Snack,Grocery & Gourmet,Snacks,Nestle,10.65,Budget,5.0,1,1,2024-04-27
+647,93d73401-f8ed-451f-8021-3b4cff7f7b0a,PepsiCo Organic Snack,Grocery & Gourmet,Snacks,PepsiCo,8.45,Budget,4.0,1,1,2025-04-18
+648,acb08aee-71c4-4757-a6ff-9d0e348961cb,Nestle Snack Family Size,Grocery & Gourmet,Snacks,Nestle,5.86,Budget,4.0,1,1,2026-04-01
+649,da66d147-24d1-4448-a372-f647cc88bbac,PepsiCo Snack Variety Pack,Grocery & Gourmet,Snacks,PepsiCo,3.62,Budget,4.0,1,1,2025-02-07
+650,e265f398-335b-433e-a347-07eaeb53d87a,"Coca-Cola Snack - 14""",Grocery & Gourmet,Snacks,Coca-Cola,4.27,Budget,2.0,1,71,2024-08-07
+651,ef13e1d8-29e1-4964-aea0-9a1a95bc84ec,Lindt Snack Family Size,Grocery & Gourmet,Snacks,Lindt,9.56,Budget,5.0,1,1,2024-05-02
+652,feca807a-3edb-4df5-b55e-24a9969a570a,Coca-Cola Snack Family Size,Grocery & Gourmet,Snacks,Coca-Cola,6.74,Budget,,0,1,2024-09-12
+653,38d3fd25-8aa9-4331-9842-0a26eac88d91,KitchenAid Smart Appliance,Home & Kitchen,Appliances,KitchenAid,107.67,Premium,4.0,2,1,2023-07-01
+654,3b27636c-a2bd-4c64-b03c-ac8bf64ce0bc,Pyrex Smart Appliance,Home & Kitchen,Appliances,Pyrex,23.87,Mid-Range,4.3,11,1,2024-01-26
+655,4e0b8bd9-5f80-4c70-9fdb-d848885e8805,KitchenAid Smart Appliance,Home & Kitchen,Appliances,KitchenAid,13.77,Budget,5.0,1,1,2026-01-23
+656,53a21506-3f1d-4aff-895f-2208f4ae3684,Le Creuset Core Appliance,Home & Kitchen,Appliances,Le Creuset,95.75,Premium,,0,1,2024-11-16
+657,964b36d0-bc20-40bc-8e1b-930dca2a6b31,KitchenAid Smart Appliance,Home & Kitchen,Appliances,KitchenAid,25.43,Mid-Range,4.0,2,1,2025-03-05
+658,a79e27ce-3333-4465-8ab5-78cb665ab295,KitchenAid Prime Appliance,Home & Kitchen,Appliances,KitchenAid,34.62,Mid-Range,,0,7,2024-05-08
+659,c201350f-60f2-48d5-ab5b-ce00bb9b6bae,Cuisinart Digital Appliance,Home & Kitchen,Appliances,Cuisinart,15.44,Budget,,0,1,2025-07-20
+660,c6a70e79-cfac-45c0-9dcc-8e9525948be1,Cuisinart Digital Appliance,Home & Kitchen,Appliances,Cuisinart,167.56,Premium,,0,1,2025-05-15
+661,cb5d1f1b-21c8-46ba-aabc-a8f95af9f370,KitchenAid Air Appliance,Home & Kitchen,Appliances,KitchenAid,33.31,Mid-Range,5.0,1,2,2024-01-15
+662,cd270804-0e72-4045-8c50-98197250bcb5,KitchenAid Appliance Pro,Home & Kitchen,Appliances,KitchenAid,127.83,Premium,,0,36,2024-07-29
+663,d3701c21-709a-4090-bab2-020261ce8a92,Cuisinart Smart Appliance,Home & Kitchen,Appliances,Cuisinart,44.48,Mid-Range,4.2,27,5,2023-08-21
+664,d79fb878-dfb7-45b4-9d71-f14697dbddc7,Le Creuset Max Appliance,Home & Kitchen,Appliances,Le Creuset,74.96,Mid-Range,,0,7,2023-05-19
+665,e0eedfb6-a73e-4576-a467-254f95fa2e5e,Le Creuset Classic Appliance,Home & Kitchen,Appliances,Le Creuset,117.52,Premium,1.0,1,6,2024-11-15
+666,fecb152a-d3b4-4040-8066-d3df28a8b107,KitchenAid Smart Appliance,Home & Kitchen,Appliances,KitchenAid,54.4,Mid-Range,4.0,3,10,2024-06-09
+667,11d41a47-4a1c-47fd-8f21-ef734dbc0a88,Cuisinart Comfort Bedding,Home & Kitchen,Bedding,Cuisinart,127.68,Premium,,0,6,2025-12-16
+668,14aa716c-9404-4b1e-90e3-9dfcfcc0033d,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,75.56,Premium,,0,2,2025-12-25
+669,17f2285d-1707-4b77-b944-6f7f3db9360b,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,21.98,Mid-Range,,0,1,2023-11-27
+670,180991ca-3320-4a30-9e42-77835e653a49,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,61.89,Mid-Range,,0,1,2024-04-27
+671,1f6ae9d8-56b8-4eda-91e5-ff53f5b97c52,Dyson Premium Cotton Bedding,Home & Kitchen,Bedding,Dyson,67.0,Mid-Range,,0,1,2025-12-02
+672,2416da6e-c212-4ddb-8d88-00160eb686b2,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,31.65,Mid-Range,2.0,1,12,2024-06-02
+673,26365e81-29db-447b-8885-943ee8097c90,KitchenAid Premium Spandex Bedding,Home & Kitchen,Bedding,KitchenAid,71.79,Mid-Range,,0,2,2023-11-12
+674,307342c5-b6cc-4cfe-814e-feaa722977df,Le Creuset Bedding in Red,Home & Kitchen,Bedding,Le Creuset,29.56,Mid-Range,5.0,1,36,2023-10-01
+675,34813fbd-4762-4e1a-9fad-2c4bd228840a,Le Creuset Ultra-Soft Bedding,Home & Kitchen,Bedding,Le Creuset,28.57,Mid-Range,,0,3,2024-03-01
+676,4a6d8f03-2395-4815-a2d5-d44482fd603e,KitchenAid Comfort Bedding,Home & Kitchen,Bedding,KitchenAid,11.36,Budget,,0,1,2024-03-04
+677,52714668-a85b-491f-8cb4-fc3243ba35da,KitchenAid Bedding in Blue,Home & Kitchen,Bedding,KitchenAid,32.23,Mid-Range,,0,10,2025-03-19
+678,6ef410a7-f23b-4267-8fd8-3d3e857760ec,Cuisinart Ultra-Soft Bedding,Home & Kitchen,Bedding,Cuisinart,34.76,Mid-Range,,0,2,2023-01-19
+679,74073ef0-27ce-4323-a134-ae96c9cd6dca,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,42.83,Mid-Range,,0,5,2025-07-10
+680,7920161a-46b1-449f-89b3-d03b9719aedb,"Cuisinart 27"" Bedding Set",Home & Kitchen,Bedding,Cuisinart,32.97,Mid-Range,,0,1,2024-07-14
+681,825d7643-2038-4cc7-b412-da428d1d86b7,Cuisinart Comfort Bedding,Home & Kitchen,Bedding,Cuisinart,24.89,Mid-Range,,0,1,2025-07-10
+682,86011e5c-52b7-4cbf-a9e1-f18981e6f241,KitchenAid Premium Nylon Bedding,Home & Kitchen,Bedding,KitchenAid,79.14,Premium,,0,1,2023-09-26
+683,9697cbb8-c036-4f97-a661-d60ceb245518,Instant Pot Bedding in Slate,Home & Kitchen,Bedding,Instant Pot,27.99,Mid-Range,,0,1,2023-11-09
+684,b2a2cd33-729f-4ccd-85e5-938db17c6088,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,57.46,Mid-Range,,0,4,2025-04-05
+685,b2ff5734-4798-4b88-bf43-8d5e76d558fe,KitchenAid Premium Linen Bedding,Home & Kitchen,Bedding,KitchenAid,78.94,Premium,,0,20,2024-05-18
+686,caf04ff6-0545-4ee0-8753-619458dedc5f,KitchenAid Comfort Bedding,Home & Kitchen,Bedding,KitchenAid,56.04,Mid-Range,,0,3,2026-04-08
+687,ce5c0bc7-e4ca-4e0f-93b5-d5e5d58fbcb2,Cuisinart Ultra-Soft Bedding,Home & Kitchen,Bedding,Cuisinart,369.99,Luxury,,0,1,2023-06-10
+688,db62d281-8a73-4fbb-96fb-28cf2ba7a970,KitchenAid Comfort Bedding,Home & Kitchen,Bedding,KitchenAid,315.52,Luxury,4.7,3,112,2024-08-11
+689,e2254729-d296-45bf-beed-f69e6edbb049,KitchenAid Bedding in Cream,Home & Kitchen,Bedding,KitchenAid,49.68,Mid-Range,4.0,1,4,2025-08-11
+690,f0b36601-80d9-4301-bef6-04280874390d,KitchenAid Ultra-Soft Bedding,Home & Kitchen,Bedding,KitchenAid,54.86,Mid-Range,,0,1,2024-05-27
+691,f222d178-ed7a-4639-bb74-3b6885621670,Cuisinart Premium Silk Bedding,Home & Kitchen,Bedding,Cuisinart,48.07,Mid-Range,,0,3,2023-11-28
+692,f6c0f76e-e47a-4cc8-99f4-2829cccbff35,KitchenAid Comfort Bedding,Home & Kitchen,Bedding,KitchenAid,79.07,Premium,,0,1,2024-06-29
+693,fd310db3-3587-4e19-8ae1-cec098c27e1b,Cuisinart Bedding in Cobalt,Home & Kitchen,Bedding,Cuisinart,47.22,Mid-Range,,0,1,2023-04-12
+694,00fd20d1-e174-4abd-99c5-f15efa9b0078,Dyson Furniture - Green,Home & Kitchen,Furniture,Dyson,73.28,Mid-Range,,0,1,2024-12-05
+695,06551d1d-a2f3-44a6-aeed-6df6b4dd13de,KitchenAid Hemp Furniture,Home & Kitchen,Furniture,KitchenAid,52.41,Mid-Range,5.0,1,1,2024-03-27
+696,10b671d3-3400-4d21-83de-0f6f4b54ae1f,Lodge Microfiber Furniture,Home & Kitchen,Furniture,Lodge,53.83,Mid-Range,3.0,2,1,2025-03-02
+697,1f666d27-8853-4949-87dc-4bd2ea44d7bb,KitchenAid Modern Furniture,Home & Kitchen,Furniture,KitchenAid,67.18,Mid-Range,,0,4,2025-08-27
+698,2136f5a0-df76-4665-92b6-6ca0b1aab251,KitchenAid Furniture - Black,Home & Kitchen,Furniture,KitchenAid,106.81,Premium,,0,3,2025-04-12
+699,26db6f1e-8586-4a5f-b248-2dedc09b066d,Morphy Richards Polyester Furniture,Home & Kitchen,Furniture,Morphy Richards,59.45,Mid-Range,,0,1,2024-12-30
+700,32cbdbeb-fdde-4794-90d8-98fa95b22e01,Shark Denim Furniture,Home & Kitchen,Furniture,Shark,21.25,Mid-Range,,0,1,2023-08-28
+701,453c2ed5-172f-4d33-87de-0dce637ee201,Corkcicle Premium Furniture,Home & Kitchen,Furniture,Corkcicle,176.92,Premium,,0,1,2023-10-15
+702,54a83feb-d57d-4121-9ac4-d7f39cfd479d,KitchenAid Furniture - Cobalt,Home & Kitchen,Furniture,KitchenAid,80.97,Premium,,0,1,2023-10-05
+703,6411e0b8-d915-4f88-83c3-b81148416eea,Cuisinart Furniture Set,Home & Kitchen,Furniture,Cuisinart,33.06,Mid-Range,3.8,4,4,2023-12-21
+704,66be4c4b-1532-42a8-86f3-51ef5e5d60d4,KitchenAid Furniture - Sand,Home & Kitchen,Furniture,KitchenAid,14.13,Budget,,0,4,2024-02-16
+705,6add0373-574c-4f34-a3f8-25faf48f544d,KitchenAid Furniture - Cream,Home & Kitchen,Furniture,KitchenAid,89.31,Premium,2.0,1,20,2024-12-05
+706,711d028c-29fb-402d-97a9-9476df124bdb,Zwilling Furniture - Gray,Home & Kitchen,Furniture,Zwilling,53.17,Mid-Range,,0,1,2025-03-21
+707,73a2d656-ffa8-458d-9fc2-d7489c59329f,Instant Pot Modern Furniture,Home & Kitchen,Furniture,Instant Pot,105.47,Premium,,0,1,2025-10-28
+708,85d71fab-51dc-421e-bc9d-2082f15a6b5d,KitchenAid Bamboo Furniture,Home & Kitchen,Furniture,KitchenAid,6.97,Budget,,0,10,2023-09-27
+709,92c96118-659a-4c92-9288-d259616dd690,Pyrex Premium Furniture,Home & Kitchen,Furniture,Pyrex,42.64,Mid-Range,4.5,2,1,2026-04-23
+710,a0878f7e-91c2-41e5-9897-68488660be79,KitchenAid Premium Furniture,Home & Kitchen,Furniture,KitchenAid,15.04,Budget,,0,1,2024-10-15
+711,d2dee2f5-9b42-4bd9-bcae-3f7dc5f60fa7,Dyson Furniture - Ivory,Home & Kitchen,Furniture,Dyson,26.33,Mid-Range,4.0,1,1,2024-07-30
+712,d83c016f-e125-4cb0-a533-6a94d809d429,Shark Fleece Furniture,Home & Kitchen,Furniture,Shark,30.88,Mid-Range,,0,1,2025-11-29
+713,d8a40add-ed82-4c07-9a63-f43e59e8a63d,KitchenAid Furniture - Brown,Home & Kitchen,Furniture,KitchenAid,23.86,Mid-Range,,0,1,2024-01-13
+714,de45718a-0d23-4cd4-b718-8020d46bd4f9,KitchenAid Denim Furniture,Home & Kitchen,Furniture,KitchenAid,31.43,Mid-Range,,0,1,2024-01-15
+715,e09e164e-ec69-4f05-bf83-29e3e9929853,Instant Pot Denim Furniture,Home & Kitchen,Furniture,Instant Pot,72.39,Mid-Range,3.5,2,15,2024-08-19
+716,e5cd5b01-94fc-42ef-b787-9ef2623fb03d,KitchenAid Furniture Set,Home & Kitchen,Furniture,KitchenAid,33.67,Mid-Range,5.0,1,1,2025-02-21
+717,e6c597ce-cd80-4439-ab5e-bdb9fdc77149,Pyrex Modern Furniture,Home & Kitchen,Furniture,Pyrex,40.82,Mid-Range,,0,5,2026-02-03
+718,e9f96c73-5388-4116-b3e3-c0ab5e0e98ac,KitchenAid Furniture - Black,Home & Kitchen,Furniture,KitchenAid,19.59,Budget,,0,2,2024-01-14
+719,ea0afd71-a6f0-4e9c-b905-b62721bca09f,Cuisinart Furniture Set,Home & Kitchen,Furniture,Cuisinart,30.48,Mid-Range,,0,1,2025-11-21
+720,f5231de7-3c41-4203-bccd-c96f36a3c1d3,KitchenAid Furniture Set,Home & Kitchen,Furniture,KitchenAid,30.84,Mid-Range,4.5,2,14,2026-05-06
+721,f8232f4a-cde6-4bf8-b0f8-dcf40fad7761,KitchenAid Premium Furniture,Home & Kitchen,Furniture,KitchenAid,34.53,Mid-Range,2.0,1,1,2023-08-12
+722,fb249de3-d64f-4b3c-88c8-623a3addd73f,Cuisinart Premium Furniture,Home & Kitchen,Furniture,Cuisinart,27.16,Mid-Range,4.5,2,1,2024-07-23
+723,044c6fd0-6bdf-48ea-b10c-2128c690f3fb,KitchenAid Linen Home Decor,Home & Kitchen,Home Decor,KitchenAid,18.89,Budget,3.0,2,1,2024-04-26
+724,0ce88964-f56f-4aea-ac52-3e9d7ff2dad9,Le Creuset Modern Home Decor,Home & Kitchen,Home Decor,Le Creuset,5.88,Budget,5.0,1,1,2024-01-11
+725,0ea08862-8de1-4843-ab65-862d3dd1b2d8,Lodge Cotton Home Decor,Home & Kitchen,Home Decor,Lodge,44.14,Mid-Range,5.0,1,1,2023-07-18
+726,23e2455d-8b3e-46e9-90f8-c442402d8789,Cuisinart Modern Home Decor,Home & Kitchen,Home Decor,Cuisinart,67.9,Mid-Range,,0,4,2024-09-15
+727,4036abc7-b954-434d-ad6f-df3f3a602bc5,Le Creuset Home Decor - Cream,Home & Kitchen,Home Decor,Le Creuset,60.38,Mid-Range,5.0,1,106,2024-09-16
+728,4a56e17e-344c-4772-8201-8d2a699b8a61,KitchenAid Scandinavian Home Decor,Home & Kitchen,Home Decor,KitchenAid,93.35,Premium,,0,1,2025-12-08
+729,5de0a820-43c1-4d74-b371-3bb4e115ce33,Dyson Modern Home Decor,Home & Kitchen,Home Decor,Dyson,35.02,Mid-Range,3.4,5,4,2025-01-28
+730,6a0a57f4-080a-43ec-9a43-e8503602e4d7,KitchenAid Decorative Home Decor,Home & Kitchen,Home Decor,KitchenAid,83.06,Premium,,0,1,2025-07-17
+731,6d7c422e-e9bc-432a-98f7-7c8829437f0b,Cuisinart Modern Home Decor,Home & Kitchen,Home Decor,Cuisinart,34.48,Mid-Range,3.9,9,1,2026-01-24
+732,711badf2-0969-4206-bab7-98747e445c38,Cuisinart Home Decor - Slate,Home & Kitchen,Home Decor,Cuisinart,94.08,Premium,,0,2,2023-08-09
+733,71b5188d-592a-44c7-ac61-9c77472059d7,Cuisinart Home Decor - Beige,Home & Kitchen,Home Decor,Cuisinart,117.63,Premium,,0,2,2025-02-05
+734,722c915d-5a07-4221-bdf6-b1037a9e5670,KitchenAid Decorative Home Decor,Home & Kitchen,Home Decor,KitchenAid,31.51,Mid-Range,4.0,1,1,2024-04-04
+735,72ce0593-0728-44df-a455-40bfeed0dd56,Cuisinart Decorative Home Decor,Home & Kitchen,Home Decor,Cuisinart,26.29,Mid-Range,,0,4,2026-02-11
+736,825d03b5-2982-4c8c-9403-4bd456ba7cb4,Le Creuset Cotton Home Decor,Home & Kitchen,Home Decor,Le Creuset,12.36,Budget,,0,2,2026-02-11
+737,894a28b3-1f78-4f3d-ad46-319be7de12a5,KitchenAid Decorative Home Decor,Home & Kitchen,Home Decor,KitchenAid,71.65,Mid-Range,,0,1,2025-01-09
+738,8b5089a2-f314-4a70-9b56-68dcbcffeb79,Vitamix Bohemian Home Decor,Home & Kitchen,Home Decor,Vitamix,170.0,Premium,,0,1,2024-06-13
+739,b6fdd176-e7cc-4d06-aaef-cf87a05aa90c,De'Longhi Modern Home Decor,Home & Kitchen,Home Decor,De'Longhi,31.83,Mid-Range,3.2,4,1,2026-05-22
+740,cd434453-63c4-48fa-a0ea-ed3d7d0b5d69,KitchenAid Home Decor - Sage,Home & Kitchen,Home Decor,KitchenAid,62.74,Mid-Range,5.0,1,1,2025-04-15
+741,eb9909fa-f529-44d6-a27d-94305e2ba604,Pyrex Cotton Home Decor,Home & Kitchen,Home Decor,Pyrex,25.11,Mid-Range,5.0,1,1,2026-04-01
+742,ed7fbf83-108c-43eb-979c-ba557f72567e,KitchenAid Decorative Home Decor,Home & Kitchen,Home Decor,KitchenAid,93.49,Premium,5.0,2,1,2025-08-29
+743,f79ec086-000a-445c-90a4-36f60ee14283,Instant Pot Silk Home Decor,Home & Kitchen,Home Decor,Instant Pot,53.4,Mid-Range,,0,1,2023-11-05
+744,07c063a3-3e62-4e4b-9a3d-79c63ae26e68,Ninja Non-Stick Kitchenware,Home & Kitchen,Kitchenware,Ninja,33.87,Mid-Range,5.0,1,1,2025-09-04
+745,0ae12b0d-c386-4668-9fef-676f4ab93216,Le Creuset Microfiber Kitchenware,Home & Kitchen,Kitchenware,Le Creuset,32.14,Mid-Range,,0,3,2025-08-07
+746,23f5d0e7-9ced-4641-a343-cbfd288da0ef,"Cuisinart 15.6"" Kitchenware Set",Home & Kitchen,Kitchenware,Cuisinart,48.84,Mid-Range,,0,1,2025-04-20
+747,2cb05a68-8668-4506-960f-2457204261f5,KitchenAid Premium Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,57.91,Mid-Range,,0,140,2023-01-04
+748,35bf8754-29bb-463a-a710-839011ee78ab,Pyrex Premium Kitchenware,Home & Kitchen,Kitchenware,Pyrex,54.98,Mid-Range,4.3,6,1,2023-09-03
+749,38b30516-4eba-43d9-a44b-e372e609bc27,"KitchenAid 14"" Kitchenware Set",Home & Kitchen,Kitchenware,KitchenAid,23.16,Mid-Range,,0,1,2026-02-26
+750,3a93bfbb-fabf-4085-b8bf-cd44a74ec4cc,KitchenAid Non-Stick Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,45.35,Mid-Range,4.5,2,1,2023-01-17
+751,43a517c2-190a-4bc1-b77b-4d88936ee641,Instant Pot Professional Kitchenware,Home & Kitchen,Kitchenware,Instant Pot,28.2,Mid-Range,4.6,10,6,2025-09-21
+752,44fb591e-8de0-4541-b160-90464edb9122,KitchenAid Professional Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,52.15,Mid-Range,3.0,1,1,2026-03-19
+753,460c1852-1fe9-441b-be3b-599d95c07fea,KitchenAid Professional Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,25.0,Mid-Range,,0,1,2023-08-05
+754,64576c64-34fe-4f5a-b0d1-045b679e62a3,"Pyrex 14"" Kitchenware Set",Home & Kitchen,Kitchenware,Pyrex,11.07,Budget,5.0,2,1,2024-07-13
+755,6e47d038-17bd-428e-bf73-588a4aca53cd,KitchenAid Professional Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,65.19,Mid-Range,5.0,1,1,2023-08-22
+756,7692a311-2840-4e48-9f16-c3b47c9dc54d,KitchenAid Professional Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,50.07,Mid-Range,,0,2,2025-09-12
+757,7b5c2f17-5333-488f-aa64-7fcb72accf4d,Cuisinart Premium Kitchenware,Home & Kitchen,Kitchenware,Cuisinart,56.75,Mid-Range,5.0,1,1,2023-11-17
+758,873c9039-bba6-4e4d-9248-4df04d539770,KitchenAid Professional Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,74.28,Mid-Range,,0,1,2026-01-04
+759,8f1fe448-c002-45f6-8701-959fa97d31c8,Morphy Richards Premium Kitchenware,Home & Kitchen,Kitchenware,Morphy Richards,42.72,Mid-Range,3.0,1,1,2024-04-04
+760,a0faeb8b-2284-4f27-abe2-4dbed34bdcae,Cuisinart Denim Kitchenware,Home & Kitchen,Kitchenware,Cuisinart,26.18,Mid-Range,,0,1,2025-01-15
+761,a1f07dad-ec9d-481a-97ef-d82cebdf6f96,KitchenAid Premium Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,27.51,Mid-Range,,0,1,2025-09-27
+762,aba49dc2-3182-4614-a4ad-e2b537d50b04,Cuisinart Non-Stick Kitchenware,Home & Kitchen,Kitchenware,Cuisinart,37.9,Mid-Range,3.5,2,1,2024-06-21
+763,ac5ba701-9bf1-4091-895b-f4be675b088d,Cuisinart Non-Stick Kitchenware,Home & Kitchen,Kitchenware,Cuisinart,23.71,Mid-Range,5.0,2,4,2025-07-27
+764,b1a8533d-7d06-48ae-b1d2-02a39ad1c623,"Instant Pot 32"" Kitchenware Set",Home & Kitchen,Kitchenware,Instant Pot,50.68,Mid-Range,2.5,2,11,2025-03-01
+765,b62faea3-2d17-49ad-8e32-23d83191ea10,All-Clad Non-Stick Kitchenware,Home & Kitchen,Kitchenware,All-Clad,23.71,Mid-Range,4.0,1,58,2026-04-08
+766,bdd95c9d-a410-4b6d-84cc-1bc90cae699c,Cuisinart Denim Kitchenware,Home & Kitchen,Kitchenware,Cuisinart,39.52,Mid-Range,,0,1,2023-09-30
+767,c7061993-5ae6-4ca2-a74e-bc902d61b78d,Le Creuset Non-Stick Kitchenware,Home & Kitchen,Kitchenware,Le Creuset,62.3,Mid-Range,,0,2,2023-06-29
+768,d38fc8dd-b823-4630-a318-e8ad6236b615,"OXO 17"" Kitchenware Set",Home & Kitchen,Kitchenware,OXO,57.6,Mid-Range,,0,1,2023-02-09
+769,eaaf2b74-b09a-4bf5-b0b2-09021044cab8,Instant Pot Microfiber Kitchenware,Home & Kitchen,Kitchenware,Instant Pot,94.87,Premium,4.2,28,2,2025-06-20
+770,eef95d69-d4c8-4c38-9fb3-1aa038595835,"Shark 17"" Kitchenware Set",Home & Kitchen,Kitchenware,Shark,57.3,Mid-Range,,0,7,2025-09-15
+771,f6e758a3-00cf-4dfb-8911-bbba5335729b,"KitchenAid 17"" Kitchenware Set",Home & Kitchen,Kitchenware,KitchenAid,40.61,Mid-Range,5.0,1,3,2024-02-04
+772,facafae8-f272-4b6c-b6cf-58efa74bb75e,"KitchenAid 32"" Kitchenware Set",Home & Kitchen,Kitchenware,KitchenAid,64.78,Mid-Range,,0,6,2023-09-15
+773,ffb609fe-be9e-450d-aa24-15a871970df2,KitchenAid Professional Kitchenware,Home & Kitchen,Kitchenware,KitchenAid,50.14,Mid-Range,4.0,1,1,2023-12-08
+774,0bdf11b7-bd95-49ef-ab31-55c3ee721a30,Pyrex Smart Lighting,Home & Kitchen,Lighting,Pyrex,74.28,Mid-Range,,0,1,2025-09-04
+775,13d331b9-852a-4d23-9e87-bef5002d79f5,Staub Modern Lighting,Home & Kitchen,Lighting,Staub,87.3,Premium,4.0,1,1,2025-03-26
+776,186f61dd-1b37-4d39-a253-3e93a2f57374,Le Creuset Modern Lighting,Home & Kitchen,Lighting,Le Creuset,43.94,Mid-Range,5.0,1,1,2025-12-12
+777,2064f070-0165-45f0-9b89-382907c55c92,Le Creuset Modern Lighting,Home & Kitchen,Lighting,Le Creuset,93.8,Premium,,0,1,2024-01-10
+778,34421bc0-cc97-4807-a0a7-5ad759d87c65,Le Creuset Rustic Lighting,Home & Kitchen,Lighting,Le Creuset,68.82,Mid-Range,,0,1,2025-06-20
+779,37b1c726-0dd6-4c00-9cfa-3c4ad2a4b01c,KitchenAid Modern Lighting,Home & Kitchen,Lighting,KitchenAid,25.47,Mid-Range,5.0,1,4,2025-01-22
+780,580a7cd8-07fa-4ae4-9eeb-313942ebb8e4,KitchenAid Lighting - Charcoal,Home & Kitchen,Lighting,KitchenAid,56.11,Mid-Range,,0,1,2025-10-29
+781,5c52cb26-19f6-44e4-891c-471771c6a4bf,KitchenAid LED Lighting,Home & Kitchen,Lighting,KitchenAid,36.25,Mid-Range,,0,2,2024-07-21
+782,69aec173-87af-4601-a318-5c9124e061c9,Lodge LED Lighting,Home & Kitchen,Lighting,Lodge,49.05,Mid-Range,5.0,1,4,2025-01-15
+783,8813a3eb-a037-4b09-a2b9-754cea431c6b,Cuisinart Minimalist Lighting,Home & Kitchen,Lighting,Cuisinart,17.85,Budget,5.0,1,1,2023-09-13
+784,9adb136f-d48e-4461-8e91-d32e3ae08caf,KitchenAid Lighting - Ivory,Home & Kitchen,Lighting,KitchenAid,27.26,Mid-Range,,0,1,2023-09-08
+785,a060bcab-a7c8-45ea-823c-acda21f21c7b,Cuisinart Modern Lighting,Home & Kitchen,Lighting,Cuisinart,21.67,Mid-Range,5.0,1,39,2024-03-24
+786,c188d0e8-e8fd-41fc-998c-5614e2a08d5c,Cuisinart Rustic Lighting,Home & Kitchen,Lighting,Cuisinart,92.49,Premium,,0,1,2026-05-24
+787,c3c9afef-e2ce-4954-9b19-6ee10fa7f6e0,KitchenAid Lighting - White,Home & Kitchen,Lighting,KitchenAid,57.27,Mid-Range,,0,1,2024-05-01
+788,d73f15bc-63de-4f98-8c32-6f0f064d7264,KitchenAid Lighting - Olive,Home & Kitchen,Lighting,KitchenAid,27.06,Mid-Range,,0,1,2024-02-12
+789,de5e274a-bf12-4ae4-8840-14bf7c01e7bf,Cuisinart Lighting - Sand,Home & Kitchen,Lighting,Cuisinart,37.82,Mid-Range,,0,2,2024-01-12
+790,e5a36b0e-138b-453a-8668-d51aa72d64c2,Instant Pot Classic Lighting,Home & Kitchen,Lighting,Instant Pot,13.17,Budget,5.0,1,9,2026-03-09
+791,e66ba9f4-49af-43df-ad6b-5974079e3a31,KitchenAid LED Lighting,Home & Kitchen,Lighting,KitchenAid,25.37,Mid-Range,,0,2,2024-05-13
+792,e8d36c32-3f6c-416e-9c0a-98879c5a42a0,KitchenAid Modern Lighting,Home & Kitchen,Lighting,KitchenAid,109.86,Premium,,0,1,2023-06-12
+793,ecb5c900-0bfb-40c7-8b4b-125428778584,Ninja LED Lighting,Home & Kitchen,Lighting,Ninja,43.35,Mid-Range,4.0,3,1,2025-10-11
+794,f50de20e-3700-4d59-b65c-aaf826bd1f94,Le Creuset Smart Lighting,Home & Kitchen,Lighting,Le Creuset,25.93,Mid-Range,,0,1,2024-04-12
+795,09103a95-db77-427f-82f9-14d9d18d0a88,Staples Ergonomic Office Furniture,Office Products,Office Furniture,Staples,76.31,Premium,4.2,4,1,2024-01-02
+796,2598e723-19c8-4d48-acd3-ef82d5a1c555,Staples Office Furniture Pro,Office Products,Office Furniture,Staples,13.57,Budget,,0,1,2025-01-28
+797,4284fedc-ae06-4c36-a7a7-cec7914c0b90,Fellowes Office Furniture - Navy,Office Products,Office Furniture,Fellowes,19.56,Budget,2.0,1,1,2025-08-15
+798,51aaaec0-3190-4437-bd77-d17378d85bb0,Staples Adjustable Office Furniture,Office Products,Office Furniture,Staples,24.2,Mid-Range,,0,2,2025-12-03
+799,5db7f68a-425d-4723-a09f-5b4d0d50d58d,Post-it Adjustable Office Furniture,Office Products,Office Furniture,Post-it,69.04,Mid-Range,4.0,2,1,2024-06-28
+800,7456c135-43ce-490d-a888-655e928519ac,3M Adjustable Office Furniture,Office Products,Office Furniture,3M,43.52,Mid-Range,4.3,3,1,2025-09-10
+801,c6e6f549-6d3f-41a8-aad5-d0e89af54109,Post-it Compact Office Furniture,Office Products,Office Furniture,Post-it,67.62,Mid-Range,4.0,7,3,2023-11-15
+802,eb1b7a62-c765-4d68-8df2-9b0210e90d9a,Staples Compact Office Furniture,Office Products,Office Furniture,Staples,23.28,Mid-Range,,0,12,2025-06-30
+803,29bd55a5-5ba9-4ddb-abf7-a7e11113e713,Post-it Organization Set,Office Products,Organization,Post-it,38.94,Mid-Range,4.0,1,1,2024-08-15
+804,7972c35d-80be-48e8-bd9f-bc7eb80120b3,Brother Desktop Organization,Office Products,Organization,Brother,37.7,Mid-Range,4.0,2,1,2026-02-20
+805,99aee34b-3b16-4337-8132-f183349dfd69,Staples Organization Set,Office Products,Organization,Staples,13.45,Budget,4.0,1,2,2025-09-27
+806,b4301d70-ca48-40b4-bd1f-a4c3acd9a17b,Pilot Organization Set,Office Products,Organization,Pilot,11.03,Budget,5.0,1,1,2025-01-22
+807,b60f1882-8ef5-4fc6-8cdd-97f657f65c7d,3M Organization Organizer,Office Products,Organization,3M,10.69,Budget,,0,2,2025-10-13
+808,e83f78c2-e13c-4f66-a63b-27b3dc5348e5,3M Organization Organizer,Office Products,Organization,3M,7.43,Budget,4.2,4,31,2023-06-08
+809,008e8cb5-c92c-4327-a7b7-4a3d4eadd099,Herman Miller Compact Printer,Office Products,Printers,Herman Miller,17.93,Budget,,0,2,2023-05-30
+810,21853536-4ecb-48e8-a96f-f289fb187fcd,Staples Compact Printer,Office Products,Printers,Staples,20.25,Mid-Range,5.0,1,1,2024-08-08
+811,54384ed6-2c87-44d7-8372-faccc44614e7,Post-it Compact Printer,Office Products,Printers,Post-it,18.6,Budget,4.0,1,5,2025-04-03
+812,580a6d06-f1eb-44b7-b475-9a15410e2ebd,Sharpie Printer Pro,Office Products,Printers,Sharpie,25.27,Mid-Range,,0,1,2023-01-29
+813,5dfa0ac8-a67b-4d42-9877-036cead74d27,Staples Printer Pro,Office Products,Printers,Staples,41.18,Mid-Range,3.7,3,1,2026-02-12
+814,888ad32b-d46b-4a8f-aa72-c75149bc151a,3M Compact Printer,Office Products,Printers,3M,24.46,Mid-Range,,0,39,2024-09-12
+815,8c2591b7-781b-4929-ba24-8fe66a784480,3M X18 Wireless Printer,Office Products,Printers,3M,9.09,Budget,,0,1,2024-10-19
+816,f65940dc-1f9b-4034-9ace-5b480ad6c9f9,3M Printer Pro,Office Products,Printers,3M,17.86,Budget,,0,2,2026-03-14
+817,25a6c99c-d63c-4697-91ef-744b7879d605,Post-it Premium Stationery Set,Office Products,Stationery,Post-it,45.91,Mid-Range,4.1,26,1,2025-04-25
+818,581da0b5-30ec-4a08-8d81-2a374a66ea91,Staples Stationery Pack,Office Products,Stationery,Staples,25.58,Mid-Range,5.0,1,12,2026-03-22
+819,5ad1dceb-cb0e-4de9-89e6-f7c4c6abda23,Staples Premium Stationery Set,Office Products,Stationery,Staples,33.3,Mid-Range,2.5,2,1,2023-04-02
+820,70a0cc21-8b13-454b-98b8-ef57a411e3a9,"Staples Stationery - 27""",Office Products,Stationery,Staples,26.68,Mid-Range,1.0,1,1,2023-06-06
+821,bd62a52c-fda1-4881-9d1a-6193ced2fca2,Fellowes Premium Stationery Set,Office Products,Stationery,Fellowes,24.55,Mid-Range,5.0,1,5,2025-09-08
+822,c9ee4eea-8bb8-44eb-a334-3b997749602a,Staples Assorted Stationery,Office Products,Stationery,Staples,9.33,Budget,,0,2,2026-04-15
+823,dd718d6e-9862-4a58-a01f-9bfe34ab978e,Canon Stationery - Sand,Office Products,Stationery,Canon,20.34,Mid-Range,4.0,4,17,2025-07-20
+824,30dabbb8-5e2c-434e-8464-04cfd1bb4794,"Staples Supplie - 27""",Office Products,Supplies,Staples,13.39,Budget,5.0,1,1,2024-03-20
+825,45fb1434-c81c-4fb4-92d2-8c8b5976404d,Fellowes Supplie Multipack,Office Products,Supplies,Fellowes,7.83,Budget,2.0,1,2,2025-03-19
+826,671ce81b-64a1-48d0-bf57-c234ece5bf72,Post-it Supplie Multipack,Office Products,Supplies,Post-it,7.69,Budget,,0,1,2025-10-11
+827,6e17103b-6b0b-4797-9ce7-fdaf0f9874d9,"Staples Supplie - 14""",Office Products,Supplies,Staples,18.78,Budget,5.0,1,1,2024-04-05
+828,a3cf009c-a949-4612-a91d-54c0c6076472,Swingline Heavy-Duty Supplie,Office Products,Supplies,Swingline,9.83,Budget,4.5,2,1,2024-01-07
+829,10b72726-160a-4711-9d2f-3d6c33e22a7b,Spalding Camping Gear Kit,Sports & Outdoors,Camping Gear,Spalding,22.16,Mid-Range,,0,1,2024-05-22
+830,13107544-4733-4724-a29e-e291cba60ae1,Wilson Waterproof Camping Gear,Sports & Outdoors,Camping Gear,Wilson,35.59,Mid-Range,4.0,1,2,2025-10-23
+831,17af093c-b088-4923-b52b-2cb3abe03ac6,Wilson Camping Gear Kit,Sports & Outdoors,Camping Gear,Wilson,66.46,Mid-Range,,0,6,2024-01-09
+832,1af2ed68-8b17-4484-b5e9-2aab1d96497b,Schwinn Waterproof Camping Gear,Sports & Outdoors,Camping Gear,Schwinn,42.17,Mid-Range,5.0,4,1,2025-02-18
+833,2bfee485-32ed-4f0c-870e-b7db15780fde,Wilson 88L Camping Gear,Sports & Outdoors,Camping Gear,Wilson,257.12,Luxury,4.0,1,1,2025-04-05
+834,50478039-ee43-4ae5-a86f-81bb8b3ac845,MSR Ultralight Camping Gear,Sports & Outdoors,Camping Gear,MSR,71.88,Mid-Range,5.0,2,9,2026-01-29
+835,520cf0b3-8fe9-42ba-a245-f42e60a656d9,Wilson Edge13 Camping Gear,Sports & Outdoors,Camping Gear,Wilson,29.52,Mid-Range,,0,8,2026-04-29
+836,6651c3ab-c7be-4131-b324-68bd0218eb2c,Timberland Camping Gear Kit,Sports & Outdoors,Camping Gear,Timberland,69.2,Mid-Range,4.3,14,4,2023-12-11
+837,70d10efc-589a-4274-8461-8b4384541e84,Yeti Ultralight Camping Gear,Sports & Outdoors,Camping Gear,Yeti,90.08,Premium,,0,3,2023-06-23
+838,7ae6b7f0-2a30-496f-81dc-2229f4652ad5,Wilson 77L Camping Gear,Sports & Outdoors,Camping Gear,Wilson,42.09,Mid-Range,4.0,2,1,2026-04-28
+839,7b43bf88-22b8-4623-b746-8d1e89ce2a93,Wilson Waterproof Camping Gear,Sports & Outdoors,Camping Gear,Wilson,75.93,Premium,3.5,2,1,2024-09-22
+840,7df7c8ec-ff7a-4b2b-a5d3-24cd6ac487fa,Wilson Camping Gear Kit,Sports & Outdoors,Camping Gear,Wilson,21.82,Mid-Range,3.0,1,183,2025-05-15
+841,b9dc6a95-b011-4e0a-9dab-ebfcbb201b73,Wilson Waterproof Camping Gear,Sports & Outdoors,Camping Gear,Wilson,31.47,Mid-Range,4.0,1,2,2025-09-22
+842,d39e47ca-8c95-4450-8edb-290c06bf0b0d,Wilson Ultralight Camping Gear,Sports & Outdoors,Camping Gear,Wilson,103.58,Premium,,0,7,2024-06-07
+843,d9963a88-d54f-4a18-b655-414ea714832a,Wilson Camping Gear Kit,Sports & Outdoors,Camping Gear,Wilson,62.65,Mid-Range,4.3,6,1,2023-10-05
+844,db8813ce-bfdd-44b8-ab9d-67eedddb37e3,Wilson Ultralight Camping Gear,Sports & Outdoors,Camping Gear,Wilson,86.73,Premium,4.0,2,4,2025-04-03
+845,e4728ecc-a82d-463e-83d3-a7cb9a30123b,Wilson Camping Gear Kit,Sports & Outdoors,Camping Gear,Wilson,50.88,Mid-Range,,0,1,2024-12-07
+846,e5e214ce-88aa-4332-93bb-93297fee34c7,Timberland Ultralight Camping Gear,Sports & Outdoors,Camping Gear,Timberland,24.86,Mid-Range,,0,3,2025-06-25
+847,f6458376-2889-4221-b909-bdaf4cccc779,Wilson 55L Camping Gear,Sports & Outdoors,Camping Gear,Wilson,116.8,Premium,4.0,1,1,2026-02-11
+848,fb87061e-fc17-4219-9702-c463c7439bcf,Wilson 118L Camping Gear,Sports & Outdoors,Camping Gear,Wilson,30.09,Mid-Range,,0,2,2026-04-17
+849,1c979a0e-2b27-4a77-8f5f-67743ba66a42,Columbia Performance Cycling,Sports & Outdoors,Cycling,Columbia,76.91,Premium,,0,3,2023-01-04
+850,27c532be-a2bb-439d-9005-0e67ba64d88a,Wilson Cycling Pro,Sports & Outdoors,Cycling,Wilson,61.57,Mid-Range,5.0,1,2,2025-10-30
+851,31571fa1-7be6-44f3-8f41-fbc3361e2367,Wilson Pro Bike,Sports & Outdoors,Cycling,Wilson,40.55,Mid-Range,,0,1,2025-04-11
+852,319626f2-4728-4a27-be50-c20681a43c6c,Yeti Series6 Cycling,Sports & Outdoors,Cycling,Yeti,31.32,Mid-Range,,0,1,2023-08-10
+853,3ea4fffe-c11a-4d38-9dfd-a55452ede270,Spalding Cycling Pro,Sports & Outdoors,Cycling,Spalding,53.18,Mid-Range,4.0,1,2,2023-04-08
+854,4443c97f-0e31-4d06-8bce-d0987a75218e,Spalding Max6 Cycling,Sports & Outdoors,Cycling,Spalding,39.21,Mid-Range,3.5,2,66,2023-07-15
+855,61113e39-9a12-48a9-840b-dd7368dca11c,MSR Performance Cycling,Sports & Outdoors,Cycling,MSR,73.52,Mid-Range,3.0,1,9,2026-04-27
+856,6efab8db-f0a2-4fd3-acb9-d94610c2b4a1,Spalding Z15 Cycling,Sports & Outdoors,Cycling,Spalding,49.61,Mid-Range,5.0,1,1248,2025-05-16
+857,71445abc-2f0d-4ac2-8097-acb7a3823bc9,Wilson Cycling - Navy,Sports & Outdoors,Cycling,Wilson,37.73,Mid-Range,4.5,2,1,2023-06-19
+858,7ec422f7-73b9-4fe6-b2a2-2d379322c8f8,Wilson Performance Cycling,Sports & Outdoors,Cycling,Wilson,49.15,Mid-Range,,0,13,2025-05-10
+859,91c12924-bacf-4a8e-914c-fb8b46c3f45e,Yeti Cycling - Charcoal,Sports & Outdoors,Cycling,Yeti,80.1,Premium,,0,2,2024-11-19
+860,950d95f6-b403-4051-baa8-e633fa36f1f3,Spalding Cycling Pro,Sports & Outdoors,Cycling,Spalding,41.04,Mid-Range,3.5,6,1,2024-07-27
+861,974eff69-6e03-4e77-9d0b-8a21e70f5833,Wilson Performance Cycling,Sports & Outdoors,Cycling,Wilson,46.53,Mid-Range,3.5,4,282,2026-04-14
+862,a9d6a489-8f30-4dc2-91b9-3f9ab5d3d720,Wilson Performance Cycling,Sports & Outdoors,Cycling,Wilson,47.58,Mid-Range,,0,1,2023-06-23
+863,ab93bbb8-dbdb-4e0c-917d-7a7233953598,Wilson Cycling Pro,Sports & Outdoors,Cycling,Wilson,159.14,Premium,5.0,1,60,2023-05-17
+864,bd1f9455-5b75-4005-8a29-2c1b69600d17,Wilson Cycling - Brown,Sports & Outdoors,Cycling,Wilson,90.39,Premium,,0,1,2025-11-20
+865,c8b124f8-3e6a-401f-afbb-e94ba1d69e81,Theragun Cycling Pro,Sports & Outdoors,Cycling,Theragun,172.03,Premium,5.0,1,1,2023-09-13
+866,c92674b3-0417-4f4d-87e9-46dc38aa885e,Wilson Ultra Bike,Sports & Outdoors,Cycling,Wilson,49.59,Mid-Range,,0,4,2023-11-30
+867,00e04a62-b9a6-4bd4-ad1e-fc5ec979e5b5,Bowflex Adjustable Fitness Equipment,Sports & Outdoors,Fitness Equipment,Bowflex,82.24,Premium,,0,1,2025-07-09
+868,0540ebea-e3f5-484b-9c62-2f6f575c73a9,Wilson Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,53.33,Mid-Range,,0,1,2023-12-25
+869,05c7bc80-5996-4019-95b6-d400c7625334,Spalding Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Spalding,49.45,Mid-Range,3.0,1,1,2024-05-19
+870,0d71e3c4-15ba-42f3-a5d3-16957eec2c9c,Patagonia Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Patagonia,74.49,Mid-Range,5.0,1,1,2024-06-14
+871,26eadabe-15b0-4e41-9045-c64e24561fa0,Wilson Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,87.68,Premium,,0,1,2024-02-14
+872,370d21fc-9e17-4f91-be42-ab3f8891324a,CamelBak Adjustable Fitness Equipment,Sports & Outdoors,Fitness Equipment,CamelBak,60.93,Mid-Range,5.0,1,1,2026-04-17
+873,3dd4ff16-03ce-46f5-82c0-a73e937f0ba7,Coleman Adjustable Fitness Equipment,Sports & Outdoors,Fitness Equipment,Coleman,69.88,Mid-Range,4.0,1,1,2025-09-15
+874,57cbc49d-1a4e-4cc7-a5eb-31bd76037222,Wilson Pro2 Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,17.74,Budget,2.0,1,1,2025-04-01
+875,58fd8edb-60ef-4856-bf1f-644ffc133d12,Wilson Book19 Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,107.09,Premium,4.3,21,55,2023-11-22
+876,6e4e80df-8d3b-45c3-8f81-1ab758215ff8,Spalding Adjustable Fitness Equipment,Sports & Outdoors,Fitness Equipment,Spalding,46.64,Mid-Range,,0,2,2025-11-24
+877,74349029-5f56-4769-bfb9-4c151b0c3a2d,Wilson Air3 Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,100.77,Premium,,0,4,2025-05-17
+878,83193959-a250-4c8f-a4ac-62280593a762,Timberland Adjustable Fitness Equipment,Sports & Outdoors,Fitness Equipment,Timberland,88.66,Premium,5.0,1,1,2023-03-01
+879,9256e0fe-5645-4196-a875-26b97940487e,Coleman Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Coleman,37.82,Mid-Range,,0,2,2026-05-22
+880,9f37c7b4-34bb-46db-ab34-4b6ad2884c5f,Head Max1 Fitness Equipment,Sports & Outdoors,Fitness Equipment,Head,72.87,Mid-Range,,0,10,2024-05-30
+881,d5cef23f-a2f0-4644-bb6b-a60fd2dcc723,Spalding Adjustable Fitness Equipment,Sports & Outdoors,Fitness Equipment,Spalding,53.29,Mid-Range,4.5,2,8,2025-12-14
+882,dbe68f3f-99a8-4ef2-a103-908a6fca244d,Wilson Fitness Equipment Pro,Sports & Outdoors,Fitness Equipment,Wilson,49.13,Mid-Range,3.9,37,4,2024-10-31
+883,e9019929-566e-4350-9366-5173f5896890,Wilson Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,36.05,Mid-Range,3.3,7,1,2024-10-12
+884,fd2f2ff0-2363-4f9d-a8db-227bf021d16a,Theragun Fitness Equipment Pro,Sports & Outdoors,Fitness Equipment,Theragun,121.08,Premium,,0,1,2023-03-20
+885,107fe93b-2caa-4f40-8f85-aa22394e764b,Spalding Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,Spalding,151.39,Premium,,0,1,2024-10-09
+886,137ff7ca-7992-4c71-a79c-3afd67722810,REI Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,REI,101.82,Premium,,0,2,2023-02-18
+887,1774fa31-785b-4453-99a3-3165f15c3da4,Merrell Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,Merrell,83.76,Premium,5.0,1,1,2025-01-14
+888,1fbae5cb-547a-46a7-95bf-51000277f6fd,Wilson All-Weather Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,53.28,Mid-Range,5.0,1,2,2023-09-09
+889,3bf8cdc5-2100-42e6-be00-f01a35b00cfc,Wilson All-Weather Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,29.11,Mid-Range,,0,1,2024-07-21
+890,457f0c3f-7928-45c9-b050-bb57f0b9948c,Wilson Air13 Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,73.35,Mid-Range,,0,2,2025-05-03
+891,5a8b1881-9090-4cca-85fa-d95b8299ff75,Theragun Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,Theragun,63.68,Mid-Range,5.0,1,10,2025-09-03
+892,66482965-2b91-444a-a0ea-fb5318318687,Spalding Portable Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Spalding,78.12,Premium,4.0,1,1,2025-05-19
+893,775a6dea-7ab2-4918-87c1-6d53d8724d27,Columbia Portable Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Columbia,77.43,Premium,5.0,1,7,2024-04-23
+894,78a06385-d103-41bb-ae83-1019db361a37,Wilson Premium Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,72.51,Mid-Range,,0,1,2024-05-03
+895,8fb4064c-19c9-4176-818a-862d382ebe6c,Spalding Premium Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Spalding,53.89,Mid-Range,5.0,1,2,2023-02-01
+896,9355673e-e14a-4f36-b337-b757fade4478,Wilson Premium Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,59.63,Mid-Range,,0,1,2024-11-01
+897,a3189deb-09d2-47fd-8e45-40f52e03548e,Therm-a-Rest All-Weather Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Therm-a-Rest,25.15,Mid-Range,2.0,2,15,2023-02-16
+898,b2f92c9c-a3df-4ffa-bbca-e47ae8022fe2,Spalding Max10 Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Spalding,18.03,Budget,3.0,1,1,2023-01-08
+899,bb71ffdc-0c05-4aae-a196-5655cbc76e3a,Wilson Premium Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,73.67,Mid-Range,,0,2,2023-06-13
+900,c3f78b59-fd61-4c40-91f2-a5ae1e894b43,Wilson Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,Wilson,39.25,Mid-Range,,0,2,2026-05-03
+901,cc5aef7d-c5e6-4868-8cf4-8b73606a7391,Merrell Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,Merrell,100.34,Premium,,0,1,2023-11-26
+902,cc6547e1-7252-46bb-beac-f9a4a493dce0,Wilson Portable Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,45.63,Mid-Range,,0,1,2025-07-28
+903,dc0c376a-8c66-43f9-974c-c33e3b11ab14,Wilson Premium Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,122.98,Premium,4.0,4,2,2023-04-23
+904,dd7e72c3-f088-4a8d-955f-7ca4b2452cd6,Wilson Portable Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,51.94,Mid-Range,,0,2,2025-05-28
+905,deb02f90-cd6c-481c-9583-88195079bff4,Wilson Outdoor Recreation Set,Sports & Outdoors,Outdoor Recreation,Wilson,109.71,Premium,5.0,1,1,2023-08-08
+906,e02fe3f7-3668-4375-b761-bd50a67f3b71,Wilson Pro3 Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,91.47,Premium,4.0,1,5,2023-09-02
+907,e8748b29-4c82-432c-a088-3f0b612eb7d2,Yeti Portable Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Yeti,41.28,Mid-Range,,0,1,2025-07-02
+908,f7a18d7b-7709-4f0c-8e17-a97e31fff475,Wilson Premium Outdoor Recreation,Sports & Outdoors,Outdoor Recreation,Wilson,22.53,Mid-Range,5.0,1,20,2025-09-08
+909,0333c9f1-54bd-4d80-9fda-09280e528fc1,Wilson Pro Team Sport,Sports & Outdoors,Team Sports,Wilson,43.86,Mid-Range,2.0,1,2,2024-09-18
+910,18fdec23-2819-4e65-92f3-9f56135c40bf,Spalding Tournament Team Sport,Sports & Outdoors,Team Sports,Spalding,44.54,Mid-Range,4.0,1,3,2025-05-28
+911,326e8aff-46a4-46ea-80d0-04a1c1387ea1,Wilson Pro Team Sport,Sports & Outdoors,Team Sports,Wilson,52.04,Mid-Range,5.0,2,1,2023-10-31
+912,3dd241cc-231d-4821-9c7b-1e6f1ee2fe26,Wilson Official Team Sport,Sports & Outdoors,Team Sports,Wilson,114.71,Premium,,0,1,2025-07-27
+913,55b15233-1d46-4dd6-b3a8-37cd78b885fd,Spalding Team Sport Set,Sports & Outdoors,Team Sports,Spalding,146.01,Premium,4.0,2,2,2024-12-04
+914,6b615487-d7af-4988-9310-13a937e4ee2f,Spalding Tournament Team Sport,Sports & Outdoors,Team Sports,Spalding,55.18,Mid-Range,5.0,1,3,2026-05-12
+915,7eae57c1-c5f0-403f-94c2-adccd2e891d7,Wilson Max10 Team Sport,Sports & Outdoors,Team Sports,Wilson,78.13,Premium,,0,1,2025-08-16
+916,85e2028b-6e87-49c8-85b7-254138a8eba2,Wilson Team Sport Set,Sports & Outdoors,Team Sports,Wilson,47.05,Mid-Range,,0,1,2024-05-04
+917,a992e8f5-0eb1-458a-be7d-c48b015e8eb3,Spalding Team Sport Set,Sports & Outdoors,Team Sports,Spalding,28.68,Mid-Range,,0,2,2025-04-02
+918,acb66a10-72b5-4b52-b692-ceb7da8ce3f9,Coleman Team Sport Set,Sports & Outdoors,Team Sports,Coleman,119.06,Premium,3.3,3,2,2025-12-11
+919,c2e167b0-7512-4854-a8da-f1f3d8f6a0af,Wilson Pro Team Sport,Sports & Outdoors,Team Sports,Wilson,53.24,Mid-Range,3.5,2,1,2024-10-28
+920,dc05fcb5-a3a3-40d5-88c0-5c9314b1252d,Wilson Edge3 Team Sport,Sports & Outdoors,Team Sports,Wilson,54.81,Mid-Range,5.0,1,13,2023-09-22
+921,f18f9d8a-7dec-484e-a5b3-5519d04d719e,Columbia Pro Team Sport,Sports & Outdoors,Team Sports,Columbia,22.25,Mid-Range,,0,5,2023-06-22
+922,f4cc0e61-c082-4e87-a185-0cab28cf34d5,Coleman Team Sport Set,Sports & Outdoors,Team Sports,Coleman,93.44,Premium,4.0,1,1,2023-07-19
+923,040e5fe9-66c4-441e-bc3c-5d48d4a5500f,LEGO Air Jack Figure,Toys & Games,Action Figures,LEGO,23.79,Mid-Range,3.0,1,1,2023-07-26
+924,110a2ddd-f5aa-48b6-82ca-fc3073278426,Mattel Ultra Luna Figure,Toys & Games,Action Figures,Mattel,28.86,Mid-Range,5.0,1,1,2023-04-23
+925,132eb790-dc8b-4955-9ebd-d07c2c5d492c,LEGO Pro Deluxe Leo,Toys & Games,Action Figures,LEGO,32.04,Mid-Range,,0,1,2026-03-29
+926,2a7bba5f-219a-47a0-9a6d-071dd9124dbf,"LEGO Aria 13"" Figure",Toys & Games,Action Figures,LEGO,6.1,Budget,,0,1,2024-06-06
+927,310d8649-0566-46a3-b56d-03c1c64e9700,Barbie Max Deluxe Mia,Toys & Games,Action Figures,Barbie,20.67,Mid-Range,,0,1,2024-11-24
+928,31e0fdcb-41e0-43c9-bbf4-c5c76daa33aa,Hasbro Core Deluxe Sam,Toys & Games,Action Figures,Hasbro,52.63,Mid-Range,,0,1,2025-10-10
+929,355e61f8-67d0-4158-a39f-0d12f974eb60,LEGO Elite Jack Figure,Toys & Games,Action Figures,LEGO,32.85,Mid-Range,5.0,1,1,2025-10-06
+930,5d4ad04e-36bd-4988-a98d-d34720e44811,"LEGO Jack 27"" Figure",Toys & Games,Action Figures,LEGO,8.21,Budget,,0,3,2026-05-22
+931,5ee82ef3-18c6-44fe-9f19-ca96956bb2ac,Hasbro Luna Action Figure,Toys & Games,Action Figures,Hasbro,17.17,Budget,,0,1,2023-12-11
+932,6601b486-6f80-48d3-861c-7df85ef570ed,LEGO Jack Collectible,Toys & Games,Action Figures,LEGO,36.05,Mid-Range,4.0,1,2,2023-08-08
+933,b1ae4b31-7866-444a-8d59-c3310d967d7d,LEGO Jack Collectible,Toys & Games,Action Figures,LEGO,33.64,Mid-Range,4.5,2,2,2026-02-26
+934,b47d09df-cbf3-4a7e-a7dc-3d8fba9ede4c,LEGO Prime Deluxe Ella,Toys & Games,Action Figures,LEGO,10.62,Budget,3.9,14,11,2024-09-08
+935,bb974a6f-465d-40c6-90a3-5626ba8d207f,LEGO Essential Max Figure,Toys & Games,Action Figures,LEGO,24.04,Mid-Range,,0,2,2023-08-18
+936,bfc92c6a-bbfa-4c34-9965-ca1a344c386c,LEGO Prime Ella Figure,Toys & Games,Action Figures,LEGO,35.62,Mid-Range,5.0,1,23,2024-11-15
+937,c0e91f99-9cb4-4ee4-8ccc-06c6bb4f73a5,"LEGO Leo 15.6"" Figure",Toys & Games,Action Figures,LEGO,21.46,Mid-Range,4.5,6,1,2023-08-11
+938,ca57c0e0-2846-47a3-83eb-6b1f5542361f,Mattel Max Action Figure,Toys & Games,Action Figures,Mattel,52.57,Mid-Range,,0,1,2026-03-13
+939,cb5e6bbc-ea52-40e0-a731-ebca25c3e3d9,"Nerf Aria 27"" Figure",Toys & Games,Action Figures,Nerf,12.24,Budget,,0,1,2025-12-22
+940,cba1016f-3f2a-467a-b15a-452afc42b96a,LEGO Air Sam Figure,Toys & Games,Action Figures,LEGO,45.93,Mid-Range,1.0,1,1,2024-10-30
+941,d04b581e-dc6b-40e3-8e1e-0b29551b7950,Mattel Pro Deluxe Zoe,Toys & Games,Action Figures,Mattel,34.21,Mid-Range,,0,12,2023-09-03
+942,d3608459-9a62-4321-b3b2-07630461d632,"Mattel Zoe 16"" Figure",Toys & Games,Action Figures,Mattel,24.87,Mid-Range,,0,1,2023-08-24
+943,d774c7a8-e8a7-4379-a26e-2f1299b393fc,Nerf Luna Action Figure,Toys & Games,Action Figures,Nerf,25.49,Mid-Range,2.0,3,2,2024-06-30
+944,fa6a90c7-9768-4283-8a77-45ef0849d76e,LEGO Leo Action Figure,Toys & Games,Action Figures,LEGO,22.37,Mid-Range,,0,1,2025-05-21
+945,fb75d679-90cd-4a77-950c-e5ad2f32cb85,Minecraft Max Aria Figure,Toys & Games,Action Figures,Minecraft,21.23,Mid-Range,,0,1,2025-06-28
+946,16a8cdac-1a86-4857-bf41-2973fd32b7b7,LEGO Haven Board Game,Toys & Games,Board Games,LEGO,38.98,Mid-Range,4.5,2,1,2023-04-22
+947,551ce1f9-8010-4d50-81bd-ac1ce8f64f2d,Fisher-Price Ember Board Game,Toys & Games,Board Games,Fisher-Price,44.62,Mid-Range,3.0,1,2,2025-11-08
+948,5d1b02bb-80d1-4864-a481-dfc5678b4a54,LEGO Aura Family Game,Toys & Games,Board Games,LEGO,15.41,Budget,,0,2,2025-08-29
+949,6419c8ce-2987-4355-a943-906c673fa754,Mattel Nova Board Game,Toys & Games,Board Games,Mattel,11.26,Budget,,0,2,2023-02-20
+950,714a692d-b204-4b27-a002-d658f510d3df,LEGO Cascade Card Game,Toys & Games,Board Games,LEGO,42.08,Mid-Range,2.0,1,51,2023-07-26
+951,90b35eca-7917-449e-9622-e922a4aa430a,LEGO Elysium Family Game,Toys & Games,Board Games,LEGO,66.27,Mid-Range,5.0,1,1,2025-01-13
+952,ae3fe3bb-7a01-4c97-9e6a-943d8e185c3a,LEGO Elysium - Anniversary Edition,Toys & Games,Board Games,LEGO,114.42,Premium,5.0,1,4,2023-11-02
+953,b087b284-ed9a-41f3-8394-5f82b5d41503,LEGO Bloom Board Game,Toys & Games,Board Games,LEGO,15.09,Budget,4.0,1,3,2024-07-13
+954,b6614348-02eb-4b0c-8aba-cf011a2da55f,LEGO Aura Card Game,Toys & Games,Board Games,LEGO,19.66,Budget,2.5,2,4,2023-04-07
+955,b9b969ac-8784-497e-926f-34e2d550561c,Hasbro Drift Strategy Game,Toys & Games,Board Games,Hasbro,30.0,Mid-Range,,0,2,2024-11-11
+956,c5c94e3d-5437-457f-801e-fd332ee13b77,Hasbro Drift Card Game,Toys & Games,Board Games,Hasbro,12.08,Budget,5.0,1,9,2025-07-02
+957,c65ce806-95c0-4e36-a27d-70e4e9596219,Mattel Aura Family Game,Toys & Games,Board Games,Mattel,17.43,Budget,,0,1,2024-11-23
+958,c83525b6-5bdf-482a-9de8-f16ab90918d6,Fisher-Price Drift Board Game,Toys & Games,Board Games,Fisher-Price,25.03,Mid-Range,,0,1,2024-09-04
+959,d4ec9d46-efa3-457c-bbc8-ceab3cf99e7d,LEGO Cascade Strategy Game,Toys & Games,Board Games,LEGO,41.49,Mid-Range,4.0,1,1,2024-08-11
+960,f741bdc8-a739-4562-bd8a-a8af256bbaa3,Mattel Midnight Board Game,Toys & Games,Board Games,Mattel,52.99,Mid-Range,2.0,1,1,2024-05-26
+961,166ef0e4-8a5d-438f-b5a8-462610ab43b8,LEGO Bloom Building Set,Toys & Games,Educational Toys,LEGO,29.7,Mid-Range,,0,1,2025-01-13
+962,2dbb93cb-25b0-4b5d-820d-3e8877237f50,LEGO Midnight Learning Set,Toys & Games,Educational Toys,LEGO,30.99,Mid-Range,,0,1,2025-08-05
+963,450c8437-c219-4631-af54-5cfb3cc9701a,LEGO Cascade STEM Kit,Toys & Games,Educational Toys,LEGO,58.8,Mid-Range,,0,5,2024-03-19
+964,55752af4-afb4-4154-a769-858b5cc94a85,LEGO Cascade STEM Kit,Toys & Games,Educational Toys,LEGO,23.86,Mid-Range,,0,2,2025-12-26
+965,5602813d-2efe-4ec8-8a97-e294f5477cbf,LEGO Aura STEM Kit,Toys & Games,Educational Toys,LEGO,15.05,Budget,,0,1,2023-04-10
+966,6582625f-3f3e-4e8d-9df3-b5f539f52c35,Hot Wheels Aura Science Experiment,Toys & Games,Educational Toys,Hot Wheels,20.58,Mid-Range,5.0,1,3,2025-07-15
+967,82e46c00-73fc-4f52-8c42-59ea245bae9b,LEGO Velvet Building Set,Toys & Games,Educational Toys,LEGO,17.97,Budget,,0,8,2025-09-22
+968,8555fcc9-fb5a-4973-88c3-a6bc7c9fb145,LEGO Bloom Building Set,Toys & Games,Educational Toys,LEGO,70.65,Mid-Range,,0,3,2025-04-05
+969,86f1ab32-6529-41f6-a074-2c337c212318,LEGO Ember STEM Kit,Toys & Games,Educational Toys,LEGO,61.57,Mid-Range,,0,1,2023-01-29
+970,8c636ba0-32b9-47ab-8af3-141dd3a37160,Melissa & Doug Haven Coding Kit,Toys & Games,Educational Toys,Melissa & Doug,11.17,Budget,,0,1,2024-05-15
+971,8e14d0d5-2f93-4467-9a1c-6a1c585790c2,LEGO Haven Learning Set,Toys & Games,Educational Toys,LEGO,16.74,Budget,,0,1,2023-09-11
+972,906e3627-ad85-4eeb-a623-cda5723db451,LEGO Drift Science Experiment,Toys & Games,Educational Toys,LEGO,16.74,Budget,5.0,1,1,2025-04-22
+973,b603e662-1c53-4f3c-afed-7a8f43a94953,Fisher-Price Bloom Building Set,Toys & Games,Educational Toys,Fisher-Price,31.54,Mid-Range,,0,1,2023-09-30
+974,f9dc29bf-cc78-48d2-82bb-9a57861a022b,Nerf Midnight Science Experiment,Toys & Games,Educational Toys,Nerf,34.94,Mid-Range,4.5,4,3,2026-04-15
+975,fa7ae0d5-7551-4dc1-8be6-8d0a70240c6f,LEGO Aura Building Set,Toys & Games,Educational Toys,LEGO,56.34,Mid-Range,,0,1,2024-02-02
+976,fb63cbd7-3fa5-4f64-97a6-1e541f1c7e14,Hot Wheels Nova Coding Kit,Toys & Games,Educational Toys,Hot Wheels,25.71,Mid-Range,,0,8,2024-06-14
+977,0cfaca2f-c367-41ff-876d-0ddb18f06cb3,LEGO Cybersecurity 2000pc Puzzle,Toys & Games,Puzzles,LEGO,16.29,Budget,1.0,1,1,2024-12-11
+978,27a9f75a-1f73-4227-b0d7-d3ee904b3610,Mattel Cybersecurity 3000pc Puzzle,Toys & Games,Puzzles,Mattel,68.91,Mid-Range,,0,1,2023-01-31
+979,5dc6b916-6e20-41bd-bb51-1ca734ba2bbb,LEGO Machine Learning 1000pc Puzzle,Toys & Games,Puzzles,LEGO,38.35,Mid-Range,4.0,1,1,2023-02-17
+980,69160d6d-a5d0-4737-8f79-e024e4355e18,Hasbro Sunset 3000 Piece Puzzle,Toys & Games,Puzzles,Hasbro,97.76,Premium,4.0,1,3,2024-12-11
+981,6c3efa7c-6eba-49a8-a258-93bae1e9296b,Hasbro NLP 500pc Puzzle,Toys & Games,Puzzles,Hasbro,40.45,Mid-Range,,0,1,2025-02-12
+982,704d2633-0877-4ada-97c1-09c95c06e03d,Barbie Panoramic Statistics Puzzle,Toys & Games,Puzzles,Barbie,27.8,Mid-Range,5.0,2,3,2025-06-05
+983,79b0569d-e64a-4a4b-81de-2637d602782b,LEGO Panoramic Yoga Puzzle,Toys & Games,Puzzles,LEGO,20.83,Mid-Range,,0,1,2024-08-15
+984,7b8c373c-f7b7-42bf-9247-e6b6a1db27cd,LEGO 3D Haven Puzzle,Toys & Games,Puzzles,LEGO,71.77,Mid-Range,,0,2,2026-01-02
+985,9b59229e-4431-432d-9bf4-93a68396df69,LEGO 3D Bloom Puzzle,Toys & Games,Puzzles,LEGO,17.81,Budget,,0,1,2024-05-04
+986,a14610e4-bf78-48e8-92ad-564e71119087,Hot Wheels Panoramic Calculus Puzzle,Toys & Games,Puzzles,Hot Wheels,25.74,Mid-Range,,0,2,2023-07-06
+987,ab4802bb-ac5e-44df-bb6b-e910d5eb2206,LEGO Panoramic Software Engineering Puzzle,Toys & Games,Puzzles,LEGO,28.98,Mid-Range,5.0,1,12,2024-04-28
+988,bc7a0ca1-564a-47cf-a592-8c5e99a37981,LEGO Garden 1000 Piece Puzzle,Toys & Games,Puzzles,LEGO,62.21,Mid-Range,4.5,11,1,2025-12-22
+989,f889873f-297b-4fd9-b608-8e123c00483a,Fisher-Price Panoramic Machine Learning Puzzle,Toys & Games,Puzzles,Fisher-Price,31.46,Mid-Range,5.0,1,3,2026-03-10
+990,38685bcb-3aef-4d81-abeb-101f9beee4fd,Studio: A Comprehensive Guide,Toys & Games,Video Games,LEGO,43.11,Mid-Range,5.0,1,17,2024-07-04
+991,436415ea-332f-4be9-923e-d6bd2e82d833,A Robust Cipher Remastered,Toys & Games,Video Games,LEGO,25.47,Mid-Range,,0,2,2023-04-13
+992,597c2a80-73fc-4db9-a452-eef792d79b63,Max 4: A Hands-On Approach,Toys & Games,Video Games,LEGO,21.81,Mid-Range,,0,1,2025-01-07
+993,6de47591-d28c-45c7-8b9f-77b946d53172,The Modern Orbit Remastered,Toys & Games,Video Games,Mattel,31.65,Mid-Range,4.0,3,1,2023-07-02
+994,7adef156-b914-4e5c-9ef2-822e99a3252d,A Sleek Fusion - PlayStation 5 Edition,Toys & Games,Video Games,LEGO,31.66,Mid-Range,,0,1,2024-07-06
+995,8826d916-cdfb-41c6-81ff-91a761565a70,The Elite Cipher - PlayStation 5 Edition,Toys & Games,Video Games,Hasbro,12.93,Budget,,0,16,2024-09-04
+996,a96865f2-cc32-4cdc-9def-1ba8ddbfd160,The Superior Apex Remastered,Toys & Games,Video Games,LEGO,83.89,Premium,5.0,1,6,2025-02-16
+997,b1ecb01d-c9e6-4384-a51e-3478f1b9e050,A Ultimate Aurora - Xbox Series X Edition,Toys & Games,Video Games,Fisher-Price,22.47,Mid-Range,,0,7,2025-05-15
+998,ca0eca1f-ad50-48e3-a564-df255f470598,The Professional Vortex Remastered,Toys & Games,Video Games,Fisher-Price,10.01,Budget,5.0,2,2,2025-07-25
+999,f90833ef-1b54-4103-9584-9d2cd2bcca3a,An Robust Aurora - Nintendo Switch Edition,Toys & Games,Video Games,Mattel,28.12,Mid-Range,4.5,4,1,2024-07-04
+1000,ff5a11ee-d83f-4539-9987-2267186fbfd8,Max: The Definitive Guide,Toys & Games,Video Games,Fisher-Price,32.37,Mid-Range,,0,11,2025-12-11
