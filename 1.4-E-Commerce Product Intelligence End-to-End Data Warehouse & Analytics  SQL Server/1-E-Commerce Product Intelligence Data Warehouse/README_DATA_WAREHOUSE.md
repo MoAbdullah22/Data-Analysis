@@ -97,9 +97,6 @@ Three reporting views are built on top of the dimensional views:
 
 SQL Server, T-SQL, stored procedures, `BULK INSERT`, Medallion Architecture, data-quality checks, SQL views, and dimensional modeling.
 
-## Scope and Limitations
-
-This project uses synthetic data. The Gold layer consists of views, so it is queried from the underlying Silver data rather than refreshed by a separate Gold-table load. The project does not claim cloud orchestration, a real-time pipeline, or measured business improvements.
 
 ## Author
 
