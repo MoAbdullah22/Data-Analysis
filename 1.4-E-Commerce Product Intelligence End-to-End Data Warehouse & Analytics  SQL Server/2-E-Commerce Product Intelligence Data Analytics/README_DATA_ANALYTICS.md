@@ -56,9 +56,6 @@ The project includes query patterns for filtering, sorting, joins, aggregations,
 - Excel reporting outputs.
 - Documentation diagrams for architecture, data flow, and dimensional modeling.
 
-## Scope and Limitations
-
-The analysis uses synthetic e-commerce data. Findings describe patterns observed in the available data and should not be interpreted as causal effects or evidence of real-world business improvements.
 
 ## Author
 
